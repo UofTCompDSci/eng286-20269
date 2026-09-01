@@ -1,0 +1,42 @@
+version: 1
+project:
+  title: ENG 286 Fall 2026
+  toc:
+    - file: index.md
+      title: Home page
+    - title: "📓 Open notebooks in JupyterHub"
+      url: "https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUofTCompDSci%2Feng286-20269&urlpath=tree%2Feng286-20269%2F&branch=main"
+    - title: Week 1
+      children:
+        #- file: week01/lecture/W01_notes.ipynb
+        #  title: Lecture Notes
+        #- file: week01/lecture/poetry.ipynb
+        #  title: Poetry Generator Exercise
+        #- file: week01/practice/W01_practice.ipynb
+        #  title: Practice Exercises
+#    - title: Week 2
+#      children:
+#        - file: week02/lecture/W02_notes.ipynb
+#          title: Lecture Notes
+#    - title: Week 3
+#      children:
+#        - file: week03/lecture/W03_notes.ipynb
+#          title: Lecture Notes
+#        - file: week03/lab/W03_lab.ipynb
+#          title: Lab 3
+#    - title: Week 4
+#      children:
+#        - file: week04/lecture/W04_notes.ipynb
+#          title: Lecture Notes
+        #- file: week04/lecture/W04_lecture.ipynb
+        #  title: Lecture
+        #- file: week04/tutorial/W04_tutorial.ipynb
+        #  title: Tutorial 4
+        #- file: week04/lab/W04_lab.ipynb
+        #  title: Lab 4
+site:
+  template: book-theme
+  title: ENG 286 Fall 2026
+  options:
+    logo_text: ENG 286 Fall 2026
+    folders: true
