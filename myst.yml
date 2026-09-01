@@ -6,6 +6,12 @@ project:
       title: Home page
     - title: "📓 Open notebooks in JupyterHub"
       url: "https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUofTCompDSci%2Feng286-20269&urlpath=tree%2Feng286-20269%2F&branch=main"
+
+    - title: Resources
+      children:
+        - file: guides/jupyterhub_guide.ipynb
+        - file: guides/markus_guide.ipynb
+        - file: guides/pandas_quick_reference.ipynb
     - title: Week 1
       children:
         #- file: week01/lecture/W01_notes.ipynb
