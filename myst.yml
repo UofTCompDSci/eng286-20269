@@ -14,8 +14,10 @@ project:
         - file: guides/pandas_quick_reference.ipynb
     - title: Week 1
       children:
-        #- file: week01/lecture/W01_notes.ipynb
-        #  title: Lecture Notes
+        - file: week01/lecture/W01_notes.ipynb
+          title: Lecture Notes
+        - file: week01/lecture/W01_lecture.ipynb
+          title: Lecture Slides
         #- file: week01/lecture/poetry.ipynb
         #  title: Poetry Generator Exercise
         #- file: week01/practice/W01_practice.ipynb
