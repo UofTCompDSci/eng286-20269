@@ -20,8 +20,8 @@ project:
           title: Lecture Slides
         #- file: week01/lecture/poetry.ipynb
         #  title: Poetry Generator Exercise
-        #- file: week01/practice/W01_practice.ipynb
-        #  title: Practice Exercises
+        - file: week01/practice/W01_practice.ipynb
+          title: Practice Exercises
 #    - title: Week 2
 #      children:
 #        - file: week02/lecture/W02_notes.ipynb
