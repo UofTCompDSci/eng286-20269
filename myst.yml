@@ -26,6 +26,8 @@ project:
       children:
         - file: week02/lecture/W02_notes.ipynb
           title: Lecture Notes
+        - file: week02/lecture/W02_lecture.ipynb
+          title: Lecture Slides
         - file: week02/tutorial/W02_tutorial.ipynb
           title: Tutorial Notes
         - file: week02/practice/W02_practice.ipynb
