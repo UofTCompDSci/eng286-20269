@@ -32,12 +32,14 @@ project:
           title: Tutorial Notes
         - file: week02/practice/W02_practice.ipynb
           title: Practice Exercises
-#    - title: Week 3
-#      children:
+    - title: Week 3
+      children:
 #        - file: week03/lecture/W03_notes.ipynb
 #          title: Lecture Notes
-#        - file: week03/lab/W03_lab.ipynb
-#          title: Lab 3
+        - file: week03/tutorial/W03_tutorial.ipynb
+          title: Tutorial Notes
+        - file: week03/lab/W03_lab.ipynb
+          title: Lab 3
 #    - title: Week 4
 #      children:
 #        - file: week04/lecture/W04_notes.ipynb
