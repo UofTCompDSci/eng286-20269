@@ -34,8 +34,10 @@ project:
           title: Practice Exercises
     - title: Week 3
       children:
-#        - file: week03/lecture/W03_notes.ipynb
-#          title: Lecture Notes
+        - file: week03/lecture/W03_notes.ipynb
+          title: Lecture Notes
+        - file: week03/lecture/W03_lecture.ipynb
+          title: Lecture Slides
         - file: week03/tutorial/W03_tutorial.ipynb
           title: Tutorial Notes
         - file: week03/lab/W03_lab.ipynb
