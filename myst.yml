@@ -42,16 +42,16 @@ project:
           title: Tutorial Notes
         - file: week03/lab/W03_lab.ipynb
           title: Lab 3
-#    - title: Week 4
-#      children:
-#        - file: week04/lecture/W04_notes.ipynb
-#          title: Lecture Notes
+    - title: Week 4
+      children:
+        - file: week04/lecture/W04_notes.ipynb
+          title: Lecture Notes
         #- file: week04/lecture/W04_lecture.ipynb
         #  title: Lecture
-        #- file: week04/tutorial/W04_tutorial.ipynb
-        #  title: Tutorial 4
-        #- file: week04/lab/W04_lab.ipynb
-        #  title: Lab 4
+        - file: week04/tutorial/W04_tutorial.ipynb
+          title: Tutorial 4
+        - file: week04/lab/W04_lab.ipynb
+          title: Lab 4
 site:
   template: book-theme
   title: ENG 286 Fall 2026
