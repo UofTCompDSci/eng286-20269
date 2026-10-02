@@ -30,6 +30,8 @@ project:
           title: Lecture Slides
         - file: week02/tutorial/W02_tutorial.ipynb
           title: Tutorial Notes
+        - file: week02/tutorial/W02_tutorial_solution.ipynb
+          title: Tutorial Solutions
         - file: week02/practice/W02_practice.ipynb
           title: Practice Exercises
     - title: Week 3
@@ -40,6 +42,8 @@ project:
           title: Lecture Slides
         - file: week03/tutorial/W03_tutorial.ipynb
           title: Tutorial Notes
+        - file: week03/tutorial/W03_tutorial_solution.ipynb
+          title: Tutorial Solutions
         - file: week03/lab/W03_lab.ipynb
           title: Lab 3
     - title: Week 4
@@ -49,7 +53,9 @@ project:
         - file: week04/lecture/W04_lecture.ipynb
           title: Lecture
         - file: week04/tutorial/W04_tutorial.ipynb
-          title: Tutorial 4
+          title: Tutorial Notes
+        - file: week04/tutorial/W04_tutorial_solution.ipynb
+          title: Tutorial Solutions
         - file: week04/lab/W04_lab.ipynb
           title: Lab 4
 site:
