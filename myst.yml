@@ -58,6 +58,18 @@ project:
           title: Tutorial Solutions
         - file: week04/lab/W04_lab.ipynb
           title: Lab 4
+    - title: Week 5
+      children:
+        #- file: week05/lecture/W05_notes.ipynb
+          #title: Lecture Notes
+        #- file: week05/lecture/W05_lecture.ipynb
+          #title: Lecture
+        - file: week05/tutorial/W05_tutorial.ipynb
+          title: Tutorial Notes
+        #- file: week05/tutorial/W05_tutorial_solution.ipynb
+        #  title: Tutorial Solutions
+        - file: week05/lab/W05_lab.ipynb
+          title: Lab 5
 site:
   template: book-theme
   title: ENG 286 Fall 2026
