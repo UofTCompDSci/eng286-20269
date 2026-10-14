@@ -76,6 +76,12 @@ project:
           title: Tutorial Solutions
         - file: week05/lab/W05_lab.ipynb
           title: Lab 5
+    - title: Week 6
+      children:
+        - file: week06/lecture/W06_notes.ipynb
+          title: Lecture Notes
+        #- file: week06/lecture/W06_lecture.ipynb
+          #title: Lecture
 site:
   template: book-theme
   title: ENG 286 Fall 2026
