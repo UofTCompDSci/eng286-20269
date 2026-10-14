@@ -80,8 +80,8 @@ project:
       children:
         - file: week06/lecture/W06_notes.ipynb
           title: Lecture Notes
-        #- file: week06/lecture/W06_lecture.ipynb
-          #title: Lecture
+        - file: week06/lecture/W06_lecture.ipynb
+          title: Lecture
 site:
   template: book-theme
   title: ENG 286 Fall 2026
