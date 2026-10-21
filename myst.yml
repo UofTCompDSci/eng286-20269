@@ -86,8 +86,8 @@ project:
       children:
         - file: week07/lecture/W07_notes.ipynb
           title: Lecture Notes
-        #- file: week07/lecture/W07_lecture.ipynb
-        #  title: Lecture
+        - file: week07/lecture/W07_lecture.ipynb
+          title: Lecture
         - file: week07/tutorial/W07_tutorial.ipynb
           title: Tutorial Notes
         #- file: week07/tutorial/W07_tutorial_solution.ipynb
