@@ -82,6 +82,18 @@ project:
           title: Lecture Notes
         - file: week06/lecture/W06_lecture.ipynb
           title: Lecture
+    - title: Week 7
+      children:
+        - file: week07/lecture/W07_notes.ipynb
+          title: Lecture Notes
+        #- file: week07/lecture/W07_lecture.ipynb
+        #  title: Lecture
+        - file: week07/tutorial/W07_tutorial.ipynb
+          title: Tutorial Notes
+        #- file: week07/tutorial/W07_tutorial_solution.ipynb
+        #  title: Tutorial Solutions
+        - file: week07/lab/W07_lab.ipynb
+          title: Lab 5
 site:
   template: book-theme
   title: ENG 286 Fall 2026
