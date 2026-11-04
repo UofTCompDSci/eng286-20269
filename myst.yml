@@ -90,10 +90,22 @@ project:
           title: Lecture
         - file: week07/tutorial/W07_tutorial.ipynb
           title: Tutorial Notes
-        #- file: week07/tutorial/W07_tutorial_solution.ipynb
-        #  title: Tutorial Solutions
+        - file: week07/tutorial/W07_tutorial_solution.ipynb
+          title: Tutorial Solutions
         - file: week07/lab/W07_lab.ipynb
-          title: Lab 5
+          title: Lab 7
+    - title: Week 8
+      children:
+        - file: week08/lecture/W08_notes.ipynb
+          title: Lecture Notes
+        #- file: week08/lecture/W08_lecture.ipynb
+        #  title: Lecture
+        - file: week08/tutorial/W08_tutorial.ipynb
+          title: Tutorial Notes
+        #- file: week08/tutorial/W08_tutorial_solution.ipynb
+          #title: Tutorial Solutions
+        - file: week08/lab/W08_lab.ipynb
+          title: Lab 8
 site:
   template: book-theme
   title: ENG 286 Fall 2026
