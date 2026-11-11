@@ -111,7 +111,7 @@ project:
     - title: Week 9
       children:
         #- file: week09/lecture/W09_notes.ipynb
-          #title: Lecture Notes
+        #  title: Lecture Notes
         #- file: week09/lecture/W09_lecture.ipynb
         # title: Lecture Slides
         - file: week09/tutorial/W09_tutorial.ipynb
