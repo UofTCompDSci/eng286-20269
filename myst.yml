@@ -16,6 +16,8 @@ project:
       children:
         - file: tests/TT1_study_guide.ipynb
           title: Term Test 1 Study Guide
+        #- file: tests/TT2_study_guide.ipynb
+          #title: Term Test 2 Study Guide
     - title: Week 1
       children:
         - file: week01/lecture/W01_notes.ipynb
@@ -102,10 +104,20 @@ project:
           title: Lecture Slides
         - file: week08/tutorial/W08_tutorial.ipynb
           title: Tutorial Notes
-        #- file: week08/tutorial/W08_tutorial_solution.ipynb
-          #title: Tutorial Solutions
+        - file: week08/tutorial/W08_tutorial_solution.ipynb
+          title: Tutorial Solutions
         - file: week08/lab/W08_lab.ipynb
           title: Lab 8
+    - title: Week 9
+      children:
+        #- file: week09/lecture/W09_notes.ipynb
+          #title: Lecture Notes
+        #- file: week09/lecture/W09_lecture.ipynb
+        # title: Lecture Slides
+        - file: week09/tutorial/W09_tutorial.ipynb
+          title: Tutorial Notes
+        #- file: week09/tutorial/W09_tutorial_solution.ipynb
+          #title: Tutorial Solutions
 site:
   template: book-theme
   title: ENG 286 Fall 2026
