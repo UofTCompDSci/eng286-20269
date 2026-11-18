@@ -116,6 +116,10 @@ project:
           title: Tutorial Notes
         - file: week09/tutorial/W09_tutorial_solution.ipynb
           title: Tutorial Solutions
+    - title: Week 10
+      children:
+        - file: week10/lecture/W10_notes.ipynb
+          title: Lecture Notes
 site:
   template: book-theme
   title: ENG 286 Fall 2026

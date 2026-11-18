@@ -1,0 +1,137 @@
+artist,album,track,title,raw_file,clean_file,word_count,instrumental_note
+boygenius,The Record,1,Without You Without Them,raw/boygenius/the_record/01_without_you_without_them.txt,clean/boygenius/the_record/01_without_you_without_them.txt,116,FALSE
+boygenius,The Record,2,$20 ,raw/boygenius/the_record/02_20.txt,clean/boygenius/the_record/02_20.txt,292,FALSE
+boygenius,The Record,3,Emily I'm Sorry,raw/boygenius/the_record/03_emily_i_m_sorry.txt,clean/boygenius/the_record/03_emily_i_m_sorry.txt,202,FALSE
+boygenius,The Record,4,True Blue,raw/boygenius/the_record/04_true_blue.txt,clean/boygenius/the_record/04_true_blue.txt,245,FALSE
+boygenius,The Record,5,Cool About It,raw/boygenius/the_record/05_cool_about_it.txt,clean/boygenius/the_record/05_cool_about_it.txt,210,FALSE
+boygenius,The Record,6,Not Strong Enough,raw/boygenius/the_record/06_not_strong_enough.txt,clean/boygenius/the_record/06_not_strong_enough.txt,230,FALSE
+boygenius,The Record,7,Revolution,raw/boygenius/the_record/07_revolution.txt,clean/boygenius/the_record/07_revolution.txt,144,FALSE
+boygenius,The Record,8,Leonard Cohen,raw/boygenius/the_record/08_leonard_cohen.txt,clean/boygenius/the_record/08_leonard_cohen.txt,145,FALSE
+boygenius,The Record,9,Satanist,raw/boygenius/the_record/09_satanist.txt,clean/boygenius/the_record/09_satanist.txt,168,FALSE
+boygenius,The Record,10,We're In Love,raw/boygenius/the_record/10_we_re_in_love.txt,clean/boygenius/the_record/10_we_re_in_love.txt,292,FALSE
+boygenius,The Record,11,Anti-Curse,raw/boygenius/the_record/11_anti_curse.txt,clean/boygenius/the_record/11_anti_curse.txt,136,FALSE
+boygenius,The Record,13,Not Strong Enough Notebook,raw/boygenius/the_record/13_not_strong_enough_notebook.txt,clean/boygenius/the_record/13_not_strong_enough_notebook.txt,230,FALSE
+boygenius,The Record,12,Letter To An Old Poet,raw/boygenius/the_record/12_letter_to_an_old_poet.txt,clean/boygenius/the_record/12_letter_to_an_old_poet.txt,172,FALSE
+boygenius,Boygenius,1,Bite the Hand,raw/boygenius/boygenius/01_bite_the_hand.txt,clean/boygenius/boygenius/01_bite_the_hand.txt,299,FALSE
+boygenius,Boygenius,2,Me & My Dog,raw/boygenius/boygenius/02_me_and_my_dog.txt,clean/boygenius/boygenius/02_me_and_my_dog.txt,145,FALSE
+boygenius,Boygenius,3,Souvenir,raw/boygenius/boygenius/03_souvenir.txt,clean/boygenius/boygenius/03_souvenir.txt,102,FALSE
+boygenius,Boygenius,4,Stay Down,raw/boygenius/boygenius/04_stay_down.txt,clean/boygenius/boygenius/04_stay_down.txt,157,FALSE
+boygenius,Boygenius,5,Salt in the Wound,raw/boygenius/boygenius/05_salt_in_the_wound.txt,clean/boygenius/boygenius/05_salt_in_the_wound.txt,188,FALSE
+boygenius,Boygenius,6,"Ketchum, ID",raw/boygenius/boygenius/06_ketchum_id.txt,clean/boygenius/boygenius/06_ketchum_id.txt,152,FALSE
+boygenius,The Rest,1,Black Hole,raw/boygenius/the_rest/01_black_hole.txt,clean/boygenius/the_rest/01_black_hole.txt,90,FALSE
+boygenius,The Rest,2,Afraid of Heights,raw/boygenius/the_rest/02_afraid_of_heights.txt,clean/boygenius/the_rest/02_afraid_of_heights.txt,268,FALSE
+boygenius,The Rest,3,Voyager,raw/boygenius/the_rest/03_voyager.txt,clean/boygenius/the_rest/03_voyager.txt,160,FALSE
+boygenius,The Rest,4,Powers,raw/boygenius/the_rest/04_powers.txt,clean/boygenius/the_rest/04_powers.txt,145,FALSE
+phoebe_bridgers,Stranger in the Alps,1,Smoke Signals,raw/phoebe_bridgers/stranger_in_the_alps/01_smoke_signals.txt,clean/phoebe_bridgers/stranger_in_the_alps/01_smoke_signals.txt,278,FALSE
+phoebe_bridgers,Stranger in the Alps,2,Motion Sickness,raw/phoebe_bridgers/stranger_in_the_alps/02_motion_sickness.txt,clean/phoebe_bridgers/stranger_in_the_alps/02_motion_sickness.txt,253,FALSE
+phoebe_bridgers,Stranger in the Alps,3,Funeral,raw/phoebe_bridgers/stranger_in_the_alps/03_funeral.txt,clean/phoebe_bridgers/stranger_in_the_alps/03_funeral.txt,196,FALSE
+phoebe_bridgers,Stranger in the Alps,4,Demi Moore,raw/phoebe_bridgers/stranger_in_the_alps/04_demi_moore.txt,clean/phoebe_bridgers/stranger_in_the_alps/04_demi_moore.txt,122,FALSE
+phoebe_bridgers,Stranger in the Alps,5,Scott Street,raw/phoebe_bridgers/stranger_in_the_alps/05_scott_street.txt,clean/phoebe_bridgers/stranger_in_the_alps/05_scott_street.txt,158,FALSE
+phoebe_bridgers,Stranger in the Alps,6,Killer,raw/phoebe_bridgers/stranger_in_the_alps/06_killer.txt,clean/phoebe_bridgers/stranger_in_the_alps/06_killer.txt,173,FALSE
+phoebe_bridgers,Stranger in the Alps,7,Georgia,raw/phoebe_bridgers/stranger_in_the_alps/07_georgia.txt,clean/phoebe_bridgers/stranger_in_the_alps/07_georgia.txt,181,FALSE
+phoebe_bridgers,Stranger in the Alps,8,Chelsea,raw/phoebe_bridgers/stranger_in_the_alps/08_chelsea.txt,clean/phoebe_bridgers/stranger_in_the_alps/08_chelsea.txt,283,FALSE
+phoebe_bridgers,Stranger in the Alps,9,Would You Rather,raw/phoebe_bridgers/stranger_in_the_alps/09_would_you_rather.txt,clean/phoebe_bridgers/stranger_in_the_alps/09_would_you_rather.txt,187,FALSE
+phoebe_bridgers,Stranger in the Alps,10,You Missed My Heart,raw/phoebe_bridgers/stranger_in_the_alps/10_you_missed_my_heart.txt,clean/phoebe_bridgers/stranger_in_the_alps/10_you_missed_my_heart.txt,253,FALSE
+phoebe_bridgers,Stranger in the Alps,11,Smoke Signals (Reprise),raw/phoebe_bridgers/stranger_in_the_alps/11_smoke_signals_reprise.txt,clean/phoebe_bridgers/stranger_in_the_alps/11_smoke_signals_reprise.txt,19,TRUE
+phoebe_bridgers,Punisher,1,DVD Menu,raw/phoebe_bridgers/punisher/01_dvd_menu.txt,clean/phoebe_bridgers/punisher/01_dvd_menu.txt,0,TRUE
+phoebe_bridgers,Punisher,2,Garden Song,raw/phoebe_bridgers/punisher/02_garden_song.txt,clean/phoebe_bridgers/punisher/02_garden_song.txt,220,FALSE
+phoebe_bridgers,Punisher,3,Kyoto,raw/phoebe_bridgers/punisher/03_kyoto.txt,clean/phoebe_bridgers/punisher/03_kyoto.txt,210,FALSE
+phoebe_bridgers,Punisher,4,Punisher,raw/phoebe_bridgers/punisher/04_punisher.txt,clean/phoebe_bridgers/punisher/04_punisher.txt,213,FALSE
+phoebe_bridgers,Punisher,5,Halloween,raw/phoebe_bridgers/punisher/05_halloween.txt,clean/phoebe_bridgers/punisher/05_halloween.txt,172,FALSE
+phoebe_bridgers,Punisher,6,Chinese Satellite,raw/phoebe_bridgers/punisher/06_chinese_satellite.txt,clean/phoebe_bridgers/punisher/06_chinese_satellite.txt,214,FALSE
+phoebe_bridgers,Punisher,7,Moon Song,raw/phoebe_bridgers/punisher/07_moon_song.txt,clean/phoebe_bridgers/punisher/07_moon_song.txt,184,FALSE
+phoebe_bridgers,Punisher,8,Savior Complex,raw/phoebe_bridgers/punisher/08_savior_complex.txt,clean/phoebe_bridgers/punisher/08_savior_complex.txt,142,FALSE
+phoebe_bridgers,Punisher,9,ICU,raw/phoebe_bridgers/punisher/09_icu.txt,clean/phoebe_bridgers/punisher/09_icu.txt,184,FALSE
+phoebe_bridgers,Punisher,10,Graceland Too,raw/phoebe_bridgers/punisher/10_graceland_too.txt,clean/phoebe_bridgers/punisher/10_graceland_too.txt,230,FALSE
+phoebe_bridgers,Punisher,11,I Know the End,raw/phoebe_bridgers/punisher/11_i_know_the_end.txt,clean/phoebe_bridgers/punisher/11_i_know_the_end.txt,326,FALSE
+phoebe_bridgers,Lost Weekend,1,The Outside,raw/phoebe_bridgers/lost_weekend/01_the_outside.txt,clean/phoebe_bridgers/lost_weekend/01_the_outside.txt,94,FALSE
+phoebe_bridgers,Lost Weekend,2,Lost Boys,raw/phoebe_bridgers/lost_weekend/02_lost_boys.txt,clean/phoebe_bridgers/lost_weekend/02_lost_boys.txt,237,FALSE
+phoebe_bridgers,Lost Weekend,3,Kill Me,raw/phoebe_bridgers/lost_weekend/03_kill_me.txt,clean/phoebe_bridgers/lost_weekend/03_kill_me.txt,95,FALSE
+phoebe_bridgers,Lost Weekend,4,The Governor's Waltz,raw/phoebe_bridgers/lost_weekend/04_the_governor_s_waltz.txt,clean/phoebe_bridgers/lost_weekend/04_the_governor_s_waltz.txt,187,FALSE
+phoebe_bridgers,Lost Weekend,5,Bobby,raw/phoebe_bridgers/lost_weekend/05_bobby.txt,clean/phoebe_bridgers/lost_weekend/05_bobby.txt,228,FALSE
+phoebe_bridgers,Lost Weekend,6,Lost Weekend,raw/phoebe_bridgers/lost_weekend/06_lost_weekend.txt,clean/phoebe_bridgers/lost_weekend/06_lost_weekend.txt,180,FALSE
+phoebe_bridgers,Lost Weekend,7,Haunted,raw/phoebe_bridgers/lost_weekend/07_haunted.txt,clean/phoebe_bridgers/lost_weekend/07_haunted.txt,193,FALSE
+phoebe_bridgers,Lost Weekend,8,Panorama,raw/phoebe_bridgers/lost_weekend/08_panorama.txt,clean/phoebe_bridgers/lost_weekend/08_panorama.txt,28,FALSE
+phoebe_bridgers,Lost Weekend,9,Still Standing,raw/phoebe_bridgers/lost_weekend/09_still_standing.txt,clean/phoebe_bridgers/lost_weekend/09_still_standing.txt,172,FALSE
+phoebe_bridgers,Lost Weekend,10,Liberty Tree,raw/phoebe_bridgers/lost_weekend/10_liberty_tree.txt,clean/phoebe_bridgers/lost_weekend/10_liberty_tree.txt,145,FALSE
+phoebe_bridgers,Lost Weekend,11,Never Going Back!,raw/phoebe_bridgers/lost_weekend/11_never_going_back.txt,clean/phoebe_bridgers/lost_weekend/11_never_going_back.txt,158,FALSE
+phoebe_bridgers,Lost Weekend,12,Other Plans,raw/phoebe_bridgers/lost_weekend/12_other_plans.txt,clean/phoebe_bridgers/lost_weekend/12_other_plans.txt,80,FALSE
+phoebe_bridgers,Lost Weekend,13,Lost Parade,raw/phoebe_bridgers/lost_weekend/13_lost_parade.txt,clean/phoebe_bridgers/lost_weekend/13_lost_parade.txt,0,TRUE
+phoebe_bridgers,Lost Weekend,14,I Can't Wait,raw/phoebe_bridgers/lost_weekend/14_i_can_t_wait.txt,clean/phoebe_bridgers/lost_weekend/14_i_can_t_wait.txt,88,FALSE
+phoebe_bridgers,Lost Weekend,15,As Above,raw/phoebe_bridgers/lost_weekend/15_as_above.txt,clean/phoebe_bridgers/lost_weekend/15_as_above.txt,176,FALSE
+phoebe_bridgers,Lost Weekend,16,Lost Weekend (Reprise),raw/phoebe_bridgers/lost_weekend/16_lost_weekend_reprise.txt,clean/phoebe_bridgers/lost_weekend/16_lost_weekend_reprise.txt,130,FALSE
+julien_baker,Sprained Ankle,1,Blacktop,raw/julien_baker/sprained_ankle/01_blacktop.txt,clean/julien_baker/sprained_ankle/01_blacktop.txt,165,FALSE
+julien_baker,Sprained Ankle,2,Sprained Ankle,raw/julien_baker/sprained_ankle/02_sprained_ankle.txt,clean/julien_baker/sprained_ankle/02_sprained_ankle.txt,93,FALSE
+julien_baker,Sprained Ankle,3,Brittle Boned,raw/julien_baker/sprained_ankle/03_brittle_boned.txt,clean/julien_baker/sprained_ankle/03_brittle_boned.txt,108,FALSE
+julien_baker,Sprained Ankle,4,Everybody Does,raw/julien_baker/sprained_ankle/04_everybody_does.txt,clean/julien_baker/sprained_ankle/04_everybody_does.txt,131,FALSE
+julien_baker,Sprained Ankle,5,Good News,raw/julien_baker/sprained_ankle/05_good_news.txt,clean/julien_baker/sprained_ankle/05_good_news.txt,167,FALSE
+julien_baker,Sprained Ankle,6,Something,raw/julien_baker/sprained_ankle/06_something.txt,clean/julien_baker/sprained_ankle/06_something.txt,241,FALSE
+julien_baker,Sprained Ankle,7,Rejoice,raw/julien_baker/sprained_ankle/07_rejoice.txt,clean/julien_baker/sprained_ankle/07_rejoice.txt,157,FALSE
+julien_baker,Sprained Ankle,8,Vessels,raw/julien_baker/sprained_ankle/08_vessels.txt,clean/julien_baker/sprained_ankle/08_vessels.txt,79,FALSE
+julien_baker,Sprained Ankle,9,Go Home,raw/julien_baker/sprained_ankle/09_go_home.txt,clean/julien_baker/sprained_ankle/09_go_home.txt,224,FALSE
+julien_baker,Turn Out the Lights,1,Over,raw/julien_baker/turn_out_the_lights/01_over.txt,clean/julien_baker/turn_out_the_lights/01_over.txt,0,TRUE
+julien_baker,Turn Out the Lights,2,Appointments,raw/julien_baker/turn_out_the_lights/02_appointments.txt,clean/julien_baker/turn_out_the_lights/02_appointments.txt,239,FALSE
+julien_baker,Turn Out the Lights,3,Turn Out the Lights,raw/julien_baker/turn_out_the_lights/03_turn_out_the_lights.txt,clean/julien_baker/turn_out_the_lights/03_turn_out_the_lights.txt,148,FALSE
+julien_baker,Turn Out the Lights,4,Shadowboxing,raw/julien_baker/turn_out_the_lights/04_shadowboxing.txt,clean/julien_baker/turn_out_the_lights/04_shadowboxing.txt,193,FALSE
+julien_baker,Turn Out the Lights,5,Sour Breath,raw/julien_baker/turn_out_the_lights/05_sour_breath.txt,clean/julien_baker/turn_out_the_lights/05_sour_breath.txt,240,FALSE
+julien_baker,Turn Out the Lights,6,Televangelist,raw/julien_baker/turn_out_the_lights/06_televangelist.txt,clean/julien_baker/turn_out_the_lights/06_televangelist.txt,134,FALSE
+julien_baker,Turn Out the Lights,7,Everything To Help You Sleep,raw/julien_baker/turn_out_the_lights/07_everything_to_help_you_sleep.txt,clean/julien_baker/turn_out_the_lights/07_everything_to_help_you_sleep.txt,195,FALSE
+julien_baker,Turn Out the Lights,8,Happy to Be Here,raw/julien_baker/turn_out_the_lights/08_happy_to_be_here.txt,clean/julien_baker/turn_out_the_lights/08_happy_to_be_here.txt,257,FALSE
+julien_baker,Turn Out the Lights,9,Hurt Less,raw/julien_baker/turn_out_the_lights/09_hurt_less.txt,clean/julien_baker/turn_out_the_lights/09_hurt_less.txt,236,FALSE
+julien_baker,Turn Out the Lights,10,Even,raw/julien_baker/turn_out_the_lights/10_even.txt,clean/julien_baker/turn_out_the_lights/10_even.txt,227,FALSE
+julien_baker,Turn Out the Lights,11,Claws in Your Back,raw/julien_baker/turn_out_the_lights/11_claws_in_your_back.txt,clean/julien_baker/turn_out_the_lights/11_claws_in_your_back.txt,163,FALSE
+julien_baker,Little Oblivions,1,Hardline,raw/julien_baker/little_oblivions/01_hardline.txt,clean/julien_baker/little_oblivions/01_hardline.txt,201,FALSE
+julien_baker,Little Oblivions,2,Heatwave,raw/julien_baker/little_oblivions/02_heatwave.txt,clean/julien_baker/little_oblivions/02_heatwave.txt,160,FALSE
+julien_baker,Little Oblivions,3,Faith Healer,raw/julien_baker/little_oblivions/03_faith_healer.txt,clean/julien_baker/little_oblivions/03_faith_healer.txt,114,FALSE
+julien_baker,Little Oblivions,4,Relative Fiction,raw/julien_baker/little_oblivions/04_relative_fiction.txt,clean/julien_baker/little_oblivions/04_relative_fiction.txt,238,FALSE
+julien_baker,Little Oblivions,5,Crying Wolf,raw/julien_baker/little_oblivions/05_crying_wolf.txt,clean/julien_baker/little_oblivions/05_crying_wolf.txt,183,FALSE
+julien_baker,Little Oblivions,6,Bloodshot,raw/julien_baker/little_oblivions/06_bloodshot.txt,clean/julien_baker/little_oblivions/06_bloodshot.txt,167,FALSE
+julien_baker,Little Oblivions,7,Ringside,raw/julien_baker/little_oblivions/07_ringside.txt,clean/julien_baker/little_oblivions/07_ringside.txt,201,FALSE
+julien_baker,Little Oblivions,8,Favor,raw/julien_baker/little_oblivions/08_favor.txt,clean/julien_baker/little_oblivions/08_favor.txt,210,FALSE
+julien_baker,Little Oblivions,9,Song in E,raw/julien_baker/little_oblivions/09_song_in_e.txt,clean/julien_baker/little_oblivions/09_song_in_e.txt,118,FALSE
+julien_baker,Little Oblivions,10,Repeat,raw/julien_baker/little_oblivions/10_repeat.txt,clean/julien_baker/little_oblivions/10_repeat.txt,140,FALSE
+julien_baker,Little Oblivions,11,Highlight Reel,raw/julien_baker/little_oblivions/11_highlight_reel.txt,clean/julien_baker/little_oblivions/11_highlight_reel.txt,137,FALSE
+julien_baker,Little Oblivions,12,Ziptie,raw/julien_baker/little_oblivions/12_ziptie.txt,clean/julien_baker/little_oblivions/12_ziptie.txt,131,FALSE
+lucy_dacus,No Burden,1,I Don't Wanna Be Funny Anymore,raw/lucy_dacus/no_burden/01_i_don_t_wanna_be_funny_anymore.txt,clean/lucy_dacus/no_burden/01_i_don_t_wanna_be_funny_anymore.txt,160,FALSE
+lucy_dacus,No Burden,2,Troublemaker Doppelgänger,raw/lucy_dacus/no_burden/02_troublemaker_doppelg_nger.txt,clean/lucy_dacus/no_burden/02_troublemaker_doppelg_nger.txt,296,FALSE
+lucy_dacus,No Burden,3,"Green Eyes, Red Face",raw/lucy_dacus/no_burden/03_green_eyes_red_face.txt,clean/lucy_dacus/no_burden/03_green_eyes_red_face.txt,134,FALSE
+lucy_dacus,No Burden,4,Strange Torpedo,raw/lucy_dacus/no_burden/04_strange_torpedo.txt,clean/lucy_dacus/no_burden/04_strange_torpedo.txt,162,FALSE
+lucy_dacus,No Burden,5,Dream State...,raw/lucy_dacus/no_burden/05_dream_state.txt,clean/lucy_dacus/no_burden/05_dream_state.txt,208,FALSE
+lucy_dacus,No Burden,6,Trust,raw/lucy_dacus/no_burden/06_trust.txt,clean/lucy_dacus/no_burden/06_trust.txt,165,FALSE
+lucy_dacus,No Burden,7,Map on a Wall,raw/lucy_dacus/no_burden/07_map_on_a_wall.txt,clean/lucy_dacus/no_burden/07_map_on_a_wall.txt,357,FALSE
+lucy_dacus,No Burden,8,Direct Address,raw/lucy_dacus/no_burden/08_direct_address.txt,clean/lucy_dacus/no_burden/08_direct_address.txt,268,FALSE
+lucy_dacus,No Burden,9,...Familiar Place,raw/lucy_dacus/no_burden/09_familiar_place.txt,clean/lucy_dacus/no_burden/09_familiar_place.txt,86,FALSE
+lucy_dacus,Historian,1,Night Shift,raw/lucy_dacus/historian/01_night_shift.txt,clean/lucy_dacus/historian/01_night_shift.txt,342,FALSE
+lucy_dacus,Historian,2,Addictions,raw/lucy_dacus/historian/02_addictions.txt,clean/lucy_dacus/historian/02_addictions.txt,238,FALSE
+lucy_dacus,Historian,3,The Shell,raw/lucy_dacus/historian/03_the_shell.txt,clean/lucy_dacus/historian/03_the_shell.txt,192,FALSE
+lucy_dacus,Historian,4,Nonbeliever,raw/lucy_dacus/historian/04_nonbeliever.txt,clean/lucy_dacus/historian/04_nonbeliever.txt,213,FALSE
+lucy_dacus,Historian,5,Yours & Mine,raw/lucy_dacus/historian/05_yours_and_mine.txt,clean/lucy_dacus/historian/05_yours_and_mine.txt,326,FALSE
+lucy_dacus,Historian,6,Body to Flame,raw/lucy_dacus/historian/06_body_to_flame.txt,clean/lucy_dacus/historian/06_body_to_flame.txt,123,FALSE
+lucy_dacus,Historian,7,Timefighter,raw/lucy_dacus/historian/07_timefighter.txt,clean/lucy_dacus/historian/07_timefighter.txt,151,FALSE
+lucy_dacus,Historian,8,Next of Kin,raw/lucy_dacus/historian/08_next_of_kin.txt,clean/lucy_dacus/historian/08_next_of_kin.txt,279,FALSE
+lucy_dacus,Historian,9,Pillar of Truth,raw/lucy_dacus/historian/09_pillar_of_truth.txt,clean/lucy_dacus/historian/09_pillar_of_truth.txt,244,FALSE
+lucy_dacus,Historian,10,Historians,raw/lucy_dacus/historian/10_historians.txt,clean/lucy_dacus/historian/10_historians.txt,104,FALSE
+lucy_dacus,Home Video,1,Hot & Heavy,raw/lucy_dacus/home_video/01_hot_and_heavy.txt,clean/lucy_dacus/home_video/01_hot_and_heavy.txt,320,FALSE
+lucy_dacus,Home Video,2,Christine,raw/lucy_dacus/home_video/02_christine.txt,clean/lucy_dacus/home_video/02_christine.txt,174,FALSE
+lucy_dacus,Home Video,3,First Time,raw/lucy_dacus/home_video/03_first_time.txt,clean/lucy_dacus/home_video/03_first_time.txt,285,FALSE
+lucy_dacus,Home Video,4,VBS,raw/lucy_dacus/home_video/04_vbs.txt,clean/lucy_dacus/home_video/04_vbs.txt,280,FALSE
+lucy_dacus,Home Video,5,Cartwheel,raw/lucy_dacus/home_video/05_cartwheel.txt,clean/lucy_dacus/home_video/05_cartwheel.txt,236,FALSE
+lucy_dacus,Home Video,6,Thumbs,raw/lucy_dacus/home_video/06_thumbs.txt,clean/lucy_dacus/home_video/06_thumbs.txt,293,FALSE
+lucy_dacus,Home Video,7,Going Going Gone,raw/lucy_dacus/home_video/07_going_going_gone.txt,clean/lucy_dacus/home_video/07_going_going_gone.txt,232,FALSE
+lucy_dacus,Home Video,8,Partner in Crime,raw/lucy_dacus/home_video/08_partner_in_crime.txt,clean/lucy_dacus/home_video/08_partner_in_crime.txt,267,FALSE
+lucy_dacus,Home Video,9,Brando,raw/lucy_dacus/home_video/09_brando.txt,clean/lucy_dacus/home_video/09_brando.txt,285,FALSE
+lucy_dacus,Home Video,10,Please Stay,raw/lucy_dacus/home_video/10_please_stay.txt,clean/lucy_dacus/home_video/10_please_stay.txt,214,FALSE
+lucy_dacus,Home Video,11,Triple Dog Dare,raw/lucy_dacus/home_video/11_triple_dog_dare.txt,clean/lucy_dacus/home_video/11_triple_dog_dare.txt,444,FALSE
+lucy_dacus,Forever Is a Feeling,1,Calliope Prelude,raw/lucy_dacus/forever_is_a_feeling/01_calliope_prelude.txt,clean/lucy_dacus/forever_is_a_feeling/01_calliope_prelude.txt,0,TRUE
+lucy_dacus,Forever Is a Feeling,2,Big Deal,raw/lucy_dacus/forever_is_a_feeling/02_big_deal.txt,clean/lucy_dacus/forever_is_a_feeling/02_big_deal.txt,267,FALSE
+lucy_dacus,Forever Is a Feeling,3,Ankles,raw/lucy_dacus/forever_is_a_feeling/03_ankles.txt,clean/lucy_dacus/forever_is_a_feeling/03_ankles.txt,225,FALSE
+lucy_dacus,Forever Is a Feeling,4,Limerence,raw/lucy_dacus/forever_is_a_feeling/04_limerence.txt,clean/lucy_dacus/forever_is_a_feeling/04_limerence.txt,168,FALSE
+lucy_dacus,Forever Is a Feeling,5,Modigliani,raw/lucy_dacus/forever_is_a_feeling/05_modigliani.txt,clean/lucy_dacus/forever_is_a_feeling/05_modigliani.txt,295,FALSE
+lucy_dacus,Forever Is a Feeling,6,Talk,raw/lucy_dacus/forever_is_a_feeling/06_talk.txt,clean/lucy_dacus/forever_is_a_feeling/06_talk.txt,197,FALSE
+lucy_dacus,Forever Is a Feeling,7,For Keeps,raw/lucy_dacus/forever_is_a_feeling/07_for_keeps.txt,clean/lucy_dacus/forever_is_a_feeling/07_for_keeps.txt,128,FALSE
+lucy_dacus,Forever Is a Feeling,8,Forever Is a Feeling,raw/lucy_dacus/forever_is_a_feeling/08_forever_is_a_feeling.txt,clean/lucy_dacus/forever_is_a_feeling/08_forever_is_a_feeling.txt,184,FALSE
+lucy_dacus,Forever Is a Feeling,9,Come Out,raw/lucy_dacus/forever_is_a_feeling/09_come_out.txt,clean/lucy_dacus/forever_is_a_feeling/09_come_out.txt,368,FALSE
+lucy_dacus,Forever Is a Feeling,10,Best Guess,raw/lucy_dacus/forever_is_a_feeling/10_best_guess.txt,clean/lucy_dacus/forever_is_a_feeling/10_best_guess.txt,254,FALSE
+lucy_dacus,Forever Is a Feeling,11,Bullseye by Lucy Dacus & Hozier,raw/lucy_dacus/forever_is_a_feeling/11_bullseye_by_lucy_dacus_and_hozier.txt,clean/lucy_dacus/forever_is_a_feeling/11_bullseye_by_lucy_dacus_and_hozier.txt,303,FALSE
+lucy_dacus,Forever Is a Feeling,12,Most Wanted Man,raw/lucy_dacus/forever_is_a_feeling/12_most_wanted_man.txt,clean/lucy_dacus/forever_is_a_feeling/12_most_wanted_man.txt,398,FALSE
+lucy_dacus,Forever Is a Feeling,13,Lost Time,raw/lucy_dacus/forever_is_a_feeling/13_lost_time.txt,clean/lucy_dacus/forever_is_a_feeling/13_lost_time.txt,316,FALSE

@@ -1,0 +1,9025 @@
+﻿Table of Contents 
+Context        5
+Goal        5
+Boygenius Albums        5
+Phoebe Bridgers Albums        6
+Julien Baker Albums        7
+Lucy Dacus Albums        8
+Boygenius Lyrics        9
+The Record        9
+1. Without You Without Them        9
+2. $20        10
+3. Emily I'm Sorry        12
+4. True Blue        13
+5. Cool About It        15
+6. Not Strong Enough        16
+7. Revolution        18
+8. Leonard Cohen        19
+9. Satanist        20
+10. We're In Love        21
+11. Anti-Curse        23
+12. Letter To An Old Poet        24
+Boygenius        25
+1. Bite the Hand        25
+3. Souvenir        27
+4. Stay Down        28
+5. Salt in the Wound        29
+6. Ketchum, ID        31
+The Rest        32
+1. Black Hole        32
+2. Afraid of Heights        33
+3. Voyager        34
+4. Powers        35
+Phoebe Bridgers Lyrics        36
+Stranger in the Alps        36
+1. Smoke Signals        36
+2. Motion Sickness        38
+3. Funeral        39
+4. Demi Moore        41
+5. Scott Street        42
+6. Killer        43
+7. Georgia        44
+8. Chelsea        46
+9. Would You Rather        47
+10. You Missed My Heart        49
+11. Smoke Signals (Reprise)        50
+Punisher        50
+1. DVD Menu        50
+2. Garden Song        50
+3. Kyoto        51
+4. Punisher        53
+5. Halloween        54
+6. Chinese Satellite        55
+7. Moon Song        57
+8. Savior Complex        58
+9. ICU        59
+10. Graceland Too        60
+11. I Know the End        61
+Lost Weekend        64
+1. The Outside        64
+2. Lost Boys        65
+3. Kill Me        67
+4. The Governor's Waltz        68
+5. Bobby        69
+6. Lost Weekend        71
+7. Haunted        72
+8. Panorama        73
+9. Still Standing        73
+10. Liberty Tree        75
+11. Never Going Back!        76
+12. Other Plans        77
+13. Lost Parade        77
+14. I Can't Wait        77
+15. As Above        78
+Julien Baker Lyrics        81
+Sprained Ankle        81
+1. Blacktop        81
+2. Sprained Ankle        82
+3. Brittle Boned        82
+4. Everybody Does        83
+5. Good News        83
+6. Something        84
+7. Rejoice        85
+8. Vessels        86
+9. Go Home        87
+Turn Out the Lights        88
+1. Over        88
+2. Appointments        88
+3. Turn Out the Lights        89
+4. Shadowboxing        90
+5. Sour Breath        91
+6. Televangelist        92
+7. Everything To Help You Sleep        93
+8. Happy to Be Here        94
+9. Hurt Less        95
+10. Even        96
+11. Claws in Your Back        97
+Little Oblivions        98
+1. Hardline        98
+2. Heatwave        100
+3. Faith Healer        100
+4. Relative Fiction        101
+5. Crying Wolf        102
+6. Bloodshot        103
+7. Ringside        104
+8. Favor        105
+9. Song in E        107
+10. Repeat        107
+11. Highlight Reel        108
+12. Ziptie        109
+Lucy Dacus Lyrics        110
+No Burden        110
+1. I Don't Wanna Be Funny Anymore        110
+2. Troublemaker Doppelgänger        111
+3. Green Eyes, Red Face        112
+4. Strange Torpedo        113
+5. Dream State...        113
+6. Trust        115
+7. Map on a Wall        115
+8. Direct Address        117
+9. ...Familiar Place        118
+Historian        118
+1. Night Shift        119
+2. Addictions        120
+3. The Shell        121
+4. Nonbeliever        122
+5. Yours & Mine        123
+6. Body to Flame        125
+7. Timefighter        125
+8. Next of Kin        126
+9. Pillar of Truth        128
+10. Historians        129
+Home Video        130
+1. Hot & Heavy        130
+2. Christine        132
+3. First Time        132
+4. VBS        134
+5. Cartwheel        135
+6. Thumbs        136
+7. Going Going Gone        138
+8. Partner in Crime        139
+9. Brando        141
+10. Please Stay        142
+11. Triple Dog Dare        144
+Forever Is a Feeling        146
+1. Calliope Prelude        146
+2. Big Deal        146
+3. Ankles        147
+4. Limerence        149
+5. Modigliani        149
+6. Talk        151
+7. For Keeps        152
+8. Forever Is a Feeling        153
+9. Come Out        155
+10. Best Guess        156
+11. Bullseye by Lucy Dacus & Hozier        158
+12. Most Wanted Man        160
+13. Lost Time        162
+
+
+Context 
+* Boygenis us made up of Phoebe Bridgers, Julian Baker, and Lucy Dacus. I included each of  their solo albums and the band's album (The Record) and their two EPS. 
+
+
+* https://www.reddit.com/r/phoebebridgers/comments/12asfcy/not_strong_enough_lyrics_authorship/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 – Reddit post talking about the booklet from The Record and who wrote what. 
+
+
+* Lyrics from: https://genius.com/
+
+
+* https://slate.com/culture/2023/03/boygenius-record-phoebe-bridgers-album-review.html
+
+
+* https://www.trillmag.com/entertainment/music/the-books-behind-boygenius-a-deep-dive-into-the-indie-supergroups-album-the-record/
+
+
+
+
+Goal
+
+
+* To determine who wrote what  section of The Record lyrics using stylometry. 
+* To then compare our findings to the booklet. 
+Boygenius Albums 
+Record 
+	Release Date 
+	Album or EP 
+	Song Titles 
+	The Record 
+	March 31, 2023
+	Album 
+	1. Without You Without Them
+2. $20 
+3. Emily I'm Sorry
+4. True Blue 
+5. Cool About It
+6. Not Strong Enough
+7. Revolution 
+8. Leonard Cohen 
+9. Satanist 
+10. We're In Love
+11. Anti-Curse
+12. Letter To An Old Poet
+	Boygenius 
+	October 26, 2018
+	EP
+	1. Bite the Hand 
+2. Me & My Dog 
+3. Souvenir 
+4. Stay Down 
+5. Salt in the Wound
+6. Ketchum, ID 
+	The Rest 
+	October 13, 2023
+	EP 
+	1. Black Hole 
+2. Afraid of Heights 
+3. Voyager 
+4. Powers 
+	
+
+Phoebe Bridgers Albums 
+
+
+Record 
+	Release Date 
+	Album or EP 
+	Song Titles 
+	Stranger in the Alps
+	September 22, 2017
+	Album 
+	1. Smoke Signals 
+2. Motion Sickness 
+3. Funeral 
+4. Demi Moore 
+5. Scott Street
+6. Killer 
+7. Georgia 
+8. Chelsea 
+9. Would You Rather 
+10. You Missed My Heart 
+11. Smoke Signals (Reprise)
+	Punisher
+	June 17, 2020
+	Album
+	1. DVD Menu 
+2. Garden Song
+3. Kyoto 
+4. Punisher 
+5. Halloween
+6. Chinese Satellite
+7. Moon Song 
+8. Savior Complex 
+9. ICU 
+10. Graceland Too 
+11. I Know the End 
+	Lost Weekend
+	August 14, 2026
+	Album 
+	1. The Outside 
+2. Lost Boys 
+3. Kill Me 
+4. The Governor's Waltz
+5. Bobby 
+6. Lost Weekend
+7. Haunted
+8. Panorama
+9. Still Standing
+Liberty Tree 
+10. Never Going Back!
+11. Other Plans
+Lost Parade 
+12. I Can't Wait
+As Above 
+13. Lost Weekend (Reprise) 
+
+
+	
+
+Julien Baker Albums 
+
+
+Record 
+	Release Date 
+	Album or EP 
+	Song Titles 
+	Sprained Ankle
+	 October 23, 2015
+	
+
+	   1. Blacktop 
+   2. Sprained Ankle 
+   3. Brittle Boned 
+   4. Everybody Does
+   5. Good News 
+   6. Something 
+   7. Rejoice 
+   8. Vessels 
+   9. Go Home 
+	Turn Out the Lights
+	October 27, 2017
+	
+
+	   1. Over 
+   2. Appointments 
+   3. Turn Out the Lights 
+   4. Shadowboxing 
+   5. Sour Breath 
+   6. Televangelist 
+   7. Everything To Help You Sleep 
+   8. Happy to Be Here 
+   9. Hurt Less 
+   10. Even 
+   11. Claws in Your Back 
+	Little Oblivions
+	February 26, 2021
+	
+
+	   1. Hardline 
+   2. Heatwave 
+   3. Faith Healer 
+   4. Relative Fiction 
+   5. Crying Wolf 
+   6. Bloodshot 
+   7. Ringside 
+   8. Favor
+   9. Song in E 
+   10. Repeat 
+   11. Highlight Reel 
+   12. Ziptie
+
+
+	
+
+
+
+Lucy Dacus Albums 
+
+
+Record 
+	Release Date 
+	Album or EP 
+	Song Titles 
+	No Burden
+	February 26, 2016
+
+
+	
+
+	   1. I Don't Wanna Be Funny Anymore 
+   2. Troublemaker Doppelgänger 
+   3. Green Eyes, Red Face 
+   4. Strange Torpedo 
+   5. Dream State... 
+   6. Trust 
+   7. Map on a Wall 
+   8. Direct Address 
+   9. ...Familiar Place 
+	Historian
+	March 2, 2018
+
+
+	
+
+	   1. Night Shift 
+   2. Addictions
+   3. The Shell 
+   4. Nonbeliever
+   5. Yours & Mine 
+   6. Body to Flame 
+   7. Timefighter 
+   8. Next of Kin 
+   9. Pillar of Truth 
+   10. Historians 
+
+
+	Home Video
+	June 25, 2021
+
+
+	
+
+	   1. Hot & Heavy
+   2. Christine 
+   3. First Time 
+   4. VBS 
+   5. Cartwheel 
+   6. Thumbs 
+   7. Going Going Gone 
+   8. Partner in Crime 
+   9. Brando 
+   10. Please Stay 
+   11. Triple Dog Dare 
+
+
+	Forever Is a Feeling
+	March 28, 2025
+	
+
+	   1. Calliope Prelude 
+   2. Big Deal
+   3. Ankles 
+   4. Limerence 
+   5. Modigliani
+   6. Talk 
+   7. For Keeps 
+   8. Forever Is a Feeling 
+   9. Come Out
+Best Guess 
+   10. Bullseye by Lucy Dacus & Hozier
+Most Wanted Man 
+   11. Lost Time 
+
+
+	
+
+Boygenius Lyrics
+The Record
+
+
+      1. Without You Without Them
+
+
+[Verse 1: All, Dacus]
+Give me everything you've got
+I'll take what I can get
+
+
+I want to hear your story
+And be a part of it
+
+
+Thank your father before you
+His mother before him
+
+
+Who would I be without you, without them?
+
+
+[Chorus: Dacus, Bridgers, Baker, All]
+Speak to me (Speak to me, speak to me)
+Until your history's no mystery to me
+Talk to me (Talk to me, talk to me)
+Until the words run dry, we'll see eye to eye
+
+
+[Verse 2: All]
+I'll give everything I've got
+Please take what I can give
+I want you to hеar my story
+And be a part of it
+
+
+Thank my father beforе me
+His mother before him
+Who would I be without you, without them?
+
+
+      2. $20 
+
+
+[Verse 1: Baker, Baker & Bridgers, All]
+It's a bad idea and I'm all about it
+
+
+Give it one more chance and
+Then I finally had it
+
+
+When you wake up, I'll be gone again
+Motorcycle in the front lawn
+
+
+[Verse 2: Baker, Baker & Dacus, Baker & Bridgers, All]
+It's an all-night drive from your house to Reno
+
+
+To the T-bird graveyard where we play with fire
+In another life, we were arsonists
+How long's the Chevy been on cinder blocks?
+
+
+[Bridge: Baker, All]
+Mama told me that it don't run on wishes
+But that I should have fun
+
+
+Pushing the flowers that come up
+Into the front of a shotgun
+So many hills to die on
+
+
+
+
+[Chorus: Baker, Dacus, Bridgers]
+
+
+Run out of gas, out of time, out of money
+You're doing what you can, just makin' it run
+
+
+(Take a break, make your escape)
+
+
+Gas, out of time, out of money
+You're doing what you can, just makin' it run
+
+
+(There's only so much I can)
+
+
+(Take a break, make your escape)
+
+
+(May I please have twenty dollars?)
+
+
+Gas, out of time, out of money
+You're doing what you can, just makin' it run
+
+
+(There's only so much I can)
+
+
+(Take a break, make your escape)
+
+
+(Can you give me twenty dollars?)
+
+
+Gas, out of time, out of money
+You're doing what you can, just makin' it run
+
+
+(There's only so much I can)
+
+
+(Take a break, make your escape)
+
+
+Gas, out of time, out of money
+You're doing what you can, just makin' it run
+
+
+(There's only so much I can)
+
+
+(Take a break, make your escape)
+
+
+(I know you have twenty dollars)
+(I know you have twenty dollars)
+
+
+[Outro: Baker]
+Wait on me, I'm not ready
+I still have to change, have to change, have to change
+Wait on me, I'm not ready
+I still have to change, have to change, have to
+
+
+      3. Emily I'm Sorry
+
+
+[Verse 1: Bridgers]
+She's asleep in the back seat
+
+
+Looking peaceful enough to me
+
+
+But she's wakin' up inside a dream
+Full of screeching tires and fire
+
+
+We're comin' back from where no one lives
+Pretty much just veterans
+
+
+When I pointed out where the North Star is
+
+
+She called me a fuckin' liar
+
+
+
+
+[Chorus: Bridgers, Dacus & Baker, Bridgers & Dacus, All]
+Emily, I'm sorry, I just (Emily, I)
+
+
+Make it up
+as I go along
+
+
+And I can feel myself becoming (I can feel)
+Someone
+only you could want
+
+
+
+
+[Verse 2: Bridgers]
+Headed straight for the concrete
+In a nightmare, screaming
+
+
+Now I'm wide awake, spiraling
+And you don't wanna talk
+
+
+Just take me back to Montreal
+
+
+I'll get a real job, you'll go back to school
+
+
+We can burn out in the freezing cold
+
+
+And just get lost
+
+
+[Chorus: Bridgers, Dacus & Baker, Bridgers & Dacus, All]
+Emily, I'm sorry, baby (Emily, I)
+
+
+You know how I get when I'm wrong (You know how I get)
+
+
+And I can feel myself becoming (I can feel)
+Somebody I'm not, I'm not, so
+
+
+Emily, forgive me, can we (Emily, I)
+
+
+Make it up as we go along?
+
+
+I'm twenty-seven and I don't know who I am (Don't know who I am)
+
+
+But I know what I want
+
+
+
+
+[Outro: Bridgers]
+Emily, I'm sorry
+Emily, I'm sorry
+I'm sorry
+
+
+      4. True Blue 
+
+
+[Verse 1: Dacus, Dacus & Baker]
+You said you wanted to feel alive
+
+
+So we went to the beach
+
+
+You were born in July '95
+
+
+In a deadly heat
+
+
+You say you're a winter bitch
+But summer's in your blood
+You can't help but become the sun
+
+
+
+
+[Verse 2: Dacus, Dacus & Baker, All]
+When you moved to Chicago
+
+
+You were spinnin' out
+
+
+When you don't know who you are
+You fuck around and find out
+
+
+When you called me from the train
+
+
+Water freezin' in your eyes
+
+
+You were happy and I wasn't surprised
+
+
+
+
+[Chorus: All]
+And it feels good to be known so well
+
+
+I can't hide from you like I hide from myself
+
+
+
+
+[Verse 3: Dacus, All]
+Now you're movin' in
+Breakin' a sweat on your upper lip
+And gettin' pissed about humidity
+
+
+And the leaky faucet
+
+
+You already hurt my feelings three times
+In the way only you could
+
+
+
+
+[Chorus: All]
+But it feels good to be known so well
+
+
+I can't hide from you like I hide from myself
+
+
+I remember who I am when I'm with you
+
+
+Your love is tough, your love is tried and true-blue
+
+
+Blue
+
+
+[Bridge: Dacus & Bridgers, All, Dacus]
+You've never done me wrong, except for that one time
+That we don't talk about
+Because it doesn't matter anymore
+
+
+Who won the fight? I don't know
+
+
+We're not keeping score
+
+
+
+
+[Chorus: All]
+And it feels good to be known so well
+
+
+I can't hide from you like I hide from myself
+
+
+I remember who I am when I'm with you
+Your love is tough, your love is tried and true-blue
+
+
+[Outro: All]
+Blue
+Blue
+Blue
+
+
+
+
+      5. Cool About It
+
+
+[Verse 1: Baker]
+Met you at the dive bar to go shoot some pool
+
+
+And make fun of the cowboys with the neck tattoos
+
+
+Ask you easy questions about work and school
+
+
+
+
+[Chorus: Baker]
+I'm trying to be cool about it
+Feelin' like an absolute fool about it
+
+
+Wishin' you were kind enough to be cruel about it
+
+
+Tellin' myself I can always do without it
+Knowing that it probably isn't true
+
+
+
+
+[Verse 2: Dacus, All]
+I came prepared for absolution, if you'd only ask
+So I take some offense when you say, "No regrets"
+
+
+I remember it's impossible to pass your test
+
+
+
+
+[Chorus: All, Dacus]
+But I'm trying to forget about it
+
+
+Feelin' like I'm breaking a sweat about it
+Wishin' you would kindly get out of my head about it
+
+
+Tеllin' myself, one day, I'll forget about it
+Knowing that it probably isn't truе
+
+
+[Verse 3: Bridgers, All]
+Once, I took your medication to know what it's like
+And now I have to act like I can't read your mind
+I ask you how you're doing and I let you lie
+
+
+[Chorus: All]
+But we don't have to talk about it
+I can walk you home and practice method acting
+I'll pretend bein' with you doesn't feel like drowning
+Tellin' you it's nice to see how good you're doing
+Even though we know it isn't true
+
+
+
+
+      6. Not Strong Enough
+
+
+[Verse 1: Bridgers]
+
+
+Black hole opened in the kitchen
+
+
+Every clock's a different time
+It would only take the energy to fix it
+
+
+I don't know why I am
+
+
+[Chorus: Bridgers, Bridgers & Baker]
+The way I am
+Not strong enough to be your man
+
+
+I tried, I can't
+Stop staring at the ceiling fan and
+
+
+Spinning out about things that haven't happened
+
+
+Breathing in and out
+
+
+
+
+[Verse 2: Baker]
+Drag racing through the canyon
+
+
+Singing "Boys Don't Cry"
+
+
+Do you see us getting scraped up off the pavement?
+
+
+I don't know why I am
+
+
+[Chorus: Baker, Baker & Bridgers]
+
+
+The way I am
+Not strong enough to be your man
+
+
+I lied, I am
+Just lowering your expectations
+
+
+Half a mind that keeps the other second-guessing
+Close my eyеs and count
+
+
+[Bridge: Dacus, Dacus & Bridgers, All]
+
+
+Always an angel, never a god
+Always an angеl, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+Always an angel, never a god
+
+
+[Chorus: Dacus, All]
+
+
+I don't know why I am the way I am
+
+
+There's something in the static
+
+
+I think I've been having revelations
+
+
+Coming to in the front seat, nearly empty
+
+
+Skip the exit to our old street and go home
+Go home alone
+
+
+      7. Revolution 
+
+
+[Intro: Bridgers]
+Mm, mm, mm, mm
+
+
+[Verse 1: Bridgers]
+Imaginary friend, you live up in my head
+
+
+So I've been making music
+Since you told me to do it
+
+
+I just wanna know who broke your nose
+
+
+Figure out where they live
+So I can kick their teeth in
+
+
+
+
+[Chorus: All]
+If it isn’t love
+Then what the fuck is it?
+
+
+I guess just let me pretend
+
+
+
+
+[Verse 2: Bridgers]
+I don't wanna die, that's a lie
+But I’m afraid to get sick
+
+
+I don't know what that is
+You wanted a song
+So it's gonna be a short one
+
+
+Wish I wasn't so tired, but I'm tired
+
+
+
+
+[Chorus: All]
+If you're not enough
+Then I give up
+
+
+And then, nothing is
+
+
+[Bridge: All]
+Ah, ah, ah, ah
+Ah, ah, ah, ah
+Oh, oh, oh, oh
+Ah, ah, ah, ah
+
+
+[Outro: Bridgers, Baker]
+I used to think
+If I just closed my eyes
+I'd disappear
+
+
+(There's absolutеly nothing going on)
+(Okay)
+
+
+      8. Leonard Cohen 
+
+
+[Verse 1: Dacus]
+
+
+On the on-ramp, you said
+"If you love me, you will listen to this song"
+And I could tell that you were serious
+So I didn't tell you you were driving the wrong way
+On the interstate until the song was done
+
+
+You felt like an idiot adding an hour to the drive
+
+
+But it gave us more time to embarrass ourselves
+Tellin' stories we wouldn't tell anyone else
+
+
+
+
+[Chorus: All, Dacus]
+You said, "I might like you less now that you know me so well"
+I might like you less now that you know me so well
+
+
+[Verse 2: Dacus]
+
+
+Leonard Cohen once said
+"There's a crack in everything, that's how the light gets in"
+
+
+And I am not an old man having an existential crisis
+At a Buddhist monastery writing horny poetry
+But I agree
+
+
+
+
+[Chorus: Dacus, All]
+I never thought you'd happen to me
+I never thought you'd happen to me
+
+
+
+
+      9. Satanist 
+
+
+[Verse 1: Baker, All]
+Will you be a Satanist with me?
+
+
+Mortgage off your soul to buy your dream
+Vacation home in Florida
+The collateral the Devil's repossessin' from me
+Tryin' to score some off-brand ecstasy
+
+
+
+
+[Verse 2: Bridgers, All]
+Will you be an anarchist with me?
+
+
+Sleep in cars and kill the bourgeoisie
+
+
+At least until you find out what a fake I am
+Spray paint my initials on an ATM
+I burn my cash and smash my old TV
+
+
+
+
+[Instrumental Break]
+
+
+[Verse 3: Dacus, All, Bridgers]
+Will you be a nihilist with me?
+If nothin' matters, man, that's a relief
+Solomon had a point when he wrote "Ecclesiastes"
+If nothing can be known, then stupidity is holy
+
+
+If the void becomes a bore, we'll treat ourselves to some self-belief
+
+
+(Oh, you know what I should do?)
+
+
+[Instrumental Break]
+
+
+[Outro: All]
+You wonder
+If you can even be seen
+
+
+From so far away
+A slow pull
+A seismic drift
+Leaning over the edge of the continent
+It's so hard to come back
+
+
+You hang on
+Until it drags
+You under, you under
+You under, you under
+
+
+      10. We're In Love
+
+
+[Verse 1: Dacus]
+You could absolutely break my heart
+That's how I know that we're in love
+
+
+I don't need the symbol of a scar
+So put down the knife, we're not swapping blood
+
+
+Isn't it enough that we stripped down to our skin?
+Cold and porcelain like bathers in a painting
+
+
+And I told you of your past lives, every man you've ever been
+
+
+It wasn't flattering, but you listened like it mattered
+
+
+
+
+[Chorus: Dacus]
+I feel crazy in ways I never say
+Will you still love me if it turns out I'm insane?
+I know what you'll say, but it helps to hear you say it anyway
+
+
+
+
+[Verse 2: Dacus]
+Some October in the future, I'll run out of trash TV
+
+
+And I'll be feeling lonely, so I'll walk to karaokе
+
+
+Sing the song you wrote about me, nеver once checking the words
+
+
+I hope that no one sings along, I hope that I'm not a regular
+
+
+
+
+[Chorus: Dacus]
+Damn, that makes me sad
+It doesn't have to be like that
+
+
+If you rewrite your life, may I still play a part?
+
+
+[Verse 3: Dacus]
+In the next one, will you find me?
+
+
+I'll be the boy with the pink carnation pinned to my lapel
+
+
+Who looks like hell and asks for help
+
+
+And if you do, I'll know it's you
+I can't imagine you without the same smile in your eyes
+
+
+There is somethin' about you that I will always recognize
+
+
+And if you don't remember
+I will try to remind you of the hummingbirds
+
+
+[Bridge: All, Dacus, Bridgers & Baker]
+You know the ones (I know the ones)
+And the baby scorpion
+And the winter lunar halo
+And the walk we took in the Redwoods
+
+
+[Outro: Dacus, All]
+
+
+I could go on and on and on and I will
+Go on and on and on until
+
+
+It all comes back
+
+
+      11. Anti-Curse
+
+
+[Verse 1: Baker]
+Gettin' deep
+I'm out of my depth at a public beach
+I never listened, I had to see for myself
+It's comin' in waves
+
+
+Shoots through my mind like a pinball strayed
+Friendly fire, point-blank
+
+
+Salt in my lungs
+
+
+Holdin' my breath
+Makin' peace with my inevitable death
+
+
+
+
+[Chorus: All, Baker]
+I guess I did alright considering
+Tried to be a halfway decent friend
+Wound up a bad comedian
+
+
+An honest fool
+with more bad habits
+Than you can count
+
+
+[Verse 2: All, Baker]
+There we were
+Was anyone ever so young?
+
+
+Breakin' curfew with illegal fireworks
+
+
+Unpackin' God in the suburbs
+
+
+I'm swimmin' back
+Say
+you don't havе to make it bad
+
+
+Just 'cause you know how
+
+
+[Outro: Baker]
+Writin' the words
+To thе worst love song you've ever heard
+
+
+Soundin' out the foreign characters
+
+
+An incantation like an anti-curse
+Or even a blessing
+
+
+      12. Letter To An Old Poet
+
+
+[Verse: Phoebe Bridgers]
+
+
+I said, "I think that you're special"
+
+
+You told me once that I'm selfish
+And I kissed you hard
+
+
+In the dark, in the closet
+
+
+You said my music is mellow
+Maybe I'm just exhausted
+
+
+You think you're a good person
+Because you won't punch me in the stomach
+
+
+[Pre-Chorus: Phoebe Bridgers, All]
+And I love you
+I don't know why
+
+
+I just do, ooh, but
+
+
+[Chorus: All]
+You're not special, you're evil
+
+
+You don't get to tell me to calm down
+
+
+You made me feel like an equal
+But I'm better than you
+And you should know that by now
+When you fell down the stairs
+It looked like it hurt and I wasn't sorry
+
+
+I shoulda left you right there
+With your hostages, my heart and my car keys
+
+
+You don't know me
+
+
+[Bridge: All]
+I wanna be happy
+I'm ready to walk into my room without lookin' for you
+I'll go up to the top of our building
+And remember my dog when I see the full moon
+
+
+[Outro: All]
+I can't feel it yet
+But I am waiting
+Boygenius
+
+
+
+
+      1. Bite the Hand 
+
+
+[Verse 1: Lucy Dacus]
+I can't hear you, you're too far away
+I can't see you, the light is in my face
+I can't touch you, I wouldn't if I could
+
+
+
+
+[Refrain: All]
+I can't love you how you want me to
+I can't love you how you want me to
+I can't love you how you want me to
+
+
+
+
+[Verse 2: All]
+Here's the best part, distilled for you
+But you want what I can't give to you
+
+
+Your hands are grabbing while my hands are tied
+
+
+
+
+[Refrain: All]
+I can't love you how you want me to
+I can't love you how you want me to
+I can't love you how you want me to
+
+
+
+
+[Bridge: All, Lucy Dacus, Phoebe Bridgers & Julien Baker]
+Ooh
+Ooh
+Who do you think you are?
+Who do you think I am?
+What do you wanna say?
+What do you think will change?
+
+
+Maybe I'm afraid of you
+Maybe I'm afraid of you
+
+
+I'll bite the hand that feeds me (Bite the hand that feeds me)
+Bite the hand (Bite the hand)
+Bite the hand that needs me (Bite the hand that needs me)
+Bite the hand (Bite the hand)
+
+
+[Refrain: Lucy Dacus, Phoebe Bridgers, Julien Baker]
+I can't love you how you want me to
+(I can't love you how you want me to)
+(I can't love you how you want me to)
+I can't love you how you want me to
+(I can't love you how you want me to)
+(I can't love you how you want me to)
+I can't love you how you want me to
+(I can't love you how you want me to)
+(I can't love you how you want me to)
+I can't love you how you want me to
+(I can't love you how you want me to)
+(I can't love you)
+
+
+
+
+[Outro: All]
+I can't love you how you want me to
+I can't love you how you want me to
+
+
+      2. Me & My Dog 
+
+
+[Verse 1: Phoebe Bridgers]
+We had a great day
+
+
+Even though we forgot to eat
+
+
+And you had a bad dream
+
+
+And we got no sleep
+'Cause we were kissing
+
+
+
+
+[Verse 2: Phoebe Bridgers]
+I had a fever
+Until I met you
+Now you make me cool
+
+
+But sometimes I still do
+Somethin' embarrassing
+
+
+
+
+[Chorus: All]
+I never said I'd be alright
+Just thought I could hold myself together
+When I couldn't breathe, I went outside
+Don't know why I thought it'd be any better
+I'm fine now, it doesn't matter
+
+
+I didn't wanna be this guy
+I cried at your show with the teenagers
+
+
+Tell your friend I'll be alright
+In the morning, it won't matter
+I wanna be emaciated
+
+
+I wanna hear one song without thinkin' of you
+
+
+I wish I was on a spaceship
+Just me and my dog and an impossible view
+
+
+
+
+[Outro: All]
+I dream about it
+
+
+And I wake up falling
+      3. Souvenir 
+
+
+[Verse 1: Julien Baker]
+Dreamcatcher on the rearview mirror
+
+
+Hasn't caught a thing yet
+
+
+Twenty dollars and a souvenir
+
+
+Anything's worth trying
+
+
+[Verse 2: Julien Baker]
+To stay out of your nightmares
+See, I was in your dream last night
+Always end up dying
+You said, because of course I did
+
+
+[Chorus: Julien Baker]
+Ooh
+Ooh
+
+
+[Verse 3: Phoebe Bridgers]
+Always managed to move in
+Right next to cemeteries
+And never far from a hospital
+I don't know what that tells you about me
+
+
+
+
+[Verse 4: Lucy Dacus & Phoebe Bridgers, Lucy Dacus]
+Pulling thorns out of my palm
+
+
+Work a midnight surgery
+
+
+When you cut a hole into my skull
+Do you hate what you see like I do?
+
+
+[Chorus: All]
+Ooh
+Ooh
+Ooh
+Ooh
+Ooh
+Ooh
+      4. Stay Down 
+
+
+[Verse 1: Julien Baker]
+Wasn't a fighter 'til somebody told me
+I had better learn to lean into the punch
+So it don't hurt as bad when they leave
+
+
+There you were, turnin' your cheek
+
+
+
+
+[Verse 2: Julien Baker]
+I look at you and you look at a screen
+
+
+I'm in the back seat of my body
+I'm just steerin' my life in a video game
+
+
+Similar acts and a different name
+
+
+[Refrain: Julien Baker]
+It's a slow down
+
+
+[Verse 3: All, Julien Baker]
+So would you teach me I'm the villain, aren't I?
+
+
+Aren't I the one constantly repentin' for a difficult mind?
+Push me down into the water like a sinner, hold me under
+
+
+And I'll never come up again
+
+
+
+
+[Refrain: All]
+I'll just stay down
+
+
+[Bridge: Julien Baker, All]
+'Cause it's a half life, it's a fallout
+
+
+It takes so long for me to settle down
+And when I finally do, there's no one else around
+
+
+[Refrain: Julien Baker]
+So I stay down
+So I stay down
+So I stay down
+So I stay down
+So I stay down
+      5. Salt in the Wound
+
+
+[Verse 1: Lucy Dacus]
+You put salt in the wound
+And a kiss on my cheek
+
+
+You butter me up
+And you sit down to eat
+
+
+You add insult to injury
+You say you believe in me
+But you haven't decided
+About taking or leaving me
+
+
+[Chorus: Lucy Dacus, All]
+But you take and you take
+Like silks up my sleeve
+Tied corner to corner, never ending
+
+
+Trick after trick, I make the magic
+And you unrelentingly ask for the secret
+
+
+
+
+[Verse 2: Julien Baker, Phoebe Bridgers]
+Neck full of mockingbirds
+All callin' your name
+I tried to sing it all back
+Like I heard it, it don't sound the same
+
+
+I'm gnashing my teeth
+Like a child of Cain
+
+
+If this is a prison
+I'm willing to buy my own chains
+
+
+
+
+[Chorus: Lucy Dacus, All]
+But you take and you take
+Like silks up my sleeve
+Tied corner to corner, never ending
+
+
+Trick after trick, I make the magic
+
+
+And you unrelentingly ask for the secret
+
+
+
+
+[Outro: Lucy Dacus, All]
+They say the hearts and minds are on your side
+They say the finish line is in your sights
+What they don't say is what's on the other side
+They say the hearts and minds are on your side
+
+
+      6. Ketchum, ID 
+
+
+[Intro: Phoebe Bridgers]
+'Kay
+
+
+[Verse 1: Phoebe Bridgers]
+Back in the States now
+In a college town
+
+
+I would walk around
+But it's really comin' down
+
+
+Mesmerized by double lines
+Two yellow tightropes
+
+
+I'm makin' good time
+
+
+[Chorus: All]
+I am never anywhere
+Anywhere I go
+When I'm home, I'm never there
+Long enough to know
+
+
+
+
+[Verse 2: Julien Baker]
+Bein' in love
+Is the same thing as bein' alone
+Givin' the sorrow some company
+Nothing to say
+But stay on the phone
+
+
+No, I'm sorry I do not know
+What else you want from me
+
+
+
+
+[Chorus: All]
+I am never anywhere
+Anywhere I go
+When I'm home, I'm never there
+Long enough to know
+
+
+
+
+[Verse 3: Lucy Dacus]
+You say, "How are you?"
+I say, "I don't know
+Let's dissolve the band
+Move to Idaho"
+
+
+Everyone's around
+And I hear you smiling
+You say, "I love you"
+I say, "You too"
+
+
+
+
+[Chorus: All]
+I am never anywhere
+Anywhere I go
+When I'm home, I'm never there
+Long enough to know
+
+
+
+
+[Bridge: All]
+Ooh
+Ooh
+
+
+The Rest 
+
+
+      1. Black Hole 
+
+
+[Verse 1: Baker]
+In a rainstorm
+Suckin' down a dart on the back porch
+
+
+Out here, it gets so dark
+
+
+You can see the stars, the ones
+The headlines said this morning
+Were bein' spat out by what we thought
+Was just destroyin' everything for good
+
+
+
+
+[Instrumental Break]
+
+
+[Verse 2: Dacus & Bridgers]
+White teeth, black light, white tee, brown eyes
+
+
+Bad boy, big fight, you're a good guy
+
+
+Good day, good night, good talk, goodbye
+
+
+It's out of your hands, but have a safe flight
+
+
+My thoughts, all noise, fake smile, decoys
+
+
+Sometimes, I need to hear your voice
+      2. Afraid of Heights
+ 
+[Verse 1: Dacus]
+I know that I fucked up when I
+Told you I'm afraid of heights
+It made you wanna test my courage
+You made me climb a cliff at night
+You wanted me to jump and I declined
+You called me a coward, I replied
+"I don't wanna live forever
+But I don't wanna die tonight"
+
+
+[Chorus: All]
+When the black water ate you up
+
+
+Like a sugar cube in a teacup
+I got the point you were makin'
+When I held my breath 'til you came up
+
+
+[Verse 2: Dacus]
+There's been a run of fires downtown
+
+
+On half-built construction sites
+I know you never liked a townhouse
+
+
+I've seen you climb a crane at night
+If they ever catch you at it
+
+
+I know you'd want me to be proud
+
+
+That you took a rich man's dream
+And brought it with you on your way down
+
+
+[Chorus: All]
+"'Cause one man's dream is another man's death"
+
+
+I remember when you told me that
+Didn't know what to say, so I just laughed
+But now I know it's not funny
+
+
+[Verse 3: Dacus]
+I never rode a motorcycle
+I never smoked a cigarette
+
+
+I wanna live a vibrant life
+But I wanna die a boring death
+
+
+I know I was a disappointment
+Know you wanted me to take a risk
+Not everybody gets the chance to live
+A life that isn't dangerous
+
+
+[Outro: All]
+You called me a crybaby
+
+
+But you're the one who got teary
+Tellin' me what you believe
+How we're stuck in entropy
+
+
+How it hurts to hope
+
+
+Oh, it hurts to hope for more
+Oh, it hurts to hope the future
+Will be better than before
+
+
+      3. Voyager 
+
+
+[Intro: Dacus & Baker]
+Mmm, mmm
+
+
+[Verse 1: Bridgers, Dacus & Baker]
+It's a hundred and three in the Valley
+
+
+Blacktop is meltin' on our shoes (Mmm)
+
+
+And I don't mean to make it all about me (Mmm)
+
+
+But I used to believe no one could love you like I do (Mmm)
+And I'm startin' to think that it might be impossible not to (Mmm)
+
+
+
+
+[Verse 2: Bridgers, Dacus & Baker]
+There are days spent tangled up together (Mmm)
+And sometimes, you let me read your mind (Ooh)
+
+
+Then there are nights you say you don't remember
+When you stepped on the gas and you asked if I'm ready to die (Mmm)
+
+
+You thought I'd never leave and I let you believe you were right
+(Mmm)
+
+
+[Verse 3: Bridgers, Dacus & Baker]
+Walkin' alone in the city
+
+
+Makes me feel like a man on the moon (Ooh)
+Every small step I took was so easy (Mmm)
+
+
+But I never imagined a dot quite as pale or as blue (Ooh)
+
+
+You took it from me, but I would've given it to you (Mmm)
+
+
+      4. Powers 
+
+
+[Verse 1: Baker, Bridgers & Dacus]
+
+
+How did it start? Did I fall into a nuclear reactor?
+Crawl out with acid skin or somethin' worse
+A hostile alien ambassador?
+Or am I simply another of the universe's failed experiments?
+
+
+Either way, I have been wonderin' just how it is (How it is)
+I have never heard (Never heard) the tale of how I got my powers
+
+
+
+
+[Verse 2: Baker]
+Thrust into bein', careenin' along
+On a crooked little trajectory
+Dissolvin' in movement, a body in orbit
+
+
+Or a roach on his way to the gutter
+
+
+
+
+[Verse 3: All]
+
+
+The tail of a comet burned up in an instant, the destruction of matter
+There's no object to be seen in the supercollider
+Just a light in the tunnel and whatever gets scattered
+
+
+Life flashin' before the eye of whatever comes after
+The force of our impact, the fission
+The hum of our contact, the sound of our collisions
+
+
+[Instrumental Outro]
+
+
+Phoebe Bridgers Lyrics 
+Stranger in the Alps
+
+
+      1. Smoke Signals 
+
+
+[Verse 1]
+I went with you up to the place you grew up in
+
+
+We spent a week in the cold
+Just long enough to Walden it with you
+Any longer, it would've got old
+
+
+Singin' "Ace of Spades" when Lemmy died
+But nothing's changed, LA's alright
+
+
+I'm sleepin' in my bed again and gettin' in my head
+
+
+And then, walk around the reservoir
+
+
+
+
+[Chorus]
+You, you must've been looking for me
+Sendin' smoke signals, pelicans circling
+Burning trash out on the beach
+
+
+
+
+[Verse 2]
+One of your eyes is always half-shut
+Somethin' happened when you were a kid
+
+
+I didn't know you then, and I'll never understand
+Why it feels like I did
+
+
+"How Soon Is Now" in an 80s sedan
+
+
+You slept inside of it because your dad
+Lived in a campground in the back of a van
+
+
+You said that song will creep you out until you're dead
+
+
+
+
+[Chorus]
+And you must've been looking for me
+Sendin' smoke signals, pelicans circling
+Burning trash out on the beach
+
+
+
+
+[Verse 3]
+I wanna live at the Holiday Inn
+Where somebody else makes the bed
+We'll watch TV while the lights on the street
+Put all the stars to death
+
+
+It's been on my mind since Bowie died
+
+
+Just checkin' out to hide from life
+
+
+And all of our problems, I'm gonna solve 'em
+With you riding shotgun,
+speeding 'cause fuck the cops
+
+
+
+
+[Chorus]
+And you, you must've been looking for me
+Sendin' smoke signals, pelicans circling
+Burning trash out on the beach, mm
+
+
+
+
+[Verse 4]
+I buried a hatchet, it's comin' up lavender
+
+
+The future's unwritten, the past is a corridor
+I'm at the exit, looking back through the hall
+
+
+You are anonymous, I am a concrete wall
+
+
+
+
+[Instrumental Outro]
+
+
+
+
+      2. Motion Sickness 
+
+
+[Verse 1]
+I hate you for what you did
+And I miss you like a little kid
+
+
+I faked it every time, but that's alright
+I can hardly feel anything
+I hardly feel anything at all
+
+
+You gave me fifteen hundred
+To see your hypnotherapist
+I only went one time, you let it slide
+Fell on hard times a year ago
+Was hopin' you would let it go and you did
+
+
+
+
+[Chorus]
+I have emotional motion sickness
+
+
+Somebody roll the windows down
+
+
+There are no words in the English language
+I could scream to drown you out
+
+
+
+
+[Verse 2]
+I'm on the outside looking through
+You're throwing rocks around your room
+And while you're bleeding on your back in the glass
+I'll be glad that I made it out
+
+
+And sorry that it all went down like it did
+
+
+
+
+[Chorus]
+I have emotional motion sickness
+
+
+Somebody roll the windows down
+
+
+There are no words in the English language
+I could scream to drown you out
+
+
+Hey, why do you sing with an English accent?
+
+
+I guess it's too late to change it now
+
+
+You know I'm never gonna let you have it
+
+
+But I will try to drown you out
+
+
+
+
+[Bridge]
+You said when you met me, you were bored
+You said when you met me, you were bored
+And you, you were in a band when I was born
+
+
+
+
+[Chorus]
+I have emotional motion sickness
+
+
+I try to stay clean and live without
+And I wanna know what would happen
+If I surrender to the sound
+Surrender to the sound
+
+
+      3. Funeral 
+
+
+[Verse 1]
+I'm singin' at a funeral tomorrow
+
+
+For a kid a year older than me
+
+
+And I've been talking to his dad, it makes me so sad
+
+
+When I think too much about it, I can't breathe
+
+
+And I have this dream where I'm screamin' underwater
+While my friends are all waving from the shore
+
+
+And I don't need you to tell me what that means
+I don't believe in that stuff anymore
+
+
+
+
+[Chorus]
+Jesus Christ, I'm so blue all the time
+And that's just how I feel
+Always have and I always will
+I always have and always will
+
+
+
+
+[Verse 2]
+I have a friend I call
+
+
+When I've bored myself to tears
+
+
+And we talk until we think we might just kill ourselves
+
+
+But then we laugh until it disappears
+
+
+And last night, I blacked out in my car
+And I woke up in my childhood bed
+
+
+Wishing I was someone else, feeling sorry for myself
+When I remembered someone's kid is dead
+
+
+[Chorus]
+Jesus Christ, I'm so blue all the time
+
+
+And that's just how I feel
+Always have and I always will
+I always have and always will
+
+
+
+
+[Outro]
+And it's 4AM again
+And I'm doing nothing
+Again
+      4. Demi Moore 
+
+
+[Intro]
+(Ooh)
+(Ooh)
+
+
+[Verse 1]
+Take a dirty picture, babe
+I can't sleep and I miss your face
+
+
+In my hands and in my knees
+
+
+Tell me what you wanna do to me
+Tell me what you'll do, please
+
+
+
+
+[Chorus]
+I don't wanna be alone
+Don't wanna be alone anymore
+
+
+
+
+[Post-Chorus]
+(Ooh)
+(Ooh)
+
+
+[Verse 2]
+It got quiet on the other line
+Said the sun was coming up, and I
+Laughed until I couldn't breathe
+Now I'm too tired to go to sleep
+Now I can't breathe and I can't sleep
+
+
+
+
+
+
+[Chorus]
+I don't wanna be stoned
+
+
+I don't wanna be stoned anymore
+
+
+I don't wanna be alone
+Don't wanna be alone anymore
+
+
+
+
+[Bridge]
+I've got a good feelin'
+I've got a good feelin'
+It doesn't happen very often
+
+
+
+
+[Outro]
+(Ooh)
+(Ooh)
+
+
+      5. Scott Street
+
+
+[Verse 1]
+Walking Scott Street, feeling like a stranger
+
+
+With an open heart, open container
+
+
+I've got a stack of mail and a tall can
+
+
+It's a shower beer, it's a payment plan
+
+
+There's helicopters over my head
+
+
+Every night when I go to bed
+
+
+Spending money and I earned it
+When I'm lonely, that's when I'll burn it
+
+
+
+
+[Chorus]
+Do you feel ashamed
+When you hear my name?
+
+
+
+
+[Verse 2]
+
+
+I asked you, "How is your sister?
+I heard she got her degree"
+And I said, "That makes me feel old"
+You said, "What does that make me?"
+
+
+I asked you, "How is playing drums?"
+
+
+Said, "It's too much shit to carry"
+
+
+"And what about the band?"
+
+
+You said, "They're all gettin' married"
+
+
+
+
+[Chorus]
+Do you feel ashamed
+When you hear my name?
+
+
+
+
+[Bridge]
+Ooh, ooh
+Ooh, ooh
+Ooh, ooh
+Ooh, ooh
+Ooh, ooh
+
+
+[Outro]
+Anyway, don't be a stranger (Ooh, ooh)
+Anyway, don't be a stranger (Ooh, ooh)
+Don't be a stranger (Ooh, ooh)
+
+
+      6. Killer 
+
+
+[Verse 1]
+Sometimes I think I'm a killer
+I scared you in your house
+I even scared myself by talkin'
+About Dahmer on your couch
+
+
+But I can't sleep next to a body
+Even harmless in death
+
+
+Plus, I'm pretty sure I'd miss you
+And faking sleep to count your breath
+
+
+
+
+[Chorus]
+Can the killer in me
+Tame the fire in you?
+Or is there nothin' left to do for us?
+
+
+I am sick of the chase
+But I'm hungry for blood
+
+
+And there's nothin' I can do
+
+
+
+
+[Verse 2]
+But when I'm sick and tired
+And when my mind is barely there
+
+
+When a machine keeps me alive
+And I'm losin' all my hair
+
+
+I hope you kiss my rotten head
+
+
+And pull the plug
+
+
+Know that I've burned every playlist
+And I've given all my love
+
+
+[Chorus]
+Can the killer in me
+Tame the fire in you?
+
+
+I know there's somethin' waiting for us
+I am sick of the chase
+
+
+But I'm stupid in love
+And there's nothin' I can do
+And there's nothin' I can do
+
+
+      7. Georgia 
+
+
+[Verse 1]
+Georgia, Georgia, I love your son
+
+
+And when he gets older, he might be the one (Oh)
+
+
+He might be the one
+
+
+Georgia, Georgia, he has beautiful bones
+
+
+And he never lies or picks up his phone
+
+
+
+
+[Pre-Chorus]
+And sometimes in the pouring rain
+He'll fall in the mud and get back up again
+
+
+
+
+[Chorus]
+And if you find me, will you know me?
+
+
+Will you take me or will you fall? (Fall)
+
+
+
+
+[Post-Chorus]
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh-oh
+
+
+[Verse 2]
+Here is my day plan, here's my new machine
+He's a fine new addition, so young and so clean
+So young and so clean
+
+
+He came up through the water without a sound
+
+
+With my back to the shoreline, I dreamt that he drowned
+I dreamt that he drowned (Oh)
+
+
+[Pre-Chorus]
+And sometimes, when he looks at me
+I know he needs you, you're all that he sees
+
+
+[Chorus]
+And if I breathe you, will it kill me?
+Will you have me or watch me fall? (Fall)
+
+
+If I fix you, will you hate me?
+
+
+And would you fuck this and let us fall? (Fall, fall)
+
+
+
+
+[Outro]
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh-oh
+
+
+
+
+      8. Chelsea 
+
+
+[Verse 1]
+For a chemical imbalance, you sure know how to ride a train
+
+
+Your revolution is a deathbed and the music is your maid
+
+
+When someone comes a-knockin' with a needle on a tray
+Only your lonesome lies beside you for you told me not to stay
+
+
+You are somebody's baby, some mother held you near
+No, it's not important, they're just pretty words, my dear
+
+
+There is no distraction that can make me disappear
+No, there's nothin' that won't remind you I will always be right here
+
+
+
+
+[Chorus]
+And you spit the blood back, spit the blood back, baby
+
+
+I'm amazed that you're alright
+
+
+Oh, so long, prison boy
+
+
+I won't be home with you tonight
+
+
+
+
+[Verse 2]
+We're both very sick, our muscles all worn down
+It's as if we are one hundred, know I won't still be around
+
+
+Because I've fallen, yes, I've fallen right into the love I've found
+
+
+Long before I reach one hundred, I'll have fallen to the ground
+
+
+And for generations, they'll romance us, make us more
+Or much less than ever was before, the Chelsea and the floor
+
+
+Make us stand before the masses like two speakers for the poor
+When there was no revolution, nothin' we were fighting for
+
+
+[Chorus]
+And you spit the blood back, spit the blood back, baby
+
+
+I'm amazed that you're alright
+
+
+Oh, so long, prison boy
+
+
+I won't be home, I won't be home
+I won't be home with you tonight
+
+
+
+
+[Bridge]
+And you can call the service bell
+
+
+When we stay at the Chelsea Hotel
+
+
+And I'll stay out of my own hell
+
+
+
+
+[Outro]
+Oh, so long, prison boy
+
+
+I won't be home, I won't be home
+I won't be home with you tonight
+(Tonight)
+
+
+      9. Would You Rather
+
+
+[Verse 1: Phoebe Bridgers]
+Playin' "Would you rather"
+
+
+When it comes to fire
+You always say that you'd prefer to drown
+
+
+You were still in the ambulance
+When the cop suggested you're the one
+Who tried to burn it down
+
+
+[Chorus: Phoebe Bridgers, Conor Oberst, Both]
+Come to find out
+I'm a can on a string, you're on the end
+
+
+We found our way out
+Of the suicide pact of our family and friends
+
+
+In the background, I'll be waiting
+
+
+[Verse 2: Phoebe Bridgers]
+We have the same face
+
+
+I laid awake as someone shoved you up against a wall
+
+
+Quarantined in a bad dream
+
+
+He's half the man and you're twice as tall
+
+
+[Chorus: Phoebe Bridgers, Conor Oberst, Both]
+Come to find out
+I'm a can on a string, you're on the end
+
+
+We found our way out
+Of the suicide pact of our family and friends
+
+
+In the background, I'll be waiting
+
+
+[Bridge: Phoebe Bridgers & Conor Oberst]
+Next time I see you, you'll show me
+A hundred different ways to say the same things
+
+
+
+
+[Chorus: Phoebe Bridgers, Conor Oberst, Both]
+Come to find out
+I'm a can on a string, you're on the end
+
+
+We found our way out
+Of the suicide pact of our family and friends
+
+
+And when you touch down, I'll be waving
+
+
+
+
+      10. You Missed My Heart 
+
+
+[Chorus]
+"You missed my heart, you missed my heart
+
+
+That's quite a list, but what you really missed
+You missed my heart, you missed my heart (You missed my heart)
+
+
+That's quite a list, but what you really missed"
+
+
+
+
+[Verse 3]
+Runnin' through the parking lot, runnin' through the fields
+Policemen on my back, somethin' hit my skull and cracked
+They dragged me off to jail, set a million dollar bail
+Where I tried to tie a noose, but I failed and I broke loose
+I went racing through the prison yard, shot down by a tower guard
+He got me in the shins and he got me in the arms
+They strapped me in the gurney, took me off to the infirmary
+Where the priest read my last rites
+And just before everythin' went dark, I said
+
+
+
+
+[Chorus]
+"He missed my heart, he missed my heart (You missed my heart)
+He got me good, I knew he would
+But he missed my heart, he missed my heart" (You missed my heart)
+And just before everything went dark
+
+
+
+
+[Verse 4]
+The most poetic dream came flowin' like the sea
+Laying there, my lifeblood draining out of me
+A childhood scene, the night sky and moon beams
+Fishin' with my friends, sittin' in the wild reeds
+
+
+Watching the Ohio river flow at night
+Waitin' for the bullheaded catfishes to bite
+Downriver from the Moundsville Prison graveyard
+
+
+
+
+[Outro]
+Downriver from the Moundsville Prison graveyard
+Downriver from the Moundsville Prison graveyard
+Downriver from the Moundsville Prison graveyard
+Downriver from the Moundsville Prison graveyard
+
+
+      11. Smoke Signals (Reprise)
+
+
+In this 34-second closer, Bridgers reprises the melody to the opening track “Smoke Signals” on a single, gently-plucked guitar.
+
+
+The song is instrumental 
+Punisher
+
+
+      1. DVD Menu 
+
+
+This song is an instrumental
+
+
+      2. Garden Song
+
+
+[Verse 1]
+Someday, I'm gonna live
+In your house up on the hill
+
+
+And when your skinhead neighbor goes missing
+I'll plant a garden in the yard, then
+
+
+They're gluing roses on a flatbed
+You should see it, I mean thousands
+
+
+I grew up here 'til it all went up in flames
+
+
+Except the notches in the door frame
+
+
+
+
+[Chorus]
+I don't know when you got taller
+
+
+See our reflection in the water
+Off a bridge at the Huntington
+
+
+I hopped the fence when I was seventeen
+Then I knew what I wanted
+
+
+
+
+[Verse 2]
+And when I grow up, I'm gonna look up
+From my phone and see my life
+
+
+And it's gonna be just like my recurring dream
+I'm at the movies, I don't remember what I'm seeing
+The screen turns into a tidal wave
+
+
+Then it's a dorm room, like a hedge maze
+
+
+And when I find you
+You touch my leg and I insist
+But I wake up before we do it
+
+
+
+
+[Chorus]
+I don't know how, but I'm taller
+
+
+It must be something in the water
+
+
+Everything's growing in our garden
+You don't have to know that it's haunted
+
+
+The doctor put her hands over my liver
+She told me my resentment's getting smaller
+
+
+No, I'm not afraid of hard work
+I get everything I want
+
+
+I have everything I wanted
+
+
+      3. Kyoto 
+
+
+[Verse 1]
+Day off in Kyoto
+Got bored at the temple
+
+
+Looked around at the 7-Eleven
+
+
+The band took the speed train
+Went to the arcade
+
+
+I wanted to go, but I didn't
+
+
+You called me from a payphone
+They still got payphones
+It cost a dollar a minute
+
+
+To tell me you're getting sober
+And you wrote me a letter
+
+
+But I don't have to read it
+
+
+
+
+[Chorus]
+I'm gonna kill you
+If you don't beat me to it
+
+
+Dreaming through Tokyo skies
+
+
+I wanted to see the world
+Then I flew over the ocean
+And I changed my mind (Woo)
+
+
+
+
+[Verse 2]
+Sunset's been a freak show
+On the weekend, so
+
+
+I've been driving out to the suburbs
+
+
+To park at the Goodwill
+
+
+And stare at the chemtrails
+
+
+With my little brother
+
+
+He said you called on his birthday
+You were off by, like, ten days
+But you get a few points for tryin'
+Remember getting the truck fixed
+When you let us drive it
+
+
+Twenty-five felt like flying
+
+
+[Chorus]
+
+
+I don't forgive you
+But please don't hold me to it
+
+
+Born under Scorpio skies
+
+
+I wanted to see the world
+Through your eyes until it happened
+Then I changed my mind
+
+
+
+
+[Outro]
+Guess I lied
+I'm a liar
+Who lies
+'Cause I'm a liar
+
+
+      4. Punisher 
+
+
+[Verse 1]
+When the speed kicks in
+I go to the store for nothing
+
+
+And walk right by
+The house where you lived with Snow White
+
+
+I wonder if she ever thought
+The storybook tiles on the roof were too much
+
+
+But from the window, it's not a bad show
+If your favorite thing's Dianetics or stucco
+
+
+
+
+[Pre-Chorus]
+The drugstores are open all night
+The only real reason I moved to the east side
+I love a good place to hide in plain sight
+
+
+[Chorus]
+What if I told you
+I feel like I know you?
+But we never met
+
+
+[Verse 2]
+And here, everyone knows you're the way to my heart
+Hear so many stories of you at the bar
+Most times, alone, and some, looking your worst
+But never not sweet to the trust funds and punishers
+
+
+
+
+[Pre-Chorus]
+Man, I wish that I could say the same
+I swear I'm not angry, that's just my face
+
+
+A copycat killer with a chemical cut
+
+
+Either I'm careless or I wanna get caught
+
+
+Who I'm not
+
+
+[Chorus]
+What if I told you
+I feel like I know you?
+But we never met
+It's for the best
+
+
+[Outro]
+I can't open my mouth and forget how to talk
+'Cause even if I could
+Wouldn't know where to start
+Wouldn't know when to stop
+
+
+
+
+      5. Halloween
+
+
+[Verse 1]
+I hate living by the hospital
+The sirens go all night
+I used to joke that if they woke you up
+Somebody better be dying
+Sick of the questions I keep asking you
+That make you live in the past
+
+
+But I can count on you to tell me the truth
+When you've been drinking and you're wearing a mask
+
+
+
+
+[Chorus]
+Baby, it's Halloween
+And we can be anything
+Oh, come on, man
+We can be anything
+
+
+
+
+[Verse 2]
+Always surprised by what I do for love
+Some things I never expect
+
+
+They killed a fan down by the stadium
+Was only visiting, they beat him to death
+
+
+[Chorus]
+Baby, it's Halloween
+And we can be anything
+Oh, come on, man
+We can be anything
+Baby, it's Halloween
+There's a last time for everything
+Oh, come on, man
+We can be anything
+
+
+
+
+[Outro: Phoebe Bridgers & Conor Oberst, Phoebe Bridgers]
+
+
+Whatever you want
+I'll be whatever you want
+Whatever you want
+Be whatever you want
+I'll be whatever you want
+Whatever you want
+I'll be whatever you want
+Whatever you want
+Whatever you want
+
+
+      6. Chinese Satellite
+
+
+
+
+[Verse 1]
+I've been runnin' around in circles
+Pretending to be myself
+Why would somebody do this on purpose
+When they could do something else?
+
+
+Drowning out the morning birds
+With the same three songs over and over
+I wish I wrote it, but I didn't, so I learn the words
+Hum along 'til the feeling's gone forever
+
+
+
+
+[Chorus]
+Took a tour to see the stars
+But they weren't out tonight
+So I wished hard on a Chinese satellite
+
+
+I want to believe
+Instead, I look at the sky and I feel nothing
+You know I hate to be alone
+I want to be wrong
+
+
+
+
+[Verse 2]
+You were screamin' at the Evangelicals
+They were screamin' right back from what I remember
+
+
+When you said, "I will never be your vegetable"
+Because I think when you're gone, it's forever
+
+
+But you know I'd stand on the corner
+Embarrassed with a picket sign
+If it meant I would see you when I die
+
+
+[Chorus]
+Sometimes, when I can't sleep
+It's just a matter of time before I'm hearing things
+Swore I could feel you through the walls
+But that's impossible
+I want to believe (I want to believe)
+That if I go outside, I'll see a tractor beam
+Coming to take me to where I'm from
+I want to go home
+
+
+      7. Moon Song 
+
+
+[Verse 1]
+You asked to walk me home
+But I had to carry you
+
+
+And you pushed me in
+And now my feet can't touch the bottom of you
+
+
+
+
+[Pre-Chorus]
+You couldn't have, you couldn't have
+
+
+
+
+[Chorus]
+Stuck your tongue down the throat of somebody
+Who loves you more
+So I will wait for the next time you want me
+Like a dog with a bird at your door
+Mmm
+
+
+
+
+[Verse 2]
+We hate "Tears in Heaven"
+But it's sad that his baby died
+
+
+And we fought about John Lennon
+Until I cried
+
+
+[Pre-Chorus]
+And then went to bed upset
+
+
+[Chorus]
+But now, I am dreaming and you're singing at my birthday
+And I've never seen you smiling so big
+It's nautical themed and there's something I'm supposed to say
+But can't, for the life of me, remember what it is
+
+
+[Bridge]
+And if I could give you the moon
+I would give you the moon
+
+
+
+
+[Chorus]
+You are sick and you're married and you might be dying
+
+
+But you're holding me like water in your hands
+When you saw the dead little bird, you started crying
+But you know the killer doesn't understand
+
+
+      8. Savior Complex 
+
+
+[Verse 1]
+Emotional affair
+
+
+Overly sincere
+
+
+Smoking in the car, windows up
+
+
+Crocodile tears,
+run the tap 'til it's clear
+
+
+Drift off on the floor
+I drag you to the shore
+Sweating through the sheets
+You're gonna drown in your sleep for sure
+
+
+[Chorus]
+Wake up and start a big fire
+In our one room apartment
+But I'm too tired
+To have a pissing contest
+
+
+All the bad dreams that you hide
+
+
+Show me yours, I'll show you mine
+
+
+
+
+[Verse 2]
+Call me when you land
+I'll drive around again
+
+
+One hand on the wheel, one in your mouth
+Turn me on and turn me down
+
+
+
+
+[Chorus]
+Baby, you're a vampire
+You want blood and I promised
+I'm a bad liar
+
+
+With a savior complex
+
+
+All the skeletons you hide
+Show me yours and I'll show you mine
+
+
+[Outro]
+All the bad dreams that you hide
+
+
+Show me yours
+
+
+      9. ICU 
+
+
+[Verse 1]
+Laying down on the lawn
+I'm tired of trying to get in the house
+
+
+I'm thinking out loud
+I've been playing dead
+My whole life
+And I get this feeling whenever I feel good
+It'll be the last time
+
+
+[Refrain]
+But I feel something when I see you now
+I feel something when I see you
+
+
+[Verse 2]
+If you're a work of art
+I'm standing too close
+I can see the brush strokes
+I hate your mom
+
+
+I hate it when she opens her mouth
+It's amazing to me how much you can say
+When you don't know what you're talking about
+
+
+[Refrain]
+But I feel something when I see you now
+I feel something when I see you
+
+
+[Bridge]
+I used to light you up
+Now I can't even get you to play the drums
+'Cause I don't know what I want
+Until I fuck it up
+
+
+[Refrain]
+But I feel something when I see you now
+I feel something
+
+
+[Outro]
+I'll climb through the window again
+But right now, it feels good not to stand
+
+
+Then I'll leave it wide open
+Let the dystopian morning light pour in
+
+
+      10. Graceland Too 
+
+
+[Verse 1]
+No longer a danger to herself or others
+She made up her mind and laced up her shoes
+
+
+Yelled down the hall, but nobody answered
+
+
+So she walked outside without an excuse
+
+
+
+
+[Chorus]
+She can do anything she wants to
+She can do whatever she wants to do
+
+
+She could go home, but she's not going to
+
+
+
+
+[Verse 2]
+So she picks a direction, it's ninety to Memphis
+Turns up the music so thoughts don't intrude
+Predictably winds up thinking of Elvis
+
+
+And wonders if he believed songs could come true
+
+
+[Chorus]
+I'm asking for it if they do
+
+
+Doesn't know what she wants or what she's gonna do
+A rebel without a clue
+
+
+[Post-Chorus]
+Ooh-ooh, ooh
+
+
+[Bridge]
+So we spent what was left of our serotonin
+To chew on our cheeks and stare at the moon
+
+
+Said she knows she lived through it to get to this moment
+
+
+Ate a sleeve of saltines on my floor and I knew then
+
+
+[Chorus]
+I will do anything you want me to
+I will do anything for you
+I will do anything, I will do anything
+Whatever you want me to do, I will do
+
+
+[Outro]
+
+
+Whatever she wants
+Whatever she wants
+
+
+Whatever she wants (Whatever you want)
+Whatever she wants (Whatever you want)
+I will do anything (Whatever you want)
+
+
+I will do anything (Whatever you want)
+Whatever she wants (Whatever you want)
+Whatever she wants (Whatever you want)
+
+
+
+
+      11. I Know the End 
+
+
+[Verse 1]
+Somewhere in Germany, but I can't place it
+Man, I hate this part of Texas
+
+
+Close my eyes, fantasize
+Three clicks and I'm home
+
+
+When I get back, I'll lay around
+Then I'll get up and lay back down
+Romanticize a quiet life
+
+
+There's no place like my room
+
+
+
+
+[Chorus]
+But you had to go, I know, I know, I know
+
+
+Like a wave that crashed and melted on the shore
+
+
+Not even the burnouts are out here anymore
+
+
+And you had to go, I know, I know, I know
+
+
+
+
+[Verse 2]
+Out in the park, we watch the sunset
+Talkin' on a rusty swing set
+
+
+After a while, you went quiet
+And I got mean
+
+
+I'm always pushin' you away from me
+But you come back with gravity
+
+
+And when I call, you come home
+A bird in your teeth
+
+
+
+
+[Chorus]
+So, I gotta go, I know, I know, I know
+
+
+When the sirens sound, you'll hide under the floor
+But I'm not gonna go down with my hometown in a tornado
+
+
+I'm gonna chase it, I know, I know, I know
+
+
+I gotta go now, I know, I know, I know
+
+
+
+
+[Verse 3]
+Drivin' out into the sun
+Let the ultraviolet cover me up
+
+
+Went looking for a creation myth
+
+
+Ended up with a pair of cracked lips
+
+
+Windows down, scream along
+To some America First rap-country song
+
+
+A slaughterhouse, an outlet mall
+Slot machines, fear of God
+
+
+Windows down, heater on
+
+
+Big bolt of lightning hanging low
+
+
+Over the coast, everyone's convinced
+It's a government drone or an alien spaceship
+
+
+Either way, we're not alone
+
+
+I'll find a new place to be from
+
+
+A haunted house with a picket fence
+
+
+To float around and ghost my friends
+
+
+No, I'm not afraid to disappear
+
+
+The billboard said "The End Is Near"
+I turned around, there was nothing there
+Yeah, I guess the end is here
+
+
+[Outro]
+
+
+The end is here
+The end is here
+The end is here
+The end is
+
+
+Lost Weekend
+
+
+      1. The Outside 
+
+
+[Verse 1]
+
+
+Crying in a suit and tie
+But you should see the other guy
+
+
+One more time for old time's sake
+I’ll watch him get carried away
+
+
+Fist through the drywall
+
+
+I'm frozen in place
+
+
+But not afraid
+
+
+
+
+[Chorus]
+When I am on the outside, watching
+
+
+I am on the outside, watching
+
+
+
+
+[Verse 2]
+I dive into a crowd
+And they never let me hit the ground
+Way beyond the barricade
+
+
+Ohio carried me away
+
+
+Screaming my ending
+Fist in the air
+
+
+You were there
+
+
+
+
+[Chorus]
+But I was on the outside, watching
+I am on the outside, watching
+
+
+[Instrumental Outro]
+      2. Lost Boys 
+
+
+[Intro]
+(Lost boys)
+(Lost boys)
+
+
+
+
+[Verse 1]
+On a motorbike, doing 90 in a 55
+To another life
+
+
+Where they make you cut your hair
+Impatient with a rifle and your papers
+Weightless but not scared
+
+
+[Pre-Chorus]
+This machine is killing me
+
+
+I pretended it was make believe
+
+
+
+
+[Chorus]
+Lost boys
+Never grow up, never go home
+
+
+Lost boys
+
+
+Never spend their lunch money, yeah
+
+
+Lost boys
+Never grow up, never get old
+
+
+Lost boys, find me
+
+
+
+
+[Verse 2]
+That one time in East Berlin
+
+
+Whеn you threw a tantrum with a 57
+And broke a rib
+
+
+You told me you wish you wеre dead
+But I don't believe that
+
+
+I still wonder how you're sleeping
+And I don't feel bad, but I'm sorry
+
+
+
+
+[Pre-Chorus]
+This machine is killing me
+
+
+I pretended it was make believe
+
+
+
+
+[Chorus]
+Lost boys
+Never grow up, never go home
+
+
+Lost boys
+Never spend their lunch money, yeah
+
+
+Lost boys
+Never grow up, never get old
+
+
+Lost boys, find me
+
+
+
+
+[Bridge]
+In a twin bed
+Where all will be forgiven in an instant
+Hands in each other's hair
+We are born again
+
+
+So who cares where we're going?
+In the morning, you are not there
+
+
+One, two, three, woo, ah
+
+
+[Chorus]
+Lost boys
+Never grow up, never go home
+
+
+Lost boys
+Never spend their lunch money, yeah
+
+
+Lost boys
+Never give up, never get old
+
+
+Lost boys, come find me, yeah
+
+
+[Outro]
+Yeah, yeah, yeah, yeah, yeah, yeah
+Yeah, yeah, yeah, yeah, yeah, yeah
+
+
+      3. Kill Me 
+
+
+[Verse 1]
+Times are scary
+
+
+My boys are getting married
+
+
+Turning twenty-one
+I'm not, but I was once certain, always
+
+
+Now all I know is the ending
+
+
+
+
+[Chorus]
+
+
+This is gonna kill me, wait
+This is gonna kill me, wait
+
+
+
+
+[Verse 2]
+Costume party
+When the veil was thinning
+
+
+He kissed me hello
+He tastes like a flower with chemical petals
+
+
+Bobby,
+you taught me that I know nothing
+
+
+
+
+[Chorus]
+This is gonna kill me, wait
+This is gonna kill me, wait
+Wait
+
+
+[Instrumental Break]
+
+
+[Outro: Phoebe Bridgers, Cameron Winter]
+
+
+(Tamám Shud)
+Let's go missing
+(Tamám Shud)
+Listen, listen
+(Tamám Shud)
+Let's go missing
+(Tamám Shud)
+
+
+Listen, listen
+      4. The Governor's Waltz
+[Verse 1]
+I was the belle of the Governors Ball
+
+
+Hiding in the bathroom like Shelley Duvall
+
+
+You had a nosebleed, you were in my way
+
+
+And you didn't remind me of anything
+
+
+
+
+[Chorus]
+So let's see how long we can go without touching
+Why don't you sing me to sleep?
+
+
+I know you'd never actually think about jumping
+But do it for me
+
+
+
+
+[Verse 2]
+Two kids in a trench coat living alone
+
+
+I was too happy to feel at home
+
+
+Dancing ourselves clean late New Year's Eve
+
+
+You deserved better, you wanted me
+(Six, five, four, three, two, one, Happy New Year)
+
+
+
+
+[Chorus]
+So let's see how long we can go without talking
+Watch me pretending to sleep
+
+
+I'm next to you, you're next to nothing
+
+
+You promised that you'd never leave
+But maybe you'll do it for me
+
+
+
+
+[Bridge]
+(Ooh, ooh, ooh, ooh-ooh)
+(Ooh-ooh, ooh, ooh-ooh-ooh)
+(Ooh, ooh, ooh)
+
+
+[Chorus]
+Now, let's see how far I can run without stopping
+
+
+And she can pretend to be me
+Since she took my place in my bed on that stage
+I have not lost any sleep
+
+
+Being myself wasn't easy
+Do it for me
+      5. Bobby 
+
+
+[Intro]
+(Ah)
+
+
+[Verse 1]
+I saw you slow dancing alone in your room
+
+
+I wanted to buy you a new pair of shoes
+Now you're walkin’ around with my heart on your sleeve
+And I am right here, bleeding
+
+
+Oh-oh
+Oh, no
+
+
+
+
+[Verse 2]
+So you followed me home, like you'd done it before
+And you had to bend over to get through the door
+
+
+And if you didn't like either one of my friends
+I’d kill them, I'd kill them
+
+
+[Chorus]
+Bobby
+
+
+This could be the end of wanting
+
+
+(Ah)
+
+
+[Verse 3]
+Now I sleep in your shirts and you live in my house
+You sing in the shower, I talk to myself
+
+
+We've got stars on the ceiling and clothes on the floor
+
+
+And a thing in a box I don't touch anymore
+
+
+
+
+
+
+[Chorus]
+Bobby
+This could bе the end of wanting (Bobby)
+I exist only if you'rе watching
+
+
+
+
+[Post-Chorus]
+Oh-oh
+Oh, no
+
+
+[Bridge]
+This could be the end
+This could be the end
+This could be the end
+This could be the end
+
+
+
+
+[Verse 4]
+Now I don't know if I can make it tonight
+But what are you doing the rest of my life, Bobby?
+
+
+[Spoken Outro]
+
+
+还未领取 请按8 由客服人员为您服务 请按8
+
+
+Persons chosen as our lucky pick for this month
+Through the prize giveaway of 18.5 million dollars
+And a brand new 2021 Mercedes Benz in the color of your choice
+Congratulations for being one of our newest player
+
+
+      6. Lost Weekend
+
+
+[Verse]
+Back when no one could tell us apart
+
+
+And I'd turn down the music to parallel park
+
+
+We were playing
+for no one
+on top of the world
+I talk in my sleep and you kiss like a girl
+
+
+Then when the van broke down in the heat wave
+You took off your pants on the side of the freeway
+I had the thought you would outlive me
+
+
+I loved you and you couldn't forgive me for that
+
+
+I think I know why you've been blowing me off
+I've been using my friends and losing the plot
+
+
+Surviving my gift until I get shot
+
+
+I'm supposed to be married, but I called it off
+
+
+I've been known to throw a tantrum
+When things are not the way I imagine thеm
+
+
+I am restoring the natural order
+Lеarning the same lesson over and over again
+
+
+Lyin' awake, you were glow in the dark
+
+
+Lying to me with your hand on my heart
+
+
+It's all gonna be alright, we'll make it through
+You know me, and I'll never forgive you for that
+
+
+[Instrumental Outro]
+      7. Haunted
+
+
+[Verse 1]
+It is not this house that's haunted
+But I don't want it either way
+
+
+I've been daydreaming about sleeping
+But by the evening, I'm wide awake
+
+
+
+
+[Chorus]
+I'm off to see an old friend
+
+
+We're gonna get on the road again
+
+
+I'll be wavin' from the plane
+
+
+I'll see the sky in the ocean
+A couple ibuprofen
+And I'm sleepin' all the way
+
+
+
+
+[Post-Chorus]
+(Woo)
+
+
+[Verse 2]
+(I have no hope)
+I have no secrets, only feelings
+
+
+And I know those go away
+
+
+There is a difference
+Between lying and deciding what not to say
+
+
+
+
+[Chorus]
+So I'm puttin' on my makeup
+While they're lighting the stage up
+
+
+Just like candles in a cake
+
+
+If you're gonna make a wish
+Then you better be specific
+You're gonna have to live it every day
+
+
+
+
+[Bridge]
+I'm gonna put myself together
+You can go or you can stay
+I'm gonna put myself together either way
+
+
+
+
+[Chorus]
+'Til then, I'm gonna listen
+To the song of the siren
+
+
+No, I am not afraid (I am not afraid)
+
+
+You won't have to open a heart that's broken (Broken)
+
+
+Water's gonna flow in either way (Flow in either way)
+
+
+My heart is growin' either way
+      8. Panorama
+
+
+[Instrumental Intro]
+
+
+[Verse]
+A panorama hotel room
+
+
+I chose this number for the view
+
+
+Bags exploded all over the floor
+
+
+And someone's at the door
+
+
+If you’re drinking, then I'm drinking
+      9. Still Standing
+
+
+[Verse 1]
+Pushed head first into the world
+
+
+Just to be thrown in the street when you're dressed like a girl
+
+
+An angel in the snow, accident prone
+
+
+You left your suitcase by the bed
+
+
+Like you needed to know you could go whenever you wanted
+
+
+And I'm out on my feet
+
+
+
+
+[Chorus]
+But I am still standing
+At the top of the stairs, turning red
+Pound for pound in a prom dress
+You tried to make me afraid
+
+
+We were both shining
+Feeling indifferent, wearing black
+
+
+Sometimes I want you back
+But not today
+
+
+
+
+[Post-Chorus]
+(Ooh)
+
+
+[Verse 2]
+I found her bleeding over the sink
+
+
+But whеn you said, "Sorry"
+You were looking at me
+
+
+I can't rеmember what I said
+But I didn't mean it
+
+
+
+
+[Chorus]
+I wasn't too young to understand
+I just didn't think it was so bad
+And it wasn't, in a way
+
+
+And now there is nothing
+Your back to the ocean, burning red
+
+
+I can't imagine you dead
+But you are every day
+
+
+Thank you for everything
+
+
+
+
+[Outro]
+(Ooh)
+(Ooh)
+(Ah-ah-ah)
+(Mm, mm)
+      10. Liberty Tree 
+
+
+[Verse 1]
+Liberty Tree Mall
+
+
+In the photo booth
+
+
+This place is dying
+
+
+We don't care if we're living proof
+I'm sticking out my tongue
+And liftin' up my shirt
+Not gettin' any younger, honey
+But if we don't try, how can we be sure?
+
+
+
+
+[Chorus]
+You were made in the image of God
+But you look like your mom in this picture of us
+
+
+Fallin' in love that night after our fight
+And the past is lookin' brighter all the time
+
+
+[Post-Chorus]
+(La-la, la-la)
+(Ooh)
+
+
+[Verse 2]
+I'm running through the airport
+Still putting on my shoes
+
+
+Not feelin' any better
+I got too much money and nothing to lose
+
+
+[Chorus]
+I was alone with my thoughts in an outline of chalk
+
+
+Flying close to the sun with my sunglasses on
+
+
+Don't die, Bobby, before I die
+It feels so good to have you in my life
+
+
+
+
+[Outro]
+
+
+(Ooh, ooh)
+(Ooh, ooh)
+
+
+
+
+      11. Never Going Back!
+
+
+[Verse: Phoebe Bridgers]
+Never going back again
+The way it used to be is not the way that it is
+Never going back again
+The way it used to be is not the way that it is
+Never going back again
+The way it used to be is not the way that it is
+Never going back again
+The way it used to be is not the way that it is
+Never going back again
+The way it used to be is not the way that it is
+Never going back again
+The way it used to be is not the way that it is
+Never going back again
+Never going back again
+Never going back again
+Nеver going back again
+
+
+(Woo)
+
+
+
+
+[Outro: Tony Bridgers]
+
+
+Hey Phoebе, it's your dad
+Uh, I know you're busy
+Being a rock star takes up a lot of your time, I'm guessing
+Hahaha, you're everywhere, dude
+Anyway, give me a call if you get a chance
+Love you
+      12. Other Plans
+[Verse]
+I remember the day I created the world
+I got blood on my favorite shirt
+
+
+You were shaking like a final girl
+
+
+I got what I deserved
+
+
+That night, I had a dream that I was sleeping
+
+
+I should not have driven home
+I was gonna show you colors you had never seen
+And leave you alone
+
+
+
+
+[Chorus]
+But our love
+Our love, our love had other plans for us
+
+
+Our love, honey
+
+
+Our love, our love had other plans, mm
+
+
+      13.  Lost Parade 
+
+
+This song is an instrumental
+      14. I Can't Wait
+
+
+[Verse 1: Phoebe Bridgers]
+Baby, baby, if you leave me
+Can you take me with you?
+
+
+I can sit in the back seat
+Sometimes when the night is quiet
+I'll turn all the lights on
+Like the end of the movie
+
+
+
+
+[Chorus: Phoebe Bridgers]
+I can't wait, but I'm waiting
+
+
+I'm still up, but I'm fading
+
+
+
+
+[Verse 2: Phoebe Bridgers]
+Not so slowly getting older
+California sober
+
+
+I live by the water
+Go dancing with my understudy
+Could be anybody, make me an offer
+
+
+
+
+[Chorus: Phoebe Bridgers]
+I'm not good, but I'm better
+Missed my cue, but whatever
+
+
+It's now or never
+
+
+[Instrumental Break]
+
+
+      15.  As Above 
+
+
+[Verse 1]
+Trying not to look down
+Making faces at a kid on the plane
+
+
+Trying not to freak out
+About bein' a couple days late
+
+
+Started watchin' a movie
+One where they go back in time
+
+
+And it got to me
+I don't know why
+
+
+
+
+[Chorus]
+As above, so below
+As above, so below
+
+
+
+
+[Verse 2]
+I thought about Air Force One
+Flying over Omaha
+
+
+I thought about my mom
+Drivin' herself to the hospital
+
+
+I'm always lookin' for the exit
+
+
+I've never been afraid of heights
+Now, I don't want to live forever
+But I don't wanna die
+
+
+Before I take you to Coney Island
+Screamin' on the Wonder Wheel
+
+
+You're gonna take me for granted
+But I can handle it
+
+
+
+
+[Bridge]
+Whatever happens after, it doesn't matter
+You won't have to believe in magic
+Leave it to me and I'll make it happen
+You won't have to believe in magic
+Leave it to me and I'll make it happen
+You can't imagine, I can't imagine
+
+
+
+
+[Chorus]
+As above, so below
+As above, so below
+
+
+
+
+[Outro]
+As it was, so it goes
+      16. Lost Weekend (Reprise) 
+[Verse 1]
+He never made it a day in a shirt
+
+
+He's not comin' back as a bird
+
+
+He's not coming back
+He's not coming back
+
+
+But I still live by the things he taught me
+
+
+Like how to forgive when they're not sorry
+
+
+And the government isn't tryna kill you
+They just don't care if they kill you
+
+
+I am my old man's oldest son
+
+
+I fought the wall and the wall won
+
+
+But if I ever come out of hiding
+
+
+You won't have to know how to find me again
+
+
+
+
+[Verse 2]
+
+
+Now I can't see any stars in the sky
+When a dream comes true, a fantasy dies
+
+
+But we're gonna be alright, me and you
+
+
+You love me and I won't еver let you forget, not yеt
+
+
+
+
+[Outro]
+Ooh, ooh-ooh, ooh
+
+
+
+
+Julien Baker Lyrics
+Sprained Ankle
+
+
+      1. Blacktop 
+
+
+[Verse 1]
+Do you think that there's a way I could ever get too far
+That you'd ask me where I'd been
+Like I ask you where you are?
+But I know you're in the pews
+The same as stools around the bar
+
+
+And I know I saw your hand
+When I went out and wrapped my car
+Streetlamp, around the streetlamp
+
+
+
+
+[Verse 2]
+So I wrote you love letters
+And sung them in my house
+And all around the South
+The broken strings and amplifiers scream with holy noise
+In hopes to draw you out
+
+
+But if no one sings along in praise
+Are you still proud when I open my mouth?
+
+
+
+
+[Chorus]
+Come visit me, come visit me
+In the back of an ambulance
+
+
+A saline communion that I held like a séance on the blacktop
+
+
+The devil in my arms says feed me to the wolves tonight
+
+
+And come visit me
+In the back of an ambulance
+
+
+And a saline communion
+that I held like a séance
+
+
+      2. Sprained Ankle 
+
+
+[Verse]
+Wish I could write songs about anything other than death
+
+
+But I can't go to bed without drawing the red, shaving off breaths;
+
+
+Each one so heavy, each one so cumbersome
+Each one a lead weight hanging between my lungs
+Spilling my guts, sweat on a microphone, breaking my voice
+Whenever I'm alone with you, can't talk but
+"Isn't this weather nice? Are you okay?"
+Should I go somewhere else and hide my face?
+
+
+A sprinter learning to wait
+
+
+A marathon runner, my ankles are sprained
+A marathon runner, my ankles are sprained
+
+
+      3. Brittle Boned 
+
+
+The low, electric glow, static snows in the lobby
+Dull TV, magazines, waiting rooms can't hide me
+From the sting, paper sheets, bloodwork and the IV
+And the whirring machines while the nurses reassure me
+This will be quick and easy, I'm not gonna feel a thing
+
+
+Lie and say it'll be alright, like a stray falling asleep
+'Cause I'm so good at hurting myself
+
+
+Pulse is slow, faint metronome on my left side
+Beneath my protruding spine
+You can hardly hear at night
+White flag, blindfold covering my sunken eyes
+And a line of rifles aimed at my sick mind
+
+
+'Cause I'm so good at hurting myself
+
+
+      4. Everybody Does
+
+
+[Verse]
+Let me pick through the empty dirt
+And the rotten wood and the shoddy work
+'Cause I'm interested
+And our carpenter is so elegant
+At placing splinters right beneath my nails
+Where I cannot dig them out
+But the same briars from your ribs
+Are the tinder in my father's house
+
+
+
+
+[Pre-Chorus]
+And I know, I know
+I know, I know
+I know myself better than anybody else
+And you're gonna run
+
+
+[Chorus]
+You're gonna run when you find out who I am
+
+
+I know I'm a pile of filthy wreckage
+You will wish you'd never touched
+
+
+But you're gonna run when you find out who I am
+Yeah, you're gonna run
+
+
+
+
+[Outro]
+You're gonna run, it's alright, everybody does
+You're gonna run, it's alright, everybody does
+You're gonna run, it's alright, everybody does
+
+
+      5. Good News 
+
+
+[Verse]
+Your long hair, a short walk
+My biggest fear and a slow watch
+In the thin air, my ribs creak
+Like wooden dining chairs when you see me
+Always scared that every situation ends the same
+With a blank stare
+Me and the tap water circling the sink drain
+Because it's heavy, I'm trying really hard
+To keep my nose clean, the blue out of my arms
+But it's not easy, it's not easy
+When what you think of me is important
+And I know it shouldn't be so damn important
+But it is to me
+And I'm only ever screaming at myself in public
+I know I shouldn't act this way in public
+
+
+I know I shouldn't make my friends all worry
+When I go out at night
+And grind my teeth like sutures, my mouth like a wound
+
+
+When I stay up and throw my voice about you
+Or less about you, and more about how I ruin
+Everything I think could be good news
+
+
+      6. Something 
+
+
+[Verse 1]
+I know you're sleeping by now
+But I'm still up walking around
+The walls of my skull bend backwards
+And in like a labyrinth
+
+
+And I knew I was wasting my time
+Keep myself awake at night
+'Cause whenever I close my eyes
+I'm chasing your tail lights
+
+
+In the dark, in the dark, in the dark
+And I know you left hours ago
+I still haven't moved yet
+I knew you were gone months ago
+But I can't think of anyone else
+
+
+[Chorus]
+I should have said something, something, something
+But I couldn't find something to say
+So I just said nothing, nothing, nothing
+
+
+Sat and watched you drive away
+
+
+[Verse 2]
+And I just let the parking lot swallow me up
+Choking your tires, kicking up dust
+Asking aloud why you're leaving
+But the pavement won't answer me
+And I just let the silence swallow me up
+The ring in my ears tastes like blood
+
+
+Asking aloud why you're leaving
+But the pavement won't answer me
+
+
+[Chorus]
+And I know I meant nothing, nothing to you
+But I thought I meant something, something, something
+But I just said nothing, said nothing, said nothing
+Sat and watched you drive away
+
+
+
+
+[Outro]
+Oh I just said nothing, said nothing, said nothing
+I can't think of anyone, anyone else
+I can't think of anyone, anyone else
+I can't think of anyone, anyone else
+I can't think of anyone, anyone else
+No, I won't think of anyone else
+
+
+      7. Rejoice 
+
+
+[Verse]
+All of my friends, a plastic bag
+
+
+Walking around, jumping the train tracks
+Over the fence, veins all black
+
+
+Sleep on a bench in the park on my birthday
+Call the blue lights, curse Your name
+When I find I'm still awake
+
+
+
+
+[Chorus]
+Give me everything good and I'll throw it away
+I wish I could quit but I can't stand the shakes
+Choking to smoke or singing your praise
+But I think there's a God and He hears either way
+When I rejoice and complain
+
+
+I never know what to say
+But I think there's a God and He hears either way
+When I rejoice and complain
+
+
+Lift my voice that I was made
+
+
+And somebody's listening at night
+With the ghosts of my friends when I pray
+Asking, "Why did you let them leave
+And then make me stay?"
+
+
+Know my name and all of my hideous mistakes
+
+
+
+
+[Outro]
+I rejoice, I rejoice
+I rejoice, I rejoice
+
+
+      8. Vessels 
+
+
+[Verse]
+Tell me in thin paper about your love
+Breath like thick water lives in my lungs
+My skin is full of black ink in your white clothes
+For so much I think, little I know
+Pull off my armor, knees bruised and naked
+Peel back my skin, call out my name
+
+
+Vessel of brightness, come make me blind
+This present darkness is swallowed by light
+
+
+
+
+[Outro]
+And my skeleton is a house for my eyes
+
+
+Purchased with a bleeding side
+
+
+      9. Go Home
+
+
+[Verse]
+I went walking again, I'll go out
+And forget to tell any of my friends where I'm going
+
+
+I'm just drunk on the side of the road in a ditch
+
+
+When you find me, I wanna go home, but I'm sick
+
+
+There's more whiskey than blood in my veins
+
+
+More tar than air in my lungs, the strung out call I make
+Burned down on the edge of the highway
+"I'm sorry for asking, but please, come and take me home"
+
+
+I quit talking again, but I know you're still listening
+
+
+To see if I sleep or pierce my skin
+
+
+Needles to the worn-out rags
+
+
+The folds in my arms, the sickening black
+
+
+
+
+[Chorus]
+And I haven't been taking my meds
+Lock all the cabinets and send me to bed
+'Cause I know you're still worried I'm gonna get scared
+'Cause I'm alone again and I don't like the things I see
+
+
+And I haven't been taking my meds
+
+
+So lock all the cabinets and send me to bed
+
+
+'Cause I know you're still worried I'm gonna get scared again
+
+
+And make my insides clean with your kitchen bleach
+
+
+But I've kissed enough bathroom sinks
+To make up for the lovers that never loved me
+
+
+[Outro]
+And I know my body is just dirty clothes
+I'm tired of washing my hands
+
+
+God, I wanna go home
+
+
+Turn Out the Lights
+
+
+      1. Over 
+
+
+This song is an instrumental
+
+
+      2. Appointments 
+
+
+[Verse 1]
+I'm staying in tonight
+I won't stop you from leaving
+
+
+I know that I'm not what you wanted, am I?
+
+
+Wanted someone who I used to be like
+Now you think I'm not trying
+I don't argue, it's not worth the effort to lie
+
+
+You don't want to bring it up
+
+
+And I already know how it looks
+
+
+You don't have to remind me so much
+How I disappoint you
+
+
+Suggest that I talk to somebody again
+That knows how to help me get better
+And 'til then I should just try not to miss any more
+Appointments
+
+
+
+
+[Verse 2]
+I think if I ruin this
+That I know I can live with it
+
+
+Nothing turns out like I pictured it
+Maybe the emptiness is just a lesson in canvases
+
+
+I think if I fail again
+That I know you're still listening
+
+
+Maybe it's all gonna turn out all right
+And I know that it's not, but I have to believe that it is
+
+
+[Bridge]
+I have to believe that it is
+I have to believe that it is
+(I have to believe it, I have to believe it)
+I have to believe that it is
+(Probably not, but I have to believe that it is)
+
+
+
+
+[Chorus]
+And when I tell you that it is
+Oh, it's more for my benefit
+
+
+Maybe it's all gonna turn out all right
+Oh, I know that it's not, but I have to believe that it is
+
+
+      3. Turn Out the Lights 
+
+
+[Verse 1]
+There's a hole in the drywall still not fixed
+I just haven't gotten around to it
+And besides I'm starting to get used to the gaps
+
+
+Say you wish you could find some way to help
+Not to be so hard on myself
+So why is it easy for everyone else?
+
+
+I'm not always like this
+There's always tomorrow, I guess
+
+
+[Verse 2]
+And I'd never do it, but it's not a joke
+
+
+I can't tell the difference when I'm all alone
+Is it real or a dream, which is worse?
+Can you help me? I just wanted to go to sleep
+
+
+[Chorus]
+(When I turn out the lights)
+When I turn out the lights
+There's no one left
+Between myself and me
+But when I turn out the lights
+When I turn out the lights
+When I turn out the lights, oh
+There's no one left
+Between myself and me
+
+
+      4. Shadowboxing 
+
+
+[Verse 1]
+Born cutting teeth on the curb
+Summoning ghosts up from the concrete
+Keeping me company while I learned
+Shadowboxing with giants
+
+
+That grew from our feet
+
+
+[Chorus]
+I know that you don't understand
+'Cause you don't believe what you don't see
+When you watch me throwing punches at the devil
+Ooh, it just looks like I'm fighting with me
+
+
+
+
+[Verse 2]
+But there's a comfort in failure
+
+
+Singing too loud in church
+Screaming my fears into speakers
+
+
+'Til I collapse or I burst
+Whichever comes first
+
+
+[Chorus]
+I know you were trying to help
+But you're only making it worse
+
+
+Tell me that I shouldn't blame myself
+But you can't even imagine how badly it hurts
+
+
+Just to think sometimes
+How I think almost all the time
+
+
+
+
+[Bridge]
+So break me down
+Folded over your arms
+Like an unloaded shotgun
+Dismantled and harmless
+Even you couldn't manage to pull
+The fuse from the back of my head
+
+
+
+
+[Chorus]
+When you tell me you love me
+Tell me you loved me
+I wanted so bad to believe it
+So tell me you love me
+Tell me you loved me
+I wanted so bad
+I wanted so bad to believe you
+
+
+      5. Sour Breath 
+
+
+[Verse 1]
+I know you do better when you're by yourself
+Free from the weight of my dirt-poor health
+
+
+New drugs to fix all my missing cells
+
+
+Didn't bring it up 'cause I've done so well this week
+And I thought that if I tried a little bit harder you'd change your mind
+I've still got nowhere to be and I don't do too well
+Nobody's worried
+When nobody's worried about me
+
+
+[Verse 2]
+But I shouldn't have built a house in the middle of your chest
+Plywood boards joined at your breast
+
+
+Splinter in my arm where you rest your head
+Checking my watch till you come to bed
+
+
+Kiss me goodnight with your sour breath
+Breaks on my face like a wave of emptiness
+
+
+And when I talk, just taste regret
+You're everything I want and I'm all you dread
+
+
+
+
+[Bridge]
+Watch the poison leak from your pores
+
+
+Think all the liquor's gonna keep you warm
+
+
+Burn everything down to prove you could
+Leave me inside in a body made of wood
+In a body made of wood
+
+
+[Chorus]
+Oh, the harder I swim, the faster I sink
+The harder I swim, the faster I sink
+The harder I swim, the faster I sink
+The harder I swim, the faster I sink
+The harder I swim, the faster I sink
+The harder I swim, the faster I sink
+The harder I swim, the faster I sink
+The harder I swim, the faster I sink
+
+
+      6. Televangelist 
+
+
+[Verse 1]
+My heart is gonna eat itself
+I don't need anybody's help
+It's just me, the vacant, and nobody else
+At least that's what I tell myself
+
+
+[Chorus]
+'Cause I'm an amputee with a phantom touch
+Leaning on an invisible crutch
+
+
+Pinned to the mattress like an insect to styrofoam
+
+
+Calling out from my bedroom alone
+
+
+
+
+[Verse 2]
+And I know what's in my cannibal chest
+That's been dug out like a strip mine till there's nothing left
+
+
+Hold the chorus in between my ears until I go deaf
+That remind me exactly what I am every chance they get
+
+
+[Chorus]
+Am I a masochist screaming televangelist?
+Clutching my crucifix of white noise and static
+
+
+All my prayers are just apologies
+Hold out a flare until you come for me
+Do I turn into light if I burn alive?
+      7. Everything To Help You Sleep 
+
+
+[Verse 1]
+What is it like to be empty?
+Full of only echoes and my body caving in
+A cathedral of arching ribs
+Heaving out their broken hymns
+
+
+[Verse 2]
+Thought I made out your reply
+In the seconds between sound and light
+And I could have sworn the sirens
+Were the holy ghost just speaking in morse code
+
+
+[Chorus]
+'Cause Lord, Lord, Lord, is there some way to make it stop?
+'Cause nothing that I do has ever helped to turn it off
+And everything supposed to help me sleep at night
+Don't help me sleep at night anymore
+
+
+
+
+[Verse 3]
+From a distance, light from stars
+Entry wounds or puncture marks
+Leaking from your arms
+Through the perforated dark
+
+
+[Chorus]
+'Cause Lord, Lord, Lord, is there some way to make it stop?
+'Cause nothing that I do has ever helped to turn it off
+And everything supposed to help me sleep at night
+Don't help me sleep at night anymore
+
+
+[Outro]
+So could you hear from heaven on earth
+If I scream a little louder, I know you would have heard
+Say there's no way I could be further
+If I scream a little louder I know you would have heard it
+
+
+      8. Happy to Be Here 
+
+
+[Verse 1]
+If I could do what I want
+I would become an electrician
+I'd climb inside my ears
+And I would rearrange the wires in my brain
+A different me would be inhabiting this body
+I'd have two cars, a garage, a job
+And I would go to church on Sunday
+
+
+
+
+[Verse 2]
+A diagram of faulty circuitry
+Explains how I was made
+
+
+And now the engineer is listening
+As I voice all my complaints
+
+
+From an orchestra of shaking metal keeping me awake
+I was just wondering if there's any way that You made a mistake
+
+
+
+
+[Chorus]
+Because I miss you the way that I miss nicotine
+If it makes me feel better, how bad could it be?
+
+
+Well I heard there's a fix for everything
+Then why, then why, then why
+Then why not me?
+
+
+
+
+[Verse 3]
+The first of April saw the sickening repair
+Wore my best shirt to the clinic decorated with a laminate name
+
+
+No one is laughing from an audience of folding plastic chairs
+And I'm not fooled when you tell me that you're glad I came
+
+
+Am I honest to admit or just a hypocrite?
+I know I should be being optimistic but I'm doubtful I can change
+Grit my teeth and try to act deserving
+When I know there is nowhere I can hide
+From your humiliating grace
+
+
+[Chorus]
+Because if you swear that it's true
+Then I have to believe
+What I hear evangelicals say on TV
+And if there's enough left after everyone else
+Then why, then why, then why
+Then why not me?
+
+
+      9. Hurt Less 
+
+
+[Verse 1]
+I used to never wear a seatbelt
+'Cause I said I didn't care
+What happened
+And I didn't see the point
+In trying to save myself
+From an accident
+
+
+'Cause if somebody's gonna help me
+What's this fabric gonna help?
+And when I'm pitched through the windshield
+I hope the last thing that I felt before the pavement
+Was my body float
+I hope my soul goes too
+
+
+
+
+[Verse 2]
+I shouldn't have let you leave
+I should have called you twice
+But I didn't
+
+
+'Cause it's always something else
+
+
+And I know it's a bad time
+But there's no one left for me to call
+And I was wondering if you would be my ride
+
+
+And damn it, we are gonna figure something out
+If it takes me all night to make it hurt less
+
+
+[Chorus]
+Leave the car running
+I'm not ready to go
+
+
+It doesn't matter where
+I just don't want to be alone
+And as long as you're not tired yet
+Of talking, it helps to make it hurt less
+Oh, leave the car running
+I'm not ready to go
+And it doesn't matter where
+I just don't want to be alone
+And as long as you're not tired yet
+Of talking, it helps to make it hurt less
+
+
+[Outro]
+This year I've started wearing safety belts
+When I'm driving
+
+
+Because when I'm with you
+I don't have to think about myself
+
+
+And it hurts less
+      10. Even 
+
+
+[Verse 1]
+When is it too many times
+To tell you that I think of you every night?
+I don't want to make it hard on you
+So I could be cruel
+Yeah, I could make you hate me
+Would that make it easy?
+
+
+[Verse 2]
+Did you think I forgot the fireworks, the black eye?
+Trading blows on the Fourth of July?
+But you were right, I was asking for it
+I always am
+It's no good if the pain doesn't make you feel like you earned it
+And I probably deserved it
+
+
+[Chorus]
+'Cause all you ever say is "What's the point?
+Is anybody there to help me now?"
+It's not that I think I'm good
+I know that I'm evil
+I guess I was trying to even it out
+
+
+
+
+[Verse 3]
+Isn't that what you want?
+For me to be miserable like you?
+Well brother, you're about to get your wish
+Putting my fist through the plaster in the bathroom of a Motel 6
+
+
+I must have pictured it all a thousand times
+I swear to God I think I'm gonna die
+I know you were right
+I can't be fixed, so help me
+
+
+ [Chorus]
+'Cause all you ever say is "What's the point?
+Is anybody there to help me now?"
+It's not that I think I'm good
+I know that I'm evil
+I guess I was trying to even it out
+
+
+      11. Claws in Your Back 
+
+
+[Verse 1]
+
+
+Collecting the circles that tell us
+How old we are beneath our eyelids
+
+
+Wearing a purple badge to prove what I did
+
+
+Pump the vitals out of my wrist
+'Cause I'm conducting an experiment on how it feels to die
+Or stay alive
+
+[Verse 2]
+So try to stay calm, 'cause nobody knows
+The violent partner you carry around
+With claws in your back, ripping your clothes
+And listing your failures out loud
+
+
+It's more than the skeleton next to my coat
+The black that I held in the back of my throat
+Follows you straight into the dark
+
+
+The easy way out and the hardest part
+
+
+[Chorus]
+When it won't leave me alone
+I'm better off learning
+How to be
+Living with demons I've
+Mistaken for saints
+If you keep it between us
+I think they're the same
+
+
+I think I can love
+The sickness you made
+'Cause I take it all back, I changed my mind
+I wanted to stay
+I wanted to stay
+Little Oblivions
+
+
+      1. Hardline 
+
+
+[Verse 1]
+
+
+Blacked out on a weekday
+Is there something that I'm trying to avoid?
+
+
+Start asking for forgiveness in advance
+For all the future things I will destroy
+That way I can ruin everything
+When I do, you don't get to act surprised
+When it finally gets to be too much
+I always told you you could leave at any time
+Until then, I'll split the difference
+Between medicine and poison
+
+
+Take what I can get away with
+
+
+While it burns right through my stomach
+
+
+I'm telling my own fortune
+Something I cannot escape
+I can see where this is going
+But I can't find the brake
+
+
+
+
+[Instrumental Break]
+
+
+[Verse 2]
+Knocked out on a weekеnd
+Would you hit me this hard if I were a boy?
+
+
+See, I don't need you to dеfend me
+'Cause it's just the sort of thing that I enjoy
+Took the fall, I draw a hard line
+When I cross it, it's the third time
+
+
+Say my own name in the mirror
+And when nobody appears
+
+
+Say it's not so cut and dry
+Oh, it isn't black and white
+What if it's all black, baby?
+All the time
+
+
+[Outro]
+Oh, all the time
+Oh, all the time
+Oh, all the time
+
+
+      2. Heatwave
+
+
+[Verse 1]
+Shell of an engine, unexplained
+Burst to fire engulfed in flames
+Breathing exhaust, a heatwave mirage
+Nothing to lose till everything's really gone
+It's worse than death that life compressed
+To fill a page in the Sunday paper
+I had the shuddering thought:
+"This was gonna make me late for work"
+
+
+[Verse 2]
+Biting a chain, free like a lame
+Oh, can you be healed?
+Scratch my knees on the gravel
+Say it's all part of the deal
+
+
+Coverеd in scars a canyon deep
+It's not like what I thought it'd be
+The gruеsome beauty of your face in everyone I meet
+
+
+[Chorus]
+I was on a long spiral down
+Before I make it to the ground
+I'll wrap Orion's belt around my neck
+And kick the chair out
+
+
+On a long spiral down
+Before I make it to the ground
+I'll wrap Orion's belt around my neck
+And kick the chair out
+And I'll kick the chair out
+Kick the chair out 
+
+
+      3. Faith Healer 
+
+
+[Verse]
+
+
+Ooh, I miss it high, how it dulled the terror and the beauty
+Now I see everything in startling intensity
+
+
+Oh, what I wouldn't give if it would take away the sting a minute
+Everything I love, I'd trade it in to feel it rush into my chest
+
+
+[Pre-Chorus]
+The smoke alarm's been going off for weeks, no one showed up
+And half the time it isn't what you think of
+
+
+[Chorus]
+Faith healer, come put your hands on me
+
+
+A snake oil dealer
+
+
+I'll believe you if you make me feel something
+Oh, faith healer, come put your hands all over me
+
+
+A snake oil dealer
+
+
+I'll believe you if you make me feel something
+
+
+
+
+      4. Relative Fiction 
+
+
+[Verse 1]
+Midnight, you could see me dangling
+Glow like a cherry falling, now it's a downpour
+You could see me racing the rain to the ground floor
+
+
+You're the only thing I'll wait around for
+Maybe when you get off of work, could you meet me?
+We could go barreling down on the main street
+
+
+You could try watching while I run through the high-beams
+
+
+
+
+[Bridge]
+'Cause if I didn't have a mean bone in my body
+I'd find some other way to cause you pain
+
+
+I won't bother telling you I'm sorry
+For something that I'm gonna do again
+
+
+
+
+[Verse 2]
+When I could spend the weekend out on a bender
+
+
+Do I get callous or do I stay tender?
+
+
+Which of these is worse and which is better?
+Dying to myself virtually, a massacre
+A character of somebody's invention
+
+
+A martyr in another passion play
+
+
+I guess I don't mind losing my conviction
+If it's all relative fiction anyway
+
+
+
+
+[Verse 3]
+'Cause I don't need a savior, I need you to take me home
+
+
+I don't need your help, I need you to leave me alone
+
+
+I'm out where the drunks at the bar talk over the band
+I try to express, I can't understand
+
+
+I beat at the keys, I bloody my hands
+
+
+'Til you hear me
+
+
+I've got no business praying
+I'm finished being good
+Now I can finally be okay in not the way I thought I should
+
+
+Mm-mm
+
+
+      5. Crying Wolf 
+
+
+[Verse 1]
+Day-one chip on your dresser
+
+
+Get loaded at your house
+
+
+I ask if you remember
+You say, "I don't know what you're talking about"
+
+
+Swallow the truth
+Force the charcoal down my throat
+
+
+Finally come to, maybe I'll have something to show
+It's the first day of the new year
+All the visitors went home
+I found out what I thought was just a pretty trick of smoke
+
+
+Couldn't stand the thought of having everything to lose
+
+
+So I tied a knot
+
+
+
+
+[Chorus]
+'Cause I'm not crying wolf
+I'm out here looking for them
+In the morning when I wake up
+Naked in their den
+
+
+I swear off all the things I thought that got me here
+In the evening, I'll come back again
+
+
+[Instrumental Break]
+
+
+[Chorus]
+'Cause I'm not crying wolf
+I'm out here looking for them
+
+
+In the morning when I wake up
+Naked in their den
+Ooh, I'm out here looking for them
+In the morning when I wake up
+Naked in their den
+And I swear off all the things I thought that got me here
+In the evening, I'll come back again
+      6. Bloodshot 
+
+
+[Verse 1]
+I can see myself inside your bloodshot eyes
+Wondering if you can see yourself in mine
+Or do you just see me?
+And of me, what you want to see
+
+
+Middle of the night, all I can see are stars
+Pulled 'em from my eyes and your ex-lover's arms
+Throw hook after hook and if I were you
+After all that I did, I'd have done it to me, too
+
+
+[Refrain]
+Isn't like I did it on purpose
+I just forget the second I learned it
+Everything I get, I deserve
+You whisper to me
+"Don't you like when it hurts?"
+Oh-mm, mm-mm
+
+
+[Verse 2]
+Five days out from thе initial event
+It's two kinds of pills to unclench my fists
+It's too kind of you to say you can hеlp
+But there's no one around who can save me from myself
+
+
+
+
+[Refrain]
+Isn't like I do this on purpose
+I just forget the second I've learned it
+Looking for little oblivions
+I'd do anything knowing you would forgive me, oh
+
+
+      7. Ringside 
+
+
+[Verse 1]
+Beat myself until I'm bloody
+And I'll give you a ringside seat
+Say that it's embarrassing
+I'm sorry that you had to see me like that
+
+
+
+
+[Verse 2]
+So you could either watch me drown
+Or try to save me while I drag you down
+Wanna fix it, but I don't know how
+It isn't fair to make you wait around
+
+
+While all your friends are going out
+
+
+[Verse 3]
+So Jesus, can you help me now?
+
+
+Trade me in for a briar crown
+
+
+Is there anybody coming back for me?
+If they ever were, they are not now
+
+
+[Chorus]
+So what's there left to talk about?
+I'm holding on just like a scratch-off ticket
+How I dig my nails into your skin
+
+
+Honey, I'm not stupid
+I know no one wins this kind of thing
+It's just another way to kill an hour
+
+
+Wishing I was different
+Nobody deserves a second chance
+But, honey, I keep getting them
+
+
+[Outro]
+Like a scratch-off ticket
+How you dig your nails into my skin
+Honey, I'm not stupid
+I know no one wins this kind of thing
+It's just another way to kill an hour
+Wishing I were different
+
+
+Nobody deserves a second chance
+But I keep giving them
+
+
+      8. Favor
+
+
+[Verse 1]
+We took the 40 down to
+
+
+Visit the family and I
+Told you the only kin I knew
+Was who I could see from the gurney
+
+
+I used to think about myself
+Like I was a talented liar
+Turns out that all my friends were
+Trying to do me a favor
+
+
+[Chorus]
+I always wanna tell the truth
+But it never seems like the right time
+To be serious enough
+I'm sorry I'm making myself cry
+
+
+[Post-Chorus]
+How long do I have until
+I've spent up everyone's goodwill?
+
+
+[Instrumental Break]
+
+
+[Verse 2]
+Sat on the hood, out all night
+Trying to scrape together change
+You pulled a moth out
+From the grill of your truck
+
+
+Saying it's a shame
+How come it's so much еasier
+With anything less than human
+Letting yoursеlf be tender?
+Well, you couldn't make me do it
+
+
+[Chorus]
+It doesn't feel too bad, but it
+Doesn't feel too good, either
+Just like a nicotine patch, it
+Hardly works, then it's over
+
+
+[Bridge]
+Who put me
+In your way to find?
+And what right had you
+Not to let me die?
+Ooh, but did I even know
+What I was asking for?
+If I had my way
+
+
+I'd have missed you more
+Than you missed me
+You missed me
+
+
+
+
+[Outro]
+You missed me
+You missed me
+
+
+      9. Song in E 
+
+
+[Verse 1]
+I wish that I drank
+Because of you and not only because of me
+And then I could blame something painful enough
+Not to make me look any more weak
+
+
+
+
+[Verse 2]
+When you heard my name
+You could be angry and have a good reason to be
+And then when I sang
+A horrible drunken parade of my worst thoughts
+I'd say, "Give me no sympathy"
+
+
+It's the mercy I can't take
+
+
+
+
+[Instrumental Break]
+
+
+[Verse 3]
+Oh, I wish you'd come over
+Not to stay, just to tell me that I
+Was your biggest mistake to my face
+And then leave me alone
+
+
+In an еmpty apartment, face down in the carpеt
+I wish you'd hurt me
+It's the mercy I can't take
+
+
+      10. Repeat 
+
+
+[Verse 1]
+Ocean of strip malls
+I help you swim across
+To the other side
+Of the truck stop light
+When the drugs wear off
+Will the love kick in?
+Would you stay out long enough
+To start again?
+
+
+[Instrumental Break]
+
+
+[Verse 2]
+On and on and on, I chase your form across the bed
+Leave it up to me
+Until you come to turn it in
+Say I miss you like a mantra
+'Til I forget what it means
+Doesn't matter what you tell me
+I just need to hear you speak
+
+
+[Chorus]
+All my greatest fears turn out to be the gift of prophecy
+All my nightmares coming true
+Come do my outline in the street
+While every night I reenact thе same recurring dream
+
+
+Now I'm stuck insidе a vision that repeats, repeats, repeats
+Repeats, repeats, repeats, repeats, repeats
+Repeats, repeats, repeats, repeats, repeats
+
+
+      11. Highlight Reel 
+
+
+[Verse 1]
+Passed out in the back of a cab
+Could you pull over? I think that I'm trapped
+Caught underwater, I beat on the glass
+Gnawing my arm at the shoulder
+Would you help me get out?
+
+
+[Chorus]
+Ooh, it's a highlight reel
+Tell me how you feel
+
+
+
+
+[Verse 2]
+Pulling down a projector
+Scratched in the back of my eyes
+Hovering over, tangled in the power lines
+
+
+[Chorus]
+Ooh, it's a highlight reel
+Tell me how you feel
+
+
+
+
+[Bridge]
+Tell me what snuffed out the wick in your eye
+Pumping your chest to make sure you're alive
+When it dies, you can tell me how much was a lie
+I guess that's for me to decide
+
+
+[Outro]
+When it dies, you can tell me how much was a lie
+Oh, I guess, oh, I guess, oh, I guess
+That's for me to decide
+
+
+      12. Ziptie
+
+
+[Verse 1]
+Limping like a prodigal son
+
+
+Someone got my head in the slums
+Everything I do makes it worse
+Human nature, call it a curse
+
+
+Tired of collecting the scars
+Stories at the parties and bars
+Tryna find a reason to fight
+Someone's got my head in a zip tie
+
+
+
+
+[Chorus]
+Oh, good God
+When you gonna call it off?
+Climb down off of the cross
+And change your mind?
+
+
+
+
+[Verse 2]
+Catch me on the enemy line
+Hocking all the gold in my teeth
+Oh, I was disappointed to find out how much
+Everybody looks like me
+
+
+
+
+[Chorus]
+Oh, good God
+When you gonna call it off?
+Climb down off of the cross
+And change your mind?
+
+
+Good God
+When you gonna call it off?
+Climb down off of the cross
+And change your mind?
+Lucy Dacus Lyrics 
+No Burden
+
+
+      1. I Don't Wanna Be Funny Anymore 
+
+
+[Verse 1]
+I don't wanna be funny anymore
+I don't wanna be funny anymore
+Lately, I've been feeling like the odd man out
+I hurt my friends saying things I don't mean out loud
+
+
+[Verse 2]
+I don't wanna be funny anymore
+I got a too-short skirt, maybe I can be the cute one
+
+
+Is there room in the band? I don't need to be the frontman
+If not, then I'll be the biggest fan
+
+
+[Verse 3]
+I don't want the joke to be on me
+Yeah, I'll buy the clothes and I'll be the best dressed
+Yeah, I'll read the books and I'll be the smartest
+I'll play guitar and I'll be the artist
+
+
+[Bridge]
+Try not to laugh
+I know it'll be hard
+I'm serious
+I know it's a first but
+
+
+[Verse 4]
+I don't wanna be funny anymore
+Yeah, I'll be the gossip, hear it through the grapevine
+Pass it on, she's done with the old times
+That funny girl doesn't wanna smile for a while
+
+
+      2. Troublemaker Doppelgänger 
+
+
+[Verse 1]
+Is that a hearse or a limousine?
+It's like I've seen it on the TV screen
+
+
+She had the body of a beauty queen
+Put on a pedestal for good hygiene
+And I saw a girl that looked like you
+And I wanted to tell everyone to run away from her, run away, run away
+It couldn't have been you, but she had your eyes
+Made for faking smiles and turning tides
+Hands full of young men wrapped around her finger
+
+
+[Verse 2]
+They made you a throne out of magazines
+
+
+They made you a crown out of peonies
+
+
+She grew up as the pretty young thing
+Let them look up her skirt on the backyard swing, oh no
+And Daddy told you to stay indoors
+And I can understand how a girl gets bored
+Too old to play and too young to mess around
+She was a victim of the same disease
+That's roaming the streets and bites when it please
+And makes us wanna live forever or die in infamy
+
+
+[Chorus]
+I wanna live in a world where I can keep my doors wide open
+But who knows what'd get in and what'd get out
+One of these nights, I'll sleep with the windows down
+But not until that creature's in the pound
+
+
+[Bridge]
+No child is born knowing there's an ugly or evil thing
+When did my folks stop covering my eyes?
+Was it my brother who taught me about jealousy?
+Was it my sister who taught me about vanity?
+Was it that girl, that beautiful girl
+Thirsty for love and eager for attention
+Was it that girl who taught me about destruction?
+
+
+[Outro]
+I wanna live in a world where I can keep my doors wide open
+But who knows what'd get in and what'd get out?
+
+
+      3. Green Eyes, Red Face 
+
+
+[Verse 1]
+Slow dancing
+At low tide, low tide
+Drawn to move
+By the moon, by the moon
+
+
+[Chorus]
+And I see the seat next to yours is unoccupied
+And I was wondering if you'd let me come and sit by your side
+I've got plenty of affection
+I'd be glad to show you sometime
+
+
+[Verse 2]
+Slow motion
+In double time, double time
+You are all
+I can't deny
+
+
+[Chorus]
+And I see the seat next to yours is unoccupied
+And I was wondering if you'd let me come and sit by your side
+I've got plenty of affection
+I'd be glad to show you sometime
+
+
+[Verse 3]
+What am I supposed to do
+With you in the room?
+What am I supposed to say
+With your green eyes on my red face?
+With your green eyes on my red face
+
+
+
+
+      4. Strange Torpedo 
+
+
+[Verse 1]
+You got yourself a bunch of bad habits
+Not hard to see that love is a weakness
+Seems to me, the way you understand it
+Is that you're never gonna make it happen
+I get smoke in my eyes every time I try
+To look you in the eye and
+Do I even know what your face looks like
+Or just the cloud of smoke in its place?
+I'm trying to tell you something you might've heard before
+
+
+[Verse 2]
+You got a dollar in your pocket
+You got a pebble in your sock and
+You've got a mind of gold you keep secret
+I gotta hope that one day you'll use it
+I get tongue-tied every time I try
+To tell you what I think is right
+'Cause I think it's wrong when you sit around
+Looking like a toy in the lost and found
+I am telling you something you might've heard before
+And forgot on the spot
+
+
+[Refrain]
+Oh-woah-oh, oh-woah
+Oh-woah-oh, oh-woah
+
+
+
+
+      5. Dream State... 
+
+
+[Verse 1]
+We woke up to the thunder
+We huddled under covers
+We didn't say anything
+If you hadn't come over
+I would be so much colder
+I would be much less confused
+
+
+[Chorus]
+And then the water came
+And washed it all away
+It left me with nothing to say
+Could not believe my eyes
+I could not recognize
+Your face in the rubble
+
+
+[Post-Chorus]
+Without you, I am surely the last of our kind
+Without you, I am surely the last of my kind
+
+
+
+
+[Verse 2]
+We had a lot to measure
+We had more past than pleasure
+And time grows deep like weeds
+You catch me when I'm falling
+Sometimes, I wish you wouldn't
+I can't tell if I'm learning
+
+
+
+
+[Chorus]
+And then the water came
+And washed it all away
+It left me with nothing to say
+Could not believe my eyes
+I could not recognize
+Your face in the rubble
+
+
+[Post-Chorus]
+Without you I am surely the last of our kind
+Without you I am surely the last of my kind
+Without you I am surely the last of our kind
+Without you I am surely the last of my kind
+Without you I am surely the last of our kind
+Without you I am surely the last of my kind
+
+
+      6. Trust 
+
+
+[Verse 1]
+I set a fire on the stove
+And fed it every word I wrote
+I watched my journals turn to smoke
+
+
+Now all there is is what I spoke
+And I decided long ago
+To make the most of what I know
+And worry not of what I don't
+Perfect the art of letting go
+
+
+[Chorus]
+'Cause if I trust in somethin' else
+Then I don't need to trust myself
+I've learned a lot since I began
+But I think I was wiser then
+
+
+[Verse 2]
+I've done too much and not enough
+In trying to put you above
+I cannot tell if I'm in love
+Or whose regard I'm thinking of
+
+
+[Chorus]
+If beauty is the only way
+To make the nightmares go away
+I'll plant a garden in your brain
+And let the roots absorb the pain
+
+
+[Outro]
+I set a fire to my soul
+I hope it ate 'til it was full
+I set a fire to my soul
+It burned me and it made me whole
+
+
+      7. Map on a Wall 
+
+
+[Verse 1]
+Oh, please, don't make fun of me
+Of my crooked smile and my crowded teeth
+Of my pigeon feet, of my knobby knees
+Well, I got more problems than not
+
+
+[Chorus]
+But I feel fine and I made up my mind
+To live happily, feeling beautiful beneath the trees
+Above a ground that's solid at the core
+
+
+[Verse 2]
+Oh, please, don't make fun of me
+Oh, you know I get frightened so easily
+When I'm all alone and the floorboards creak
+It's those noises in the dark
+
+
+[Chorus]
+But I am alive and I made up my mind
+To live fearlessly, runnin' wild beneath the trees
+Above a ground that's solid at the core
+
+
+[Bridge 1]
+Send my regards to the North, my friends
+I am built for the heat, I regret to admit
+My fear of freezing keeps me on my feet
+
+
+And so far my whole life's one long lucky streak
+They say, "You should take the credit when it comes"
+But I believe in haunted wood
+
+
+[Verse 3]
+Oh, please, don't make fun of me
+Oh, I'll try my best to tell it like it is
+But I'll bite my tongue and I'll close my lips
+When nobody wants to hear it
+
+
+[Chorus]
+But here we are and somethin' about it doesn't feel like an accident
+We're all looking for somethin' to adore
+And how to survive the bendin' and breakin'
+
+
+[Bridge 2]
+I've walked on two legs since I was a child
+But when did I realize that some ways out
+Past the horizon for thousands of miles
+There are people like me walkin' on legs like mine?
+Coming closer and farther away
+Coming to me and from my embrace
+Hopin' good comes from good
+And that good comes from bad anyway
+
+
+[Verse 4]
+Oh, please, don't make fun of me
+With my heart of gold and my restless soul
+Oh, please, don't make fun of me
+This smile happens genuinely
+
+
+
+
+[Outro]
+If you want to see the world, you have to say goodbye
+'Cause a map does no good hangin' on a wall
+If you want to see the world, you have to say goodbye
+'Cause a map does no good hangin' on a wall
+
+
+      8. Direct Address 
+
+
+You know it's unfair that I am here and you are there
+I feel short in the exchange
+I show you mine, you walk away
+I'm wearing mine out on my sleeve, you're wearing yours where I can't see
+But I'll remember your face for years to come
+And wonder what you thought about when you got home
+
+
+Honesty is like a kiss on the lips
+Come closer and I'll tell you exactly how it is
+
+
+Now I'm barely breathing, I'm moving ahead
+But if I see you smile, it's gonna knock me dead
+
+
+I'm stiff in my tracks trying to recover
+From whatever drug you used to put me under
+
+
+I don't believe in love at first sight
+I don't believe in love at first sight
+It's hard enough for me to not fall in love with every person I see
+
+
+
+
+I let my mind get turned inside out
+Just to see what the kids were laughing about
+It wasn't worth understanding something
+I could've gone my whole life not knowing
+
+
+You know what they say about curiosity
+That murderer had his chokehold on me
+
+
+I ran away without turning back
+But every now and then, I want what I can't have
+
+
+I'm still thinking of a man from years ago
+Eyes open wide in the front row
+Dark features, leaning on the doorframe
+I would've sold my soul to know his first name
+
+
+I don't believe in love at first sight
+I don't believe in love at first sight
+I don't believe in love at first sight
+Maybe I would if you looked at me right
+
+
+      9. ...Familiar Place 
+
+
+I came through the backyard
+You let the garden die
+
+
+How did I get here?
+How did I get here?
+What did I do to deserve this?
+
+
+The mountain was taller than I could've fathomed
+I hardly believe it from here at the bottom
+I can't imagine why you'd want to be at the top
+Oh my god, what will I do if you ever stop?
+
+
+Without you, I am surely the last of our kind
+Without you, I am surely the last of my kind
+
+
+Historian
+
+
+      1. Night Shift 
+
+
+[Verse 1]
+The first time I tasted somebody else's spit, I had a coughing fit
+I mistakenly called them by your name
+
+
+I was let down, it wasn't the same
+I'm doing fine, trying to derail my one-track mind
+Regaining my self-worth in record time
+But I can't help but think of your other in the bed that was mine
+
+
+Am I a masochist, resisting urges to punch you in the teeth?
+
+
+Call you a bitch and leave?
+
+
+Why did I come here? To sit and watch you stare at your feet?
+What was the plan? Absolve your guilt and shake hands?
+
+
+
+
+[Chorus]
+I feel no need to forgive, but I might as well
+
+
+But let me kiss your lips, so I know how it felt
+Pay for my coffee and leave before the sun goes down
+
+
+Walk for hours in the dark, feeling all hell
+
+
+[Verse 2]
+Don't hold your breath, forget you ever saw me at my best
+You don't deserve what you don't respect
+Don't deserve what you say you love and then neglect
+
+
+Now bite your tongue, it's too dangerous to fall so young
+Take back what you said
+Can't lose what you never had
+
+
+
+
+[Chorus]
+I feel no need to forgive, but I might as well
+But let me kiss your lips, so I know how it felt
+
+
+Pay for my coffee and leave before the sun goes down
+Walk for hours in the dark, feeling all hell
+
+
+[Outro]
+You got a 9-to-5, so I'll take the night shift
+And I'll never see you again, if I can help it
+In five years, I hope the songs feel like covers
+Dedicated to new lovers
+
+
+You got a 9-to-5, so I'll take the night shift
+
+
+And I'll never see you again, if I can help it
+
+
+In five years, I hope the songs feel like covers
+Dedicated to new lovers
+You got a 9-to-5, so I'll take the night shift
+
+
+And I'll never see you again, if I can help it
+In five years, I hope the songs feel like covers
+Dedicated to new lovers
+
+
+      2. Addictions
+
+
+[Verse 1]
+Freeze frame tidal wave in the passenger side
+
+
+I'm still a nervous kid after all this time
+Can you imagine what it's like to be here with you now?
+Forget your current lover, remember me that one July
+Laying bareback on dirt roads, watching the planes at night
+Who knew one day it'd be so hard to have you by my side?
+
+
+[Refrain]
+Now I'm awake at 2 AM
+Without a cause to draw you in
+
+
+[Verse 2]
+Buy-low-sell-high kind of guy
+
+
+Invest your time in what's worthwhile
+Was I a risk without reward or did I make you proud?
+
+
+[Refrain]
+Now I'm awake at 2 AM
+Without a cause to draw you in
+
+
+[Chorus]
+I'm just calling 'cause I'm used to it
+You'll pick up 'cause you're not a quitter
+You've got addictions too, it's true
+You've got addictions too
+
+
+[Bridge]
+You've been around the world and back
+Always return to the ones you love
+You've got a sense of adventure
+And a penchant for comfort that keeps you at home
+
+
+
+
+[Chorus]
+I'm just calling 'cause I'm used to it
+You'll pick up 'cause you're not a quitter
+You've got addictions too, it's true
+You've got addictions too
+
+
+[Outro]
+We're erasing years of senseless waiting
+You've got addictions too, it's true
+You've got addictions too
+You've got addictions too, it's true
+You've got addictions too
+You've got addictions too, it's true
+You've got addictions too
+You've got addictions too, it's true
+You've got addictions too
+
+
+      3. The Shell 
+
+
+[Verse 1]
+I'm a ghost walking in a boring dream
+You are there talking and I'm not listening
+I am busy doing nothing and you're rudely interrupting
+It's a myth and now I see it clearly
+You don't have to be sad to make something worth hearing
+Now I'm common and content, one more burden off my back
+
+
+
+
+[Chorus]
+You don't wanna be a creator
+Doesn't mean you've got nothing to say
+Put down the pen, don't let it force your hand
+
+
+
+
+[Verse 2]
+I'm a ghost walking on an empty street
+No name anymore, no need to call for me
+I'm a long-lost hometown hero
+Latent legendary past lives within me
+
+
+If I had the offer to do it again
+Make me invincible, invisible, or brain dead
+If the body and the life were two things that we could divide
+I'd deliver up my shell to be filled with somebody else
+
+
+
+
+[Chorus]
+You don't wanna be a creator
+Doesn't mean you've got nothing to say
+Put down the pen, don't let it force your hand
+
+
+You don't wanna be a leader
+Doesn't mean you don't know the way
+Hold your own hand, walk on without a plan
+
+
+      4. Nonbeliever
+
+
+[Verse 1]
+You threw your books into the river
+Told your mom that you're a non-believer
+
+
+She said she wasn't surprised
+But that doesn't make it okay
+
+
+
+
+[Verse 2]
+You say nobody loves a city
+Nobody loves what can't love them back
+
+
+One-way ticket in your pocket
+What happened to the charm of a small town?
+
+
+
+
+[Chorus]
+If you find what you're looking for
+Be sure to send a postcard
+You promised you'd never forget
+The little ones when you got big
+
+
+[Verse 3]
+You deal in unspoken debts
+No kindness without wanting something back
+What do I owe you? What did I forget?
+Or are we even after all of that?
+
+
+[Verse 4]
+You shook my hand and said goodbye
+You'll never let me see you cry again
+What good has come from learning to pretend?
+You said I could've been a better friend
+
+
+[Chorus]
+If you find what you're looking for
+Be sure to send the new address
+And if you find what you're looking for
+Write a letter and tell us what it is, and tell us what it is
+
+
+[Outro]
+Everybody else, everybody else looks like they figured it out
+
+
+Everybody else, everybody else looks like they figured it out
+Everybody else, everybody else looks like they figured it out
+Everybody else, everybody else looks like they figured it out
+
+
+      5. Yours & Mine 
+
+
+[Verse 1]
+I'm afraid of pain, both yours and mine, both yours and mine
+I'm afraid of pain, from where it comes and where it falls
+
+
+[Pre-Chorus]
+Somebody lit the store on fire
+Somebody lit the house on fire
+Somebody lit the crowd on fire, marching away
+
+
+And you've got nothing to say
+And you've got nothing to say
+Have you got nothing to say?
+
+
+[Chorus]
+For those of you who told me I should stay indoors
+Take care of you and yours, take care of you and yours
+But me and mine (Me and mine)
+Me and mine (Me and mine)
+We've got a long way to go before we get home
+
+
+'Cause this ain't my home anymore
+This ain't my home anymore
+This ain't my home
+
+
+
+
+[Pre-Chorus]
+Somebody lit the store on fire
+Somebody lit the house on fire
+Somebody lit the crowd on fire, marching away
+
+
+And you've got nothing to say
+And you've got nothing to say
+Have you got nothing to say?
+
+
+[Chorus]
+For those of you who told me I should stay indoors
+Take care of you and yours, take care of you and yours
+But me and mine (Me and mine)
+Me and mine (Me and mine)
+We've got a long way to go before we get home
+'Cause this ain't my home anymore
+This ain't my home anymore
+This ain't my home
+
+
+[Outro]
+Take care of you and yours
+Take care of you and yours
+Take care of you and yours
+Take care of you and yours
+But me and mine (Me and mine)
+
+
+Me and mine (Me and mine)
+Me and mine (Me and mine)
+Me and mine (Me and mine)
+Me and mine (Me and mine)
+Me and mine (Me and mine)
+Me and mine (Me and mine)
+Me and mine
+We've got a long way to go before we get home
+'Cause this ain't my home anymore
+This ain't my home anymore
+This ain't my home anymore
+This ain't my home anymore
+
+
+      6. Body to Flame 
+
+
+[Verse 1]
+Longing for your short hair to grow back to the way you like
+Thank you for the gesture
+I regret ever implying that you could be better
+Didn't mean to empty your perfect body
+And fill it with my passing whim
+
+
+[Verse 2]
+Easily won, weary of losing
+
+
+Gullible girl, weak and alluring
+Will we break our rules, get drunk in the dark
+Laughing aloud at the spinning stars?
+
+
+[Verse 3]
+Believe me, I'm speaking plainly and painfully
+Trying to stay elegant, eloquent and delicate to you
+I see you holding your breath with your arms outstretched
+Waiting for someone to come rip open your chest
+You take me aside
+To solemnly confide
+When it comes the time
+You plan to give your body to the flame
+
+
+      7. Timefighter 
+
+
+[Verse 1]
+And I'll get old and I'll get tired
+And I won't run into the water
+
+
+You gotta let me go down
+Will you remember me as I am now?
+
+
+
+
+[Verse 2]
+And I know you're strong
+I know you're a man-made fortress
+But we're alone
+And I'm so willing to be proven wrong
+
+
+
+
+[Chorus]
+And I fought time
+It won in a landslide
+I'm just as good as anybody
+I'm just as bad as anybody
+
+
+
+
+[Verse 3]
+You talk like you don't know the walls are thin
+And I don't mind if you don't mind me listening
+And I'm tired of all these wires
+If I go far enough, will they not follow up?
+
+
+[Chorus]
+And I fought time
+It won in a landslide
+I'm just as good as anybody
+I'm just as bad as anybody
+And I fought time
+It won in a landslide
+I'm just as good as anybody
+I'm just as bad as anybody
+
+
+      8. Next of Kin 
+
+
+[Verse 1]
+Reading in the phone booth
+Sucking on a ginger root
+I never got to talk to you
+Why is this the image I come back to?
+Pick my jewelry from the ash
+Find the box with the cold hard cash in it
+Give it to the next of kin
+
+
+[Chorus]
+I used to be too deep inside my head
+Now I'm too far out of my skin, too far out of my skin
+
+
+I am at peace with my death
+I can go back to bed
+I am at peace with my death
+I can go back to bed
+
+
+
+
+[Verse 2]
+I'll make a desert of my mind
+Unfold myself so flat and wide
+Have nothing in my line of sight
+No cover for my thoughts to hide
+Never went to Monaco
+But I held your hand in the pocket of my coat
+I learned to be in love and learned to be alone
+Satisfied body and a hungry soul 
+
+
+[Chorus]
+I used to be too deep inside my head
+Now I'm too far out of my skin, too far out of my skin
+I am at peace with my death
+I can go back to bed
+I am at peace with my death
+I can go back to bed
+
+
+
+
+[Bridge]
+I don't wanna be that man on the train
+On a gray commute, imagining fame
+
+
+Sweet relief, I will never be complete
+I will never be complete
+I'll never know everything
+
+
+I will never be complete
+I will never be complete
+I will never be complete
+I'll never know everything
+
+
+[Chorus]
+I used to be too deep inside my head
+Now I'm too far out of my skin, too far out of my skin
+      9. Pillar of Truth 
+
+
+[Verse 1]
+Your hands are folded
+Your eyes are closing
+Your words are broken
+Your eyes are dry
+
+
+[Chorus]
+I'm weak looking at you, a pillar of truth, turning to dust
+I'm weak looking at you, a pillar of truth, turning to dust
+
+
+
+
+[Verse 2]
+You are your mother's child
+You're a mother of a mother of a mother now
+Raised in the age of the milkman
+I can't claim to understand
+
+
+
+
+[Chorus]
+I'm weak looking at you, a pillar of truth, turning to dust
+I'm weak looking at you, a pillar of truth, turning to dust
+
+
+[Verse 3]
+Lord, prepare me
+For the shadows
+
+
+For the sparrows
+At my window
+
+
+Lord, have mercy
+On my descendants
+For they know not what they do
+
+
+For they know not who you are, Lord
+And they know not what to do
+
+
+
+
+[Verse 4]
+I, the anchor, am slowly sinking
+Into darkness yet unknown
+But the fading light around me
+Is full of faces who carry my name
+
+
+
+
+[Chorus]
+I'm weak looking at you, a pillar of truth, turning to dust
+I'm weak looking at you, a pillar of truth, turning to dust
+
+
+[Verse 5]
+Lord, be near me
+My final hour
+I once had sight
+But now I'm blind
+Oh, I tried to be
+A second coming
+And if I was
+Nobody knew
+If my throat can't sing
+Then my soul screams out to you!
+
+
+
+
+[Chorus]
+I'm weak looking at you, a pillar of truth, turning to dust
+I'm weak looking at you, a pillar of truth, turning to dust
+
+
+      10. Historians 
+
+
+[Verse 1]
+You said "Don't go changing
+I'll rearrange to let you in
+And I'll be your historian
+
+
+And you'll be mine
+And I'll fill pages of scribbled ink
+Hoping the words carry meaning"
+
+
+[Verse 2]
+Then one day, the motorcade
+Covered in flower wreaths
+
+
+First in a big parade
+Will come to take one of us away
+Leaving the other with plenty to read
+
+
+[Verse 3]
+This is what I want to talk about
+But somehow the words will not leave my mouth
+Was I most complete at the beginning or the bow?
+
+
+If past you were to meet future me
+Would you be holding me here and now?
+
+
+Home Video
+
+
+      1. Hot & Heavy
+
+
+Being back here makes me hot in the face
+Hot blood in my pulsing veins
+
+
+Heavy memories weighing on my brain
+
+
+Hot and heavy in the basement of your parents' place
+
+
+
+
+You used to be so sweet
+
+
+Now you're a firecracker on a crowded street
+Couldn't look away even if I wanted
+
+
+Try to walk away but I come back to the start
+
+
+
+
+[Verse]
+Led me to the floor even though I'm not a dancer
+
+
+Asked me all the questions that your parents wouldn't answer
+
+
+How could I deny a diamond in the rough?
+You let me in your world until you had enough
+
+
+
+
+You knew that I wanted you to bend the rules
+How did I believe I had a hold on you?
+
+
+You were always stronger than people suspected
+Underestimated and overprotected
+
+
+When I went away, it was the only option
+Couldn't trust myself to proceed with caution
+
+
+The most that I could give to you was nothing at all
+The best that I could offer was to miss your calls
+
+
+
+
+[Chorus]
+Being back here makes me hot in the face
+Hot blood in my pulsing veins
+Heavy memories weighing on my brain
+Hot and heavy in the basement of your parents' place
+
+
+You used to be so sweet
+Now you're a firecracker on a crowded street
+Couldn't look away even if I wanted
+Try to walk away but I come back to the start
+
+
+[Bridge]
+And it happens over and over and over and over again
+Over and over and over and over again
+I wish I was over it, over it, over it, over it
+
+
+
+
+[Outro]
+A hidden gem, my own goldmine
+You had the wide and wild eyes
+
+
+You were a secret to yourself
+You couldn't keep from anyone else
+
+
+
+
+Now you're the biggest, brightest flame
+You are a fire that can't be tamed
+You're better than ever, but I knew you when
+It's bittersweet to see you again
+
+
+      2. Christine 
+
+
+[Verse 1]
+You're falling asleep
+On my shoulder in the back of your boyfriend's car
+
+
+We're coming home
+From a sermon saying how bent on evil we are
+
+
+I try to imagine what you're dreaming
+You're muttering nonsense between steady breathing
+I have to wake you up to get out
+Your man waves from the end of the drive 'til I'm in the house
+
+
+[Chorus]
+He can be nice, sometimes
+Other nights, you admit he's not what you had in mind
+
+
+All in all, nobody's perfect
+Therе may be better, but you don't feel worth it
+
+
+That's whеre we disagree
+
+
+[Verse 2]
+You always wanted to raise a baby by the lake
+
+
+Maybe they'll grow up and never make the same mistakes
+Knowing you, they'd be the first kid to never hurt another
+I see you look at him and wonder if he'll make you a mother
+
+
+[Outro]
+But if you get married, I'd object
+Throw my shoe at the altar and lose your respect
+
+
+I'd rather lose my dignity
+Than lose you to somebody who won't make you happy
+
+
+      3. First Time 
+
+
+[Verse 1]
+Broke into the screened-in porch
+Now I'm crawling through the dog door
+I may let you see me on my knees
+But you'll never see me on all fours
+
+
+
+
+Drooling on the tile
+I'm a starfish on the kitchen floor
+Catch my breath to breathe your name
+
+
+I am just the fool you took me for, uh-huh
+
+
+[Chorus]
+You can't feel it for the first time a second time
+You can't feel it for the first time a second time
+
+
+
+
+[Verse 2]
+You gave me your hands
+'Cause you didn't know what to do with them
+And I showed you the way
+Even though I'd never been
+
+
+
+
+Where did we go right?
+
+
+I think about it all the time
+If I had paid closer attеntion
+Maybe I could take us back to therе and then
+
+
+
+
+[Chorus]
+But you can't feel it for the first time a second time
+You can't feel it for the first time a second time
+I can't go back to who I was before I met you
+I can't undo what I've done, and I wouldn't want to
+
+
+I wouldn't want to
+I wouldn't want to
+
+
+[Verse 3]
+Sneaking out of the house
+I must be out of my mind
+I'm running out of excuses
+We're running out of time
+
+
+You say the love will come and go
+We'll learn to ride the ebb and flow
+You always leave before the light
+Come back same time and place the next night
+
+
+[Bridge]
+And how will I know
+If history repeats itself?
+How will I know
+When it's gonna come back around?
+How will I know?
+Has my face changed, baby?
+How will I know?
+I'll stay ready for you to take me, take me, take me
+Take me
+
+
+      4. VBS 
+
+
+[Verse 1]
+In the summer of '07, I was sure I'd go to Heaven
+But I was hedging my bets at VBS
+
+
+A preacher in a T-shirt told me I could be a leader
+Taught me how to build a fire and to spread The Word
+
+
+In the evening, everybody went to worship and weep
+Hands above our heads, reaching for God
+
+
+Back in the cabin, snorting nutmeg in your bunk bed
+You were waiting for a revelation of your own
+
+
+Sedentary secrets like peach pits in your gut
+Locked away like jam jars in the cellar of your heart
+
+
+Waiting to be tasted and ultimately wasted
+You were gonna win me over from the start
+
+
+[Chorus]
+Your poetry was so bad
+It took a lot to not laugh
+You say that I showed you the light
+But all it did, in the end
+Was make the dark feel darker than before
+
+
+
+
+[Verse 2]
+Your dad keeps his sleeves down through the summer for a reason
+Your mother wears her makeup extra thick for a reason
+When I tell you you were born and you are here for a reason
+You are not convinced the reason is a good one
+While you're going to sleep, your mind keeps you awake
+And it makes your heart beat fast and loud
+There's nothing you can do, but the only thing you've found:
+Playing Slayer at full volume helps to drown it out
+
+
+[Chorus]
+Your poetry was so bad
+It took a lot to not laugh
+You say that I showed you the light
+But all it did, in the end
+Was make the dark feel darker than before
+
+
+Dark feel darker than before
+Dark feel darker than before
+
+
+      5. Cartwheel 
+
+
+[Verse 1]
+Here and there and gone again
+Firefly juice on your skin
+You're glowing like an atom bomb
+
+
+This natural thing that you've undone
+
+
+Outgrew older sister's clothes again
+Won't admit you're growing tall and thin
+
+
+You like your body pulling at the seams
+
+
+You're not prepared for what the future brings
+Curse words and empty cups
+Cracked blacktop curling up
+Heatwave by midday
+Heat lightning on a summer night
+And I remember when you used to call
+Holed up in the closet in the hall
+
+
+Scared you wouldn't live to forty-five
+The same age as your father when he died
+You'd say, "We need to talk
+Sneak out, meet me on your block"
+I'd sit by you, silent on the curb
+
+
+What to say when there is not a word?
+Spell broke at daybreak
+Light another candle on the cake
+Cartwheel and a broken wrist
+Skin scarred and sun-kissed
+
+
+[Verse 2]
+When you told me 'bout your first time
+The soccer player at the senior high
+I felt my body crumple to the floor
+Betrayal like I'd never felt before
+
+
+I thought back to many years ago
+A late-night promise on the telephone
+We'd build a house of twigs and vines
+Grow old together just to pass the time
+Now there's only past and present day
+I can't believe a word you say
+The future isn't worth its weight in gold
+The future is a benevolent black hole
+
+
+      6. Thumbs 
+
+
+[Verse 1]
+You hung up the phone
+And I asked you what was wrong
+
+
+Your dad has come to town
+He'd like to meet
+I said, "You don't have to see him"
+But for whatever reason, you can't tell him no
+
+
+[Verse 2]
+So we meet him at a bar
+You were holding my hand hard
+He ordered rum and Coke
+I can't drink either anymore
+
+
+He hadn't seen you since the fifth grade
+Now you're nineteen and you're 5'8"
+He said, "Honey, you sure look great
+Do you get the checks I send on your birthday?"
+
+
+
+
+[Chorus]
+I would kill him
+If you let me
+I would kill him
+Quick and easy
+Your nails are digging
+Into my knee
+I don't know how you keep smiling
+
+
+[Verse 3]
+I love your eyеs
+And he has 'em
+Or you have his
+'Causе he was first
+I imagine my thumbs on the irises
+Pressing in until they burst
+
+
+
+
+[Verse 4]
+
+
+I clear my throat
+And say we ought to get home
+He offers us a ride
+I reply, "No, that's alright"
+And when we leave
+You feel him watching
+So we walk a mile in the wrong direction
+
+
+[Chorus]
+I would kill him
+If you let me
+I would kill him
+Quick and easy
+Your nails are digging
+Into my knee
+I don't know how you keep smiling
+I don't know how you keep smiling
+I don't know how you keep smiling
+
+
+
+
+[Outro]
+I wanna take your face between my hands and say
+"You two are connected by a pure coincidence
+Bound to him by blood, but baby, it's all relative
+
+
+You've been in his fist ever since you were a kid
+But you don't owe him shit even if he said you did
+You don't owe him shit even if he said you did"
+
+
+      7. Going Going Gone 
+
+
+[Verse 1]
+Daniel made a pass
+We started flirting after class
+Stealing hats and trading jackets
+Locking lips and braces, brackets
+After dinner, before dark
+We'd meet at the same bench in the park
+
+
+Sweaty palms, averted eyes
+Wasn't sure if he and I were going out
+
+
+[Chorus]
+Going out
+Going out, ooh
+Going, going out
+
+
+[Verse 2]
+The sunset threw a tantrum
+It wasn't ready to go just yet
+Mother Earth said, "Time for bed"
+It resisted and the sky went red
+The color filterеd out
+Like pulling teeth out of a cloud
+The bloody battle еnded
+No, the sun can't break the habit of going down
+
+
+
+
+[Chorus]
+Going down
+Going down, ooh
+Going, going down
+
+
+
+
+[Verse 3]
+Daniel in ten years
+Grabbing asses, spilling beers
+Another ten and he'll have a daughter
+She'll grow up and he can't stop her
+
+
+Back on the bench, making plans
+Watching the day end hand in hand
+I always had to be home by eight
+My dad would kill me if I was late
+I'll be going now
+
+
+[Chorus]
+Going now
+Going now, ooh
+Going, going now
+Going, gone
+Going, gone
+Going, gone, ooh
+Going, going, gone
+
+
+[Outro]
+Cool, yeah, that was the one, I think
+Yup, that was great, that's what we were looking for
+Thanks, guys
+Cool, wow, I am so happy
+Thank you everyone for doing this
+I owe y'all whatever you ask of me for the rest of my life
+
+
+      8. Partner in Crime 
+
+
+[Verse 1]
+When I asked you to coffee
+Could you tell I don't drink it?
+
+
+When I got to the café
+Could you tell what I was thinking?
+My heart's on my sleeve, it's embarrassing
+
+
+The pulpy thing, beating
+
+
+[Verse 2]
+When you asked my age, I lied
+I saw relief dawn on your eyes
+It's not your fault, it's mine
+
+
+Let the record show
+I walked in on my own
+
+
+
+
+[Verse 3]
+Knee-deep in the city that never sleeps
+
+
+I lay down in the middle of the street
+Lamplight like parallel suns
+Crowding out the early morning stars
+Concrete holding heat from the daytime
+Picking petals to see if you will be mine
+
+
+
+
+[Chorus]
+Do you lovе me? Do you love me not?
+Do you lovе me? Do you love me not?
+Do you love me? Do you love me not?
+Do you love me? Do you love me not?
+
+
+
+
+[Verse 4]
+You were my partner in crime
+It was a welcome waste of time
+Eating cherries on the bridge, feet dangling
+Throwing the pits and stems into the racing current below
+
+
+I get vertigo looking down and looking in
+
+
+
+
+[Verse 5]
+Drop me off at the curb by my curfew
+
+
+Around the corner so nobody sees you
+You drop a hint that you got a girlfriend
+I tried my best not to take it
+I wanna run my fingers through you
+
+
+You say nobody understands you like I do
+
+
+
+
+[Chorus]
+But do you love me? Do you love me not?
+Do you love me? Do you love me not?
+Do you love me? Do you love me not?
+Do you love me? Do you love me not?
+
+
+
+
+      9. Brando 
+
+
+[Verse 1]
+You told me to skip school
+To go with you to the movies
+You knew you were uncool
+But you thought you could fool me
+They play oldies in the afternoon
+For the elderly and me and you
+
+
+Fred and Ginger, black and white
+I watch you watch It's a Wonderful Life
+
+
+
+
+[Verse 2]
+You called me cerebral
+I didn't know what you meant
+
+
+But now I do, would it have killed you
+To call me pretty instead?
+
+
+I'm in a second-story window
+And you're yelling at me, "Stella!"
+And I'm laughing 'cause you think you're Brando
+But you'll never come close
+
+
+
+
+[Chorus]
+All I need for you to admit
+Is that you never knew me like you thought you did
+You never knew me like you thought you did
+Like you thought you did
+
+
+
+
+[Verse 3]
+You say, "Here's lookin' at you, kid"
+Thinking I wouldn't understand the reference
+
+
+You admit, you think we're fated
+I'll be lucky if I'm your third wife
+
+
+That's only something you would say in the car
+We've been breathing the same air for too long
+
+
+If the snow wasn't coming down so hard
+I would open the door and walk home
+It's only a couple miles
+
+
+What could go wrong
+If I hitch a ride with a guy in a pickup
+Who doesn't know left from right from wrong?
+
+
+
+
+[Chorus]
+All I need for you to admit
+Is that you never knew me like you thought you did
+You never knew me like you thought you did
+Like you thought you did
+All I need for you to admit
+Is that you never knew me like you thought you did
+You never knew me like you thought you did
+Like you thought you did
+
+
+      10. Please Stay 
+
+
+[Verse 1]
+Your clothes in the dryer
+
+
+Your hair on the shower wall
+Your toothbrush is too much
+
+
+Your shoes empty in the hall
+
+
+Your keys on the counter
+Your dirty dish in the sink
+Please don't make me see these things
+
+
+
+
+[Verse 2]
+The books on your shelf that you never read
+
+
+The hunting knife you kept by your bed
+The flowers you dried and tied up with twine
+Suspended from the ceiling
+
+
+
+
+[Pre-Chorus]
+You tell me you love me like it'll be thе last time
+Like you're playing out thе end of a storyline
+I say I love you too because it's true
+What else am I supposed to do?
+Maybe bar the door when you move to leave
+
+
+
+
+[Chorus]
+I think you mean what you say
+When you say you wanna die
+I think you mean what you say
+When you say you want to stay alive
+[Bridge]
+Quit your job
+Cut your hair
+Get a dog
+Change your name
+Change your mind
+Change your ways
+Give them time
+Go back to school, go back to sleep
+Tell the secret you can't keep
+Begin, be done
+Break a vow, make a new one
+
+
+Call me if you need a friend or never talk to me again
+
+
+
+
+[Outro]
+But please stay
+But please stay
+But please stay
+But please stay
+      11. Triple Dog Dare 
+
+
+[Verse 1]
+I'm not tired yet
+We still got a lot to figure out
+Like what was the end of the movie about, anyways?
+
+
+You're yawning on your couch
+I wonder if I overstayed my welcome
+Until you asked me if I'd like to take a walk
+We're going to the five and dime
+The only open place at this time of night
+You're dancing in the aisle 'cause the radio
+Is singing you a song you know
+And the kid at the counter is gawking at your grace
+I can tell what he's thinking by the look on his face
+It's not his fault, I'm sure I look thе same
+It's what you do, but it's not you I blame
+
+
+
+
+[Verse 2]
+Your mama read my palm
+Shе wouldn't tell me what it was she saw
+But after that, you weren't allowed to spend the night
+I'm staring at my hands
+Red, ruddy skin, I don't understand
+How did they betray me? What did I do?
+
+
+I never touched you how I wanted to
+
+
+What can I say to your mom to let you come outside?
+You know I'll be seeking if you run and hide
+
+
+If the door were to open, would you walk through the frame?
+
+
+If you're too afraid, it won't be you I blame
+
+
+
+
+[Verse 3]
+You passed a note in class
+Told me to meet you at the overpass
+
+
+Your lip was trembling when you said that we are cursed
+
+
+You're trying not to cry
+When you tell me you're afraid that we may die
+I said "So what? Everybody's scared of that"
+
+
+I want you to tell me that you miss me
+Want you to hold and hurt and kiss me
+I wanna run away and live on your family's boat
+It's a triple dog dare, you're a chicken if you don't
+I can fish for our food and you know how to start a flame
+
+
+If you don't get out now, you'll only have yourself to blame
+
+
+
+
+[Bridge]
+You said, "You have me there
+If it's a triple dog dare"
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+A triple dog dare
+
+
+
+
+
+
+[Outro]
+They put our faces on the milk jugs
+Missing children 'til they gave up
+Your mama was right, and through the grief
+Can't fight the feeling of relief
+Nothing worse could happen now
+Nothing worse could happen now
+Nothing worse could happen now
+
+
+Forever Is a Feeling
+
+
+      1. Calliope Prelude 
+
+
+This song is an instrumental
+
+
+      2. Big Deal
+
+
+[Verse 1]
+Flicking embers into daffodils
+You didn't plan to tell me how you feel
+You laugh about it like it's no big deal
+Crush the fire underneath your heel
+
+
+I'm surprised that you're the one who said it first
+
+
+If you had waited a few years, I would've burst
+Everything comes up to the surface in the end
+Even the things we'd rather leave unspoken
+
+
+[Pre-Chorus]
+And we both know that it would never work
+You've got your girl, you're gonna marry her
+And I'll be watching in a pinstriped suit
+Sincerely happy for the both of you
+
+
+So what changеs, if anything?
+Maybe everything can stay thе same
+But if we never talk about it again
+There's something I want you to understand
+
+
+[Chorus]
+You're a big deal
+You're a big deal
+You're a big deal
+You're a big deal
+
+
+
+
+[Verse 2]
+You knew when you caught me reading at your show
+
+
+I knew when you came to visit in the cold
+
+
+We could've done something that we'd come to regret
+Do you remember? You say, "How could I forget?"
+
+
+
+
+[Pre-Chorus]
+And we both know that it would never work
+You've got your girl, you're gonna marry her
+And I'll be watching in a pinstriped suit
+Not even wishing it was me and you
+
+
+So what changes, if anything?
+Maybe everything can stay the same
+But if we never talk about it again
+There's something I want you to understand
+
+
+[Chorus]
+You're a big deal
+You're a big deal
+You're a big deal
+You're a big deal
+You're a big deal
+You're a big deal
+You're a big deal
+You're a big deal
+
+
+      3. Ankles 
+
+
+[Verse 1]
+
+
+What if we don't touch?
+What if we only talk
+About what we want and cannot have?
+
+
+And I'll throw a fit
+If it's all I can do
+
+
+If it's the thought that counts
+Let's think it through
+
+
+
+
+[Pre-Chorus]
+So bite me on the shoulder
+Pull my hair
+And let me touch you where I want to
+There, there, there, there, there
+
+
+
+
+[Chorus]
+Pull me by the ankles to the edge of the bed
+And take me like you do in your dreams
+I'm not gonna stop you
+I'm not gonna stop you this time, baby
+
+
+I want you to show me what you mean
+Then help me with thе crossword in the mornings
+You are gonna make mе tea
+Gonna ask me how did I sleep
+
+
+
+
+[Verse 2]
+Agent of chaos, angel of death
+One of three ancient fates
+Playing with your scissors again
+
+
+How lucky are we to have so much to lose?
+
+
+Now don't move when I tell you what to do
+
+
+[Chorus]
+Pull me by the ankles to the edge of the bed
+And take me like you do in your dreams
+I'm not gonna stop you
+I'm not gonna stop you this time, baby
+
+
+I want you to show me what you mean
+Then help me with the crossword in the mornings
+You are gonna make me tea
+Gonna ask me how did I sleep
+
+
+      4. Limerence 
+
+
+[Verse 1]
+Natalie's explaining limerence between taking hits from a blunt, high as a kite
+While Rodney's playing GTA, I swear, why is he so good at this game?
+It should be cause for concern
+I'm just shoveling popcorn into my mouth
+So I don't say the things that I'm thinking out loud
+
+
+
+
+[Chorus 1]
+I'm thinking about breaking your heart someday soon
+And if I do, I'll be breaking mine too
+
+
+[Verse 2]
+If I stay busy, maybe I'll forget how I feel and go on living life as I planned it
+
+
+So bring on the parties, I wanna go dancing
+My arm 'round the waist of a friendly acquaintance
+Toeing the line of betraying your trust
+Why do I feel alive when I'm behaving my worst?
+
+
+
+
+[Chorus 2]
+Is there a differеnce between lying to you
+If it feels just as bad as telling thе truth?
+
+
+
+
+[Outro]
+I know that there is
+And I know what I'll pick
+
+
+I want what we have
+A beautiful life
+But the stillness
+The stillness might eat me alive
+
+
+
+
+      5. Modigliani
+
+
+[Verse 1: Lucy Dacus]
+"Loving father, friend and son"
+Printed backwards on my shoulder blade
+From leaning back on a plaque on a bench
+
+
+I carry David's name until it fades
+
+
+[Chorus: Lucy Dacus, with Phoebe Bridgers]
+Why does it feel significant?
+Why do I have to tell you about it?
+Trying to fall asleep, back flat on the floor
+While you were eating continental breakfast in Singapore
+You make me homesick for places I've never been before
+How'd you do that?
+How's tomorrow so far?
+
+
+
+
+[Verse 2: Lucy Dacus, with Phoebe Bridgers]
+Meeting your family was a trip
+
+
+Seeing what you got from them
+For better or worse
+A blessing and a curse
+You don't need to love them but you do
+
+
+You could take off a year or two
+We'll all be here when you get back
+
+
+When you told me 'bout your new man it wasn't news
+'Cause you've got all these mannerisms that you never do
+Like rolling your eyes and laughing real dry
+
+
+Like you were trying him on for size
+And even if it doesn't fit, you'll wear it
+'Cause if it's what you want, you're gonna get it
+
+
+
+
+[Verse 3: Lucy Dacus, with Phoebe Bridgers]
+I've heard this anecdote at least a dozen times
+Yeah, I know every word and inflection as if it were mine
+
+
+I like watching you win over a new crowd
+You can make 'em go wild, you can leave 'em spellbound
+
+
+[Bridge: Lucy Dacus, with Phoebe Bridgers]
+But you will never be
+Famous to me
+
+
+You will never be
+Famous to me
+
+
+[Chorus: Lucy Dacus, with Phoebe Bridgers]
+I should know my neighbors' names
+I should not stay up so late
+
+
+Modigliani melancholy got me long in the face
+
+
+But I feel better when you call
+Just to tell me how you are
+How'd you do that?
+How’s tomorrow so far?
+You make me homesick for places I’ve never been before
+How’d you do that?
+How's tomorrow so far?
+      6. Talk 
+
+
+[Verse 1]
+Driving up the mountain
+Ears popping as we climb
+
+
+It can be risky after sundown
+
+
+When the roads turn serpentine
+
+
+We run out of conversation
+Day runs out of light
+
+
+Silent, watching high beams
+
+
+Interrupt the night
+Oooh
+Oooh
+
+
+[Chorus]
+Why can't we talk anymore?
+We used to talk for hours
+
+
+Do I make you nervous or bored?
+Or did I drink you to the last drop?
+
+
+
+
+[Verse 2]
+Your body looming like a spectre
+Hungry as a scythe
+If you come reaping
+, I'll come running
+I still know what you like
+But just like they say
+That you can never go home
+
+
+I could not love you the same way
+Two days in a row
+
+
+Oooh
+Oooh
+
+
+[Chorus]
+Why can't we talk anymore?
+We usеd to talk for hours
+Do I make you nervous or bored?
+Or did I drink you to thе last drop?
+
+
+[Bridge]
+Why was our best sex in hotels
+
+
+And our worst fights in their stairwells?
+
+
+I was by your side, eye to eye
+When you thought you were living in a private hell
+
+
+[Outro]
+I didn't mean to start
+Talking in the past tense
+I guess I don't know what I think
+'Til I start talking
+
+
+      7. For Keeps 
+
+
+[Verse 1]
+If the Devil's in the details
+And God is everything
+Who's to say that they are not
+One and the same?
+
+
+But neither one of them were there
+In the mezzanine cheap seats
+
+
+Or waking up in dirty sheets
+
+
+We were not something
+We were not nothing
+We were in between things
+That made sense
+
+
+But you wanted it
+And I wanted it
+And that's the only thing
+That matterеd in the end
+
+
+
+
+[Verse 2]
+If the Dеvil’s in the details
+Then God is in the gap in your teeth
+
+
+You are doing the Lord’s work
+Every time you smile at me
+
+
+I don't believe in anything anymore
+Except you and me supremacy
+
+
+But I still miss you
+When I'm with you
+
+
+'Cause I know we're not
+Playing for keeps
+
+
+      8. Forever Is a Feeling 
+
+
+[Verse 1]
+I crossed a line
+And you followed close behind
+
+
+We were cherry red in your
+forest green
+1993 Grand Cherokee
+
+
+You knew the scenic route
+I knew the shortcut and shut my mouth
+
+
+Isn't that what love's about?
+Doing whatever to draw it out?
+
+
+[Chorus]
+
+
+This is bliss
+This is Hell
+Forever is a feeling
+And I know it well
+
+
+
+
+[Verse 2]
+I'm no good at faces or names
+Places or days
+Zip codes and timezones
+But I remember everywhere we've ever been and whеn
+
+
+I remember thinking you wеre pretty when we met
+
+
+I'm reading you like road signs
+Tell me where to go
+My wrists are in your ziptie
+
+
+25 to life, why not?
+
+
+[Chorus]
+
+
+Yeah, you're smart
+But you're dumb at heart
+And that's a good start
+This is bliss
+This is Hell
+
+
+Forever is a feeling
+And I know it well
+
+
+[Bridge: Lucy Dacus, Phoebe Bridgers, Julien Baker]
+
+
+Forever is a feeling (I know it well)
+Forever is a feeling (I know it well)
+Forever is a feeling
+Forever is a feeling
+Forever is a feeling (Forever)
+Forever is a feeling (Forever)
+Forever is a feeling
+Forever is a feeling (Forever)
+
+
+      9. Come Out
+
+
+[Verse 1]
+I missed your call because I was in a board room
+Full of old men guessin' what the kids are getting into
+
+
+There was a cardboard cutout of a cowboy in the corner
+
+
+Pointin' his gun in my face
+I don't belong here, nobody does
+Except maybe those old men collecting dust
+Why am I not wherever you are?
+There is no distance that wouldn't be too far
+
+
+Even on opposite sides of the room
+I am orbiting you
+
+
+[Chorus]
+
+
+So come out, come out, wherever you are
+I miss you, I miss you, I miss you in my arms
+
+
+[Verse 2]
+I wanna be the man on Main Street with a mеgaphone
+Screaming obscenitiеs to the toddlers and the scandalized moms
+
+
+I wanna scream from the bottom of my lungs
+I wanna scream my throat raw
+And if that means I never sing again
+
+
+At least I'll know I went out with a bang
+Screaming my favorite things about you
+Screaming your name, your name, your name
+
+
+[Chorus]
+
+
+So come out, come out, wherever you are
+I miss you, I miss you, I miss you in my arms
+Come out, come out, there's no need to hide
+I want you, I want you, I want you by my side
+
+
+[Verse 3]
+Waking up in a new city every day
+Makes me believe more and more that they're all the same
+It's just a pharmacy, coffee shop, bookstore, and bank
+And a tourist attraction that most locals hate
+
+
+I hike up a hill where they say there's a view
+'Cause the sky around five might remind me of you
+There's a couple divorcees on a bad first date
+And an elderly couple with nothing to say
+I used to think that'd be the worst
+To grow old and run out of words
+
+
+Now I have seen some incredible things
+I could never describe if I tried
+
+
+
+
+[Chorus]
+
+
+So come out, come out, wherever you are
+
+
+I miss you, I miss you, I miss you in my arms
+Come out, come out, there's no need to hide
+
+
+I want you, I want you, I want you by my side
+
+
+[Outro]
+C'mon, c'mon, I'm ready for you
+I can't wait, I can wait
+But I don't want to
+
+
+      10.  Best Guess 
+
+
+[Verse 1]
+Clasping your necklace
+Zipping your dress
+Hands on your waist
+Kissing your neck
+I love your body
+I love your mind
+
+
+They will change
+So will mine
+But you are
+
+
+
+
+[Chorus]
+My best guess at the future
+
+
+You are my best guess
+If I were a gambling man, and I am
+You'd be my best bet
+
+
+[Verse 2]
+Tracing your tan lines
+Making you mine
+If this doesn't work out
+I'll lose my mind
+And after a while
+I will be fine
+
+
+But I don't wanna be fine
+
+
+I want you, you, you are
+
+
+
+
+[Chorus]
+My best guess at the future
+
+
+You are my best guess
+If I were a gambling man, and I am
+You'd bе my best bet
+
+
+[Bridge]
+Herе is the church
+Here is the steeple
+
+
+You were looking for saints
+But you only found people
+
+
+Ain't that just the way it goes
+I watched you fall from grace
+You were graceful
+
+
+After all, it's a small world
+
+
+You may not be an angel
+But you are my girl
+
+
+You are my pack a day
+
+
+You are my favorite place
+You were my best friend before you were
+
+
+[Chorus]
+My best guess at the future
+
+
+You are my best guess
+If I were a gambling man, and I am
+You'd be my best bet (Best bet)
+You are my best guess at the future
+You are my best guess (Best guess)
+If I were a gambling man, and I am (Best bet)
+You'd be my best bet (Best bet)
+
+
+[Outro]
+(Best guess)
+(Best guess)
+(Best guess)
+(Best guess)
+      11. Bullseye by Lucy Dacus & Hozier
+
+
+[Verse 1: Lucy Dacus]
+Heard you got a job as a mailman
+I heard you're playin' around in a couple of bands
+Wish I could come to the show, but I understand
+Can't just walk in like any other fan
+
+
+[Pre-Chorus: Lucy Dacus]
+But I always loved the way you played guitar
+You've got style, no one's doin' it like you are
+
+
+[Verse 2: Lucy Dacus]
+In many European cities, there's a bridge
+Where lovers put locks on the rails
+And throw their keys into the river beneath
+We were two such suckers
+
+
+[Pre-Chorus: Lucy Dacus]
+But the metal weighs down the bearings and the city has to cut thе bolts
+If our spell wore off, maybe it's all thеir fault
+
+
+[Chorus: Lucy Dacus]
+You're a bullseye, and I aimed right
+
+
+I'm a straight shot, you're a grand prize
+
+
+It was young love, it was dumb luck
+Holdin' each other so tight, we got stuck
+
+
+[Verse 3: Hozier, Lucy Dacus & Hozier]
+I'll miss borrowin' your books to read your notes in the margin
+
+
+The closest I came to readin' your mind
+
+
+The answers to the questions only made more questions
+I hope you're never fully satisfied
+
+
+[Pre-Chorus: Lucy Dacus & Hozier]
+But I wanted to be there the day you figured it all out
+Whoever is, I hope they're proud
+
+
+[Chorus: Lucy Dacus & Hozier, Hozier]
+You're a bullseye, and I aimed right
+I'm a straight shot, you're a grand prize
+It was young love, it was dumb luck
+Holdin' each other so tight, we got stuck
+
+
+[Bridge: Lucy Dacus, Hozier, Lucy Dacus & Hozier]
+Found some of your stuff at my new house
+Packed it on accident when I was movin' out
+Probably wrong to think of them as your gifts to me
+More like victims of my sentimentality
+
+
+Man, it's hard to quit while you're ahead
+Lettin' the best-laid plans become empty threats
+But I meant every word I said, when I said it
+
+
+[Outro: Lucy Dacus, Lucy Dacus & Hozier]
+The world that we built meant the world to me
+When one world ends, the other worlds keep spinnin'
+
+
+
+
+      12.  Most Wanted Man 
+
+
+[Intro]
+I never thought I'd see you looking at me this way
+Almost vulgar and out of place
+Like seeing the moon in the day
+I find it hard not to look away
+Hard to believe it's the same face
+I saw twisted in anger
+I thought you’d hate me forever
+
+
+
+
+[Verse 1]
+Now I feel your hand under the table
+At the fancy restaurant
+Gripping on my inner thigh
+Like if you don’t I’m gonna run
+But I’m not going anywhere
+Least not anywhere you’re not
+
+
+Got me wrapped around your finger
+Tied in a double knot
+
+
+Just like our legs all double knotted
+In the morning at the Ritz
+$700 dollar room still drinking coffee from the Keurig
+
+
+We're soaking up the luxuries on someone else's dime
+Living the dream before we fully pass our prime
+
+
+[Chorus]
+And when we do
+I'll have time to write the book on you
+Time to write the book on you
+Time to write the book on you
+
+
+
+
+[Verse 2]
+Sitting on the kitchen counter
+Counting bug bites on your thighs
+Just another southern summer
+
+
+Sweating bullets in the highs
+Watermelon dripping down your chin
+Laughing 'til you cry
+Sweetest tears I ever tasted
+Kissing salt out of your eyes
+
+
+I've been circumventing your pet peeves
+Bending over backwards every time that you say please
+I just wanna make you happy
+Will you let me spend a lifetime trying?
+
+
+[Chorus: Dacus & Baker]
+And if you do
+I'll have time to write the book on you
+
+
+Time to write the book on you
+Time to write the book on you
+Finally time to write the book on you
+
+
+
+
+[Verse 3]
+I still believe in God sometimes
+
+
+It always takes me by surprise
+To catch myself in the middle of praying
+But I thank God for you
+When I don't know what else to do
+Don't know where the words go, but I still say ‘em
+
+
+
+
+[Bridge]
+If it's not God, it's Fate
+If it's not Fate, it’s Chance
+If it's my chance, I'm gonna take it
+
+
+'Cause who gets the chance
+Like the one that I have
+To catch the most wanted man in West Tennessee?
+
+
+[Outro]
+If you let me write the book
+Open the hood and take a look
+
+
+I promise anything you give to me
+Is something I will keep
+
+
+We can burn it when it’s done
+Soot and cinder in the sun
+
+
+Nothing left for anyone to read and weep
+
+
+      13. Lost Time 
+
+
+[Verse 1]
+The sky is grey, the trees are pink
+
+
+It's almost spring and I can't wait and I can't think
+
+
+The sidewalk's paved with petals like a wedding aisle
+I wonder how long it would take to walk eight hundred miles
+
+
+
+
+[Pre-Chorus]
+To say I do, I did, I will, I would
+
+
+I'm not sorry, not certain, not perfect, not good
+
+
+[Chorus]
+But I love you, and every day
+That I knew and didn't say
+Is lost time
+
+
+Now I'm knocking down your door
+'Cause I'm trying to make up for
+Lost time
+
+
+[Verse 2]
+Wish you were here, wish I was there
+I wish that we could have a place that we could share
+
+
+Not only stolen moments in abandoned halls
+Quiet touch in elevators and bathroom stalls
+
+
+[Pre-Chorus]
+But I will, I would, I did, I do
+For the thrill, for my health, for myself, for you
+
+
+[Chorus]
+'Cause I love you, and every day
+That I knew and didn't say
+Is lost time
+
+
+Now I'm knocking down your door
+'Cause I'm trying to make up for
+Lost time
+
+
+[Post-Chorus]
+Nothing lasts forever, but let's see how far we get
+So when it comes my time to lose you
+I'll have made the most of it
+
+
+[Bridge]
+
+
+Our formal attire on the floor, in a pile
+
+
+In the morning, I will fold it while you get ready for work
+I hear you singing in the shower
+It's the song I showed you years ago
+
+
+It's nice to know you listen to it after all this time
+I put your clothes on the dresser with your 60 day chip
+
+
+And your broken gold chain, your unpaid parking ticket
+
+
+I notice everything about you, I can't help it
+It's not a choice, it's been this way since we met
+
+
+[Outro]
+'Cause I love you, and every day
+That I knew and didn't say
+Is a crying shame
+
+
+It's a crime
+A waste of space
+Lost time
